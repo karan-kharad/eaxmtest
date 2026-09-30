@@ -67,9 +67,9 @@ function renderExamGrid() {
             <div class="exam-card" onclick="startExam(${index})">
                 <h3>${exam.name}</h3>
                 <div class="exam-meta">
-                    <span>📝 ${exam.questions.length} Questions</span>
-                    <span>⏱️ 2 Hours</span>
-                    <span>📊 ${exam.questions.length} Marks</span>
+                    <span>Questions: ${exam.questions.length}</span>
+                    <span>Duration: 2 Hours</span>
+                    <span>Marks: ${exam.questions.length}</span>
                 </div>
                 <span class="exam-status ${status.class}">${status.text}</span>
             </div>
@@ -78,19 +78,23 @@ function renderExamGrid() {
 }
 
 // Create 4 exams from the question bank
+// Exam 1: 100 questions, Exam 2: 100 questions, Exam 3: 100 questions, Exam 4: 50 questions
 function createExams() {
     const exams = [];
-    const questionsPerExam = 100;
-    const totalExams = 4;
+    const examSizes = [100, 100, 100, 50]; // Total: 350 questions
 
-    // Shuffle questions for each exam
-    for (let i = 0; i < totalExams; i++) {
-        const shuffled = [...questionBank].sort(() => Math.random() - 0.5);
-        const examQuestions = shuffled.slice(0, questionsPerExam);
+    // Shuffle all questions
+    const shuffled = [...questionBank].sort(() => Math.random() - 0.5);
+
+    let startIndex = 0;
+    for (let i = 0; i < examSizes.length; i++) {
+        const size = examSizes[i];
+        const examQuestions = shuffled.slice(startIndex, startIndex + size);
         exams.push({
             name: `Exam ${i + 1}`,
             questions: examQuestions
         });
+        startIndex += size;
     }
 
     return exams;
