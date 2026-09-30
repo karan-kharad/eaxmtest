@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Progress files (regenerated on each run)
+progress.json
+
+# Virtual environments
+venv/
+.venv/
