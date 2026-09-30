@@ -1,0 +1,1894 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the most important determinant of extracellular volume (ECF)?",
+    "options": [
+      "Total body potassium",
+      "Plasma protein concentration",
+      "Total body sodium",
+      "Glucose concentration"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 2,
+    "question": "What is  Homeostasis?",
+    "options": [
+      "The body's immune response to infection",
+      "The process of cell division and growth",
+      "The maintenance of a stable internal environment",
+      "The breakdown of nutrients for energy"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 3,
+    "question": "Which neural structure receives sensory information from stomach distension after a meal via afferent nerve signals?",
+    "options": [
+      "Motor cortex",
+      "Hippocampus",
+      "Nucleus of the solitary tract",
+      "Cerebellum"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 4,
+    "question": "Which best describes the structural and functional unit of life?",
+    "options": [
+      "Organ",
+      "Tissue",
+      "Molecule",
+      "Cell"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 5,
+    "question": "Which cellular organelle is primarily responsible for energy (ATP) production in eukaryotic cells?",
+    "options": [
+      "Ribosomes",
+      "Endoplasmic Reticulum",
+      "Mitochondria",
+      "Golgi Apparatus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 6,
+    "question": "Which correctly matches the junction with its major protein?",
+    "options": [
+      "Tight junction - Actin",
+      "Gap junction - Connexin",
+      "Desmosome - Tubulin",
+      "Adherens junction - Keratin"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "question": "Which is the principal extracellular cation in body fluids?",
+    "options": [
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Sodium (Na+)",
+      "Magnesium (Mg2+)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 8,
+    "question": "Which compartment contains the largest proportion of total body water?",
+    "options": [
+      "Plasma",
+      "Interstitial fluid",
+      "Intracellular fluid",
+      "Transcellular fluid"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 9,
+    "question": "Which statement correctly differentiates intracellular from extracellular fluid composition?",
+    "options": [
+      "Extracellular fluid has a higher concentration of potassium ions.",
+      "Intracellular fluid has a higher concentration of sodium ions.",
+      "Extracellular fluid has a lower concentration of chloride ions.",
+      "Intracellular fluid has a higher concentration of potassium ions and proteins compared to extracellular fluid."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 10,
+    "question": "Which electrolyte is the active transporter?",
+    "options": [
+      "Chloride (Cl-)",
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Sodium (Na+)"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 11,
+    "question": "Which transport process doesn’t follow ‘saturation kinetics’?",
+    "options": [
+      "Facilitated diffusion",
+      "Primary active transport",
+      "Secondary active transport",
+      "Simple diffusion"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 12,
+    "question": "Which statement best describes the Na⁺/K⁺ ATPase pump?",
+    "options": [
+      "Pumps 2 Na⁺ into the cell and 3 K⁺ out, consuming ATP.",
+      "Facilitates the passive movement of Na⁺ and K⁺ down their concentration gradients.",
+      "Pumps 3 Na⁺ out of the cell and 2 K⁺ into the cell, utilizing ATP.",
+      "Is a secondary active transporter that co-transports Na⁺ and glucose."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 13,
+    "question": "During the depolarization phase of an action potential, which change occurs?",
+    "options": [
+      "Voltage-gated K⁺ channels open, allowing K⁺ efflux.",
+      "Voltage-gated Na⁺ channels open, allowing Na⁺ influx.",
+      "Cl⁻ channels open, causing Cl⁻ influx.",
+      "Ca²⁺ channels open, leading to Ca²⁺ influx."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 14,
+    "question": "Which ionic movement is primarily responsible for repolarization of the neuronal membrane?",
+    "options": [
+      "Na⁺ influx into the cell.",
+      "Cl⁻ influx into the cell.",
+      "K⁺ efflux out of the cell.",
+      "Ca²⁺ influx into the cell."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 15,
+    "question": "Which event is responsible for the refractory period during an action potential?",
+    "options": [
+      "Increased activity of the Na⁺/K⁺ ATPase pump.",
+      "Inactivation of voltage-gated Na⁺ channels.",
+      "Rapid opening of voltage-gated Ca²⁺ channels.",
+      "Sustained Cl⁻ influx into the cell."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 16,
+    "question": "The sarcomere is a functional unit which gives skeletal and cardiac muscles their striated appearance, which was first described by Van Leeuwenhoek. A sarcomere is defined as the segment between two neighboring Z-lines. They act as an anchoring point of the actin filaments. Surrounding the Z-line is the region of the I-band. 1- Band is the zone of thin filaments that is not superimposed by thick filaments. Named for their properties under a polarizing microscope, an A-band contains the entire length of a single thick filament. The Anisotropic band contains both thick and thin filaments. Which decreases in length during the contraction of skeletal muscle fiber?",
+    "options": [
+      "A-band",
+      "Z-line",
+      "I-band and H-zone",
+      "M-line"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 17,
+    "question": "Which phase of the neuronal action potential corresponds to the absolute refractory period?",
+    "options": [
+      "Hyperpolarization.",
+      "Repolarization only.",
+      "Depolarization and the early part of repolarization.",
+      "Resting membrane potential."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "question": "A neuron fails to repolarize after an action potential. Which is the most likely cause?",
+    "options": [
+      "Excessive opening of Na⁺ channels.",
+      "Increased activity of the Na⁺/K⁺ ATPase pump.",
+      "Blockage of voltage-gated K⁺ channels.",
+      "Overactive Cl⁻ channels."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 19,
+    "question": "Where is extends Pseudo H zone in a sarcomere?",
+    "options": [
+      "Within the I-band.",
+      "Spanning the entire sarcomere.",
+      "The central part of the A-band, containing only thick filaments.",
+      "Between the Z-line and the I-band."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 20,
+    "question": "At rest, myosin heads are bound with adenosine diphosphate (said to be in a \"cocked\" position) in relation to the thin filament that does not have Ca 2+ bound to the troponin- tropomyosin complex. Ca 2+ bound to the troponin- tropomyosin complex induces a conformational change in the thin filament that allows for myosin heads to cross-bridge with thin filament actin. Which one of the following triggers the detachment of the myosin head from the actin filament?",
+    "options": [
+      "Release of inorganic phosphate from the myosin head.",
+      "Hydrolysis of ATP into ADP + Pi.",
+      "Binding of a new ATP molecule to the myosin head.",
+      "Release of Ca²⁺ from troponin."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 21,
+    "question": "Which proteins is present in skeletal muscles, but absent in a smooth muscle?",
+    "options": [
+      "Actin",
+      "Myosin",
+      "Tropomyosin",
+      "Troponin"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 22,
+    "question": "Which best explains the “power stroke” during cross-bridge cycling in skeletal muscle?",
+    "options": [
+      "ATP binding to myosin, causing detachment from actin.",
+      "Hydrolysis of ATP by myosin ATPase, cocking the myosin head.",
+      "Release of inorganic phosphate and ADP from the myosin head, causing it to pivot.",
+      "Binding of Ca²⁺ to troponin, exposing myosin-binding sites on actin."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 23,
+    "question": "Which statement about excitation–contraction coupling in skeletal muscle is TRUE?",
+    "options": [
+      "L-type Ca²⁺ channels on the sarcolemma directly release Ca²⁺ into the sarcoplasm.",
+      "Ryanodine receptors on the sarcoplasmic reticulum are activated by Ca²⁺ entering from the extracellular fluid.",
+      "Dihydropyridine receptors in the T-tubule membrane are mechanically linked to ryanodine receptors.",
+      "Tropomyosin binds Ca²⁺, initiating the conformational change that exposes myosin-binding sites."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 24,
+    "question": "Which event terminates skeletal muscle contraction?",
+    "options": [
+      "Release of acetylcholine from the motor neuron.",
+      "Binding of ATP to myosin heads.",
+      "Active transport of Ca²⁺ back into the sarcoplasmic reticulum.",
+      "Inactivation of acetylcholine receptors at the motor end plate."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 25,
+    "question": "Which protein contains the Ca²⁺ binding site that initiates cross-bridge formation in skeletal muscle?",
+    "options": [
+      "Actin",
+      "Tropomyosin",
+      "Myosin",
+      "Troponin"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 26,
+    "question": "Which best differentiates skeletal from cardiac muscle excitation–contraction coupling?",
+    "options": [
+      "Cardiac muscle requires ATP for cross-bridge cycling, while skeletal muscle does not.",
+      "Skeletal muscle's DHP receptors are mechanically linked to RyR channels, unlike cardiac muscle.",
+      "Cardiac muscle utilizes troponin-tropomyosin complex, whereas skeletal muscle does not.",
+      "Skeletal muscle has a longer refractory period due to prolonged Ca²⁺ influx."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 27,
+    "question": "At the neuromuscular junction, which step directly triggers muscle fiber depolarization?",
+    "options": [
+      "Acetylcholine binding to muscarinic receptors.",
+      "Opening of voltage-gated Ca²⁺ channels on the presynaptic terminal.",
+      "Activation of nicotinic acetylcholine receptors, leading to Na⁺ influx.",
+      "Hydrolysis of acetylcholine by acetylcholinesterase."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 28,
+    "question": "Which type of motor neurons innervate the intrafusal fibers of striated skeletal muscle?",
+    "options": [
+      "Alpha motor neurons",
+      "Gamma motor neurons",
+      "Beta motor neurons",
+      "Sensory neurons"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 29,
+    "question": "Which is an example of a primarily inhibitory amino acid neurotransmitter?",
+    "options": [
+      "Acetylcholine",
+      "Norepinephrine",
+      "GABA",
+      "Serotonin"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 30,
+    "question": "Which is relation between nerve thickness and conduction velocity?",
+    "options": [
+      "Thicker nerves have slower conduction velocity.",
+      "Thinner nerves have faster conduction velocity.",
+      "Nerve thickness is directly proportional to conduction velocity.",
+      "Nerve thickness is inversely proportional to conduction velocity."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 31,
+    "question": "What is the functional unit of the nervous system?",
+    "options": [
+      "Neuron",
+      "Glia",
+      "Synapse",
+      "Nerve fiber"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 32,
+    "question": "Which neurotransmitters is excitatory at most synapses in the central nervous system?",
+    "options": [
+      "GABA",
+      "Glycine",
+      "Glutamate",
+      "Acetylcholine"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 33,
+    "question": "Which mechanisms does the hypothalamus use to maintain homeostasis?",
+    "options": [
+      "Processing sensory input for conscious perception",
+      "Regulating hormone release, autonomic function, and behavioral responses",
+      "Coordinating complex motor sequences",
+      "Storing long-term memories"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 34,
+    "question": "Which brain structures is primarily responsible for coordination of voluntary movement and posture?",
+    "options": [
+      "Thalamus",
+      "Hippocampus",
+      "Cerebellum",
+      "Amygdala"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 35,
+    "question": "Which function is primarily associated with the basal ganglia?",
+    "options": [
+      "Regulating sleep-wake cycles",
+      "Initiating and modulating voluntary movement",
+      "Processing emotional responses",
+      "Forming new declarative memories"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 36,
+    "question": "Which functions is primarily associated with the limbic system?",
+    "options": [
+      "Fine motor control and balance",
+      "Emotion, motivation, and memory",
+      "Sensory relay and conscious perception",
+      "Regulation of breathing and heart rate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "question": "Across Which structures is unidirectional transport observed?",
+    "options": [
+      "Gap junction",
+      "Tight junction",
+      "Synapse",
+      "Desmosome"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 38,
+    "question": "Which neurotransmitter is released from preganglionic fibers of both sympathetic and parasympathetic systems?",
+    "options": [
+      "Norepinephrine",
+      "Acetylcholine",
+      "Epinephrine",
+      "Dopamine"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 39,
+    "question": "Which neurotransmitter is usually released by postganglionic fibers of the sympathetic nervous system?",
+    "options": [
+      "Acetylcholine",
+      "Serotonin",
+      "Norepinephrine",
+      "Dopamine"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 40,
+    "question": "What is the correct descending order of nerve impulse transmission velocity among the following nerve fibers?",
+    "options": [
+      "A-alpha fibers > A-delta fibers > C fibers",
+      "C fibers > A-beta fibers > A-alpha fibers",
+      "B fibers > A-alpha fibers > A-delta fibers",
+      "A-delta fibers > B fibers > C fibers"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 41,
+    "question": "Which is a nucleus of basal ganglia?",
+    "options": [
+      "Red nucleus",
+      "Claustrum",
+      "Amygdala",
+      "Subthalamic nucleus"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 42,
+    "question": "Which best explains why the effect of sympathetic stimulation is more widespread and longer lasting than that of parasympathetic stimulation?",
+    "options": [
+      "Sympathetic postganglionic neurons release acetylcholine.",
+      "Parasympathetic preganglionic neurons are longer than sympathetic preganglionic neurons.",
+      "Norepinephrine from the adrenal medulla is released into the bloodstream and circulates widely.",
+      "Sympathetic neurotransmitters are quickly degraded by acetylcholinesterase."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 43,
+    "question": "Which receptors mediates relaxation of bronchial smooth muscle during sympathetic activation?",
+    "options": [
+      "Alpha-1 adrenergic receptors",
+      "Beta-1 adrenergic receptors",
+      "Beta-2 adrenergic receptors",
+      "Muscarinic receptors"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 44,
+    "question": "Which structures has only sympathetic innervation and lacks parasympathetic supply?",
+    "options": [
+      "Salivary glands",
+      "Adrenal medulla",
+      "Heart",
+      "Gastrointestinal tract"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 45,
+    "question": "Which best describes the action of the parasympathetic nervous system on the urinary bladder?",
+    "options": [
+      "Relaxes the detrusor muscle and constricts the internal urethral sphincter.",
+      "Contracts the detrusor muscle and relaxes the internal urethral sphincter.",
+      "Has no significant effect on bladder function.",
+      "Primarily controls external urethral sphincter tone."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 46,
+    "question": "Which is NOT caused by sympathetic stimulation?",
+    "options": [
+      "Mydriasis",
+      "Bronchodilation",
+      "Increased gastrointestinal motility",
+      "Glycogenolysis"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 47,
+    "question": "A pool of presynaptic neurons innervate the dendrites of a postsynaptic neuron. Electrical signals are transferred from the dendrites to the soma of the postsynaptic neuron by which process?",
+    "options": [
+      "Action potential propagation",
+      "Saltatory conduction",
+      "Electrotonic conduction",
+      "Synaptic transmission"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 48,
+    "question": "Which best describes the essential components of a reflex arc in the correct sequence?",
+    "options": [
+      "Effector, efferent neuron, integration center, afferent neuron, sensory receptor",
+      "Sensory receptor, afferent neuron, integration center, efferent neuron, effector",
+      "Afferent neuron, sensory receptor, effector, efferent neuron, integration center",
+      "Integration center, efferent neuron, sensory receptor, afferent neuron, effector"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "question": "The stretch reflex (myotatic reflex) is an example of which type of reflex?",
+    "options": [
+      "Polysynaptic, contralateral",
+      "Monosynaptic, ipsilateral",
+      "Visceral, ipsilateral",
+      "Monosynaptic, contralateral"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 50,
+    "question": "Which sensory receptor is responsible for detecting muscle stretch and the rate of change in muscle length?",
+    "options": [
+      "Pacinian corpuscles",
+      "Muscle spindles",
+      "Golgi tendon organs",
+      "Merkel cells"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 51,
+    "question": "Which statements correctly describes the function of the Golgi tendon organ?",
+    "options": [
+      "Detects muscle length and rate of change in length.",
+      "Initiates muscle contraction in response to stretch.",
+      "Monitors muscle tension and inhibits contraction of the homonymous muscle.",
+      "Facilitates muscle contraction during isometric exercises."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 52,
+    "question": "What is the mechanism by which calcium ions (Ca²⁺) initiate smooth muscle contraction following their release?",
+    "options": [
+      "Binding directly to troponin C, unmasking actin binding sites.",
+      "Directly phosphorylating myosin light chains, leading to cross-bridge formation.",
+      "Binding to calmodulin, which then activates myosin light chain kinase (MLCK) to phosphorylate myosin.",
+      "Activating adenyl cyclase, increasing cAMP, and causing muscle contraction."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 53,
+    "question": "In a decerebrate animal, Which reflex changes is most characteristic?",
+    "options": [
+      "Flaccid paralysis of all four limbs.",
+      "Enhanced flexor withdrawal reflexes.",
+      "Decerebrate rigidity, characterized by exaggerated extensor posture.",
+      "Absence of all spinal reflexes."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 54,
+    "question": "Which fibers are primarily responsible for mediating the inverse stretch reflex?",
+    "options": [
+      "Type Ia afferent fibers.",
+      "Type Ib afferent fibers.",
+      "Gamma motor neurons.",
+      "Alpha motor neurons."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 55,
+    "question": "Which nerve ganglia are responsible for the secretion of saliva?",
+    "options": [
+      "Ciliary and Pterygopalatine ganglia.",
+      "Submandibular and Otic ganglia.",
+      "Superior cervical and Stellate ganglia.",
+      "Trigeminal and Geniculate ganglia."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 56,
+    "question": "Which is the colored is the colored part of the eye?",
+    "options": [
+      "Cornea.",
+      "Retina.",
+      "Iris.",
+      "Sclera."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 57,
+    "question": "Which best represents an example of a phasic receptor?",
+    "options": [
+      "Nociceptor detecting constant pain.",
+      "Pacinian corpuscle responding to vibration.",
+      "Muscle spindle maintaining limb position.",
+      "Merkel cell detecting continuous pressure."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 58,
+    "question": "Which sense organ is primarily responsible for detecting odors and sending signals to then brain for interpretation?",
+    "options": [
+      "Retina.",
+      "Cochlea.",
+      "Olfactory epithelium.",
+      "Gustatory papillae."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 59,
+    "question": "Which of these organs is used to drain fluid from the inner ear into the throat?",
+    "options": [
+      "Semicircular canals.",
+      "Cochlea.",
+      "Eustachian tube.",
+      "Vestibule."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 60,
+    "question": "Which best explains how the central nervous system differentiates between modalities (touch, pain, temperature) when all sensory impulses are transmitted as action potentials?",
+    "options": [
+      "Differences in action potential amplitude.",
+      "Variation in the speed of nerve impulse conduction.",
+      "The \"labeled line\" principle, where specific pathways transmit information from distinct receptors to specific brain regions.",
+      "Chemical modification of neurotransmitters based on the stimulus type."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 61,
+    "question": "During sensory adaptation, receptor potential amplitude gradually declines with time despite constant stimulation. Which most accurately explains this phenomenon?",
+    "options": [
+      "Decreased number of neurotransmitter vesicles in the presynaptic terminal.",
+      "Inactivation of ion channels in the receptor membrane.",
+      "Increased reuptake of neurotransmitters from the synaptic cleft.",
+      "Depletion of intracellular ATP stores in the receptor cell."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 62,
+    "question": "What is the effect of increasing the intensity of a tactile stimulus in the somatosensory system?",
+    "options": [
+      "Decreased frequency of action potentials in afferent neurons.",
+      "Activation of a smaller population of mechanoreceptors.",
+      "Increased frequency of action potentials in afferent neurons.",
+      "Shifting the perception from touch to pain."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 63,
+    "question": "Which receptor types is least likely to exhibit significant adaptation?",
+    "options": [
+      "Pacinian corpuscles",
+      "Olfactory receptors",
+      "Nociceptors",
+      "Meissner's corpuscles"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 64,
+    "question": "The potential changes that initiate action potentials in the retina are generated by the action of light on photosensitive compounds in the rods and cones. When light is absorbed by these substances, their structure changes and this t riggers a sequence of event s that initiates the neural activity. Which layers of the retina does light enter the eye pass through first?",
+    "options": [
+      "Pigmented layer.",
+      "Photoreceptor layer (rods and cones).",
+      "Ganglion cell layer.",
+      "Outer plexiform layer."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 65,
+    "question": "The auditory cortex, which receives impulses via the medial geniculate body, is located on which part of the brain?",
+    "options": [
+      "Occipital lobe.",
+      "Parietal lobe.",
+      "Frontal lobe.",
+      "Temporal lobe."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 66,
+    "question": "The Organ of Corti on the basilar membrane extends from the apex to the base of the cochlea and thus has a spiral shape. This structure contains the highly specialized auditory receptors (hair cells) whose processes pierce the tough, membrane-like reticular lamina that is supported by the pillar cells or rods of Corti. Which ions initiates the transmission of sound by the organ of Corti?",
+    "options": [
+      "Sodium (Na+)",
+      "Calcium (Ca2+)",
+      "Potassium (K+)",
+      "Chloride (Cl-)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 67,
+    "question": "The optic nerve fibers from the nasal retina of each eye decussate at the optic chiasm. Which visual field would be lost if the right optic tract were damaged?",
+    "options": [
+      "Right nasal visual field.",
+      "Left temporal visual field.",
+      "Entire left visual field.",
+      "Entire right visual field."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 68,
+    "question": "What is the primary mechanism by which the pitch (frequency) of sound is encoded in the auditory system?",
+    "options": [
+      "The amplitude of hair cell vibrations.",
+      "The rate of action potentials in individual auditory nerve fibers.",
+      "The specific location along the basilar membrane that is maximally stimulated.",
+      "The total number of auditory nerve fibers activated."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 69,
+    "question": "Damage to the right auditory cortex (Heschl’s gyrus) results in which deficit?",
+    "options": [
+      "Complete deafness in the right ear.",
+      "Complete deafness in the left ear.",
+      "Difficulty localizing sounds and understanding complex auditory patterns, especially from the left side.",
+      "Impaired vision in the right visual field."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 70,
+    "question": "A 25-year-old student with 20/20 vision looks up from his book to view his girlfriend sitting on the other side of the room. Which is most likely to occur when the student changes his view from his book to his girlfriend?",
+    "options": [
+      "Ciliary muscles contract, and the lens becomes more convex.",
+      "Ciliary muscles relax, and the lens becomes less convex (flatter).",
+      "Pupil constricts to increase depth of field.",
+      "Suspensory ligaments relax, increasing the curvature of the lens."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 71,
+    "question": "In bright light, photoreceptor adaptation (light adaptation) involves which key cellular mechanism?",
+    "options": [
+      "Increased cGMP production leading to channel opening",
+      "Decreased intracellular Ca2+ concentration, activating guanylate cyclase",
+      "Phosphorylation of photopigments and binding of arrestin",
+      "Enhanced production of transducin"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 72,
+    "question": "Lesion of Meyer's loop (temporal radiation fibers) in the visual pathway produces which specific field defect?",
+    "options": [
+      "Contralateral superior homonymous quadrantanopia",
+      "Ipsilateral superior homonymous quadrantanopia",
+      "Contralateral inferior homonymous quadrantanopia",
+      "Bilateral temporal hemianopia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 73,
+    "question": "Which components primarily engages in oxygen transport in blood?",
+    "options": [
+      "Plasma proteins",
+      "Hemoglobin within red blood cells",
+      "Dissolved oxygen in plasma",
+      "White blood cells"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 74,
+    "question": "In Which is no counterflow mechanism observed?",
+    "options": [
+      "Renal tubules",
+      "Gills of fish",
+      "Lungs",
+      "Testicular blood vessels"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 75,
+    "question": "What does plasma contain that distinguishes it from serum?",
+    "options": [
+      "Albumin",
+      "Immunoglobulins",
+      "Fibrinogen",
+      "Electrolytes"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 76,
+    "question": "The oxygen-binding capacity of hemoglobin decreases most when Which conditions occurs?",
+    "options": [
+      "A decrease in pH",
+      "An increase in 2,3-BPG",
+      "Exposure to carbon monoxide",
+      "A decrease in body temperature"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 77,
+    "question": "What is the predominant type of hemoglobin present during fetal life?",
+    "options": [
+      "Hemoglobin A (HbA)",
+      "Hemoglobin F (HbF)",
+      "Hemoglobin A2 (HbA2)",
+      "Hemoglobin S (HbS)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 78,
+    "question": "Which form of hemoglobin has the highest affinity for oxygen?",
+    "options": [
+      "Hemoglobin A (HbA)",
+      "Hemoglobin F (HbF)",
+      "Myoglobin",
+      "Hemoglobin S (HbS)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 79,
+    "question": "Which changes occurs in RBCs of stored blood?",
+    "options": [
+      "Increased intracellular ATP and 2,3-BPG",
+      "Decreased osmotic fragility and increased pH",
+      "Decreased ATP and 2,3-BPG, leading to a leftward shift of the oxygen dissociation curve",
+      "Increased membrane fluidity and cellular volume"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 80,
+    "question": "Plasma is a transparent, straw-colored, liquid portion of the blood which is acquired after centrifuging blood with an anticoagulant. Serum is an undiluted fluid, the extracellular portion of blood that is acquired after centrifuging of coagulated blood. Which one of the following is present in both Serum and Plasma?",
+    "options": [
+      "Fibrinogen",
+      "Clotting factors V and VIII",
+      "Albumin",
+      "Platelets"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 81,
+    "question": "A woman whose blood type is A, Rh positive and a man whose blood type is B, Rh positive come to the clinic with a 3-year-old girl whose blood type is 0, Rh negative. Which would be correct about the attitude of these two adults towards this child?",
+    "options": [
+      "The man is not the biological father of the child.",
+      "The woman is not the biological mother of the child.",
+      "Both adults are biological parents of the child.",
+      "Further genetic testing is required to determine paternity and maternity."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 82,
+    "question": "Which hemoglobin variant shows the lowest affinity for 2,3-BPG?",
+    "options": [
+      "Hemoglobin A (HbA)",
+      "Hemoglobin S (HbS)",
+      "Hemoglobin F (HbF)",
+      "Carboxyhemoglobin (COHb)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 83,
+    "question": "Which conditions would shift the oxygen-hemoglobin dissociation curve farthest to the left?",
+    "options": [
+      "Increased 2,3-BPG, acidosis, hyperthermia",
+      "Decreased 2,3-BPG, alkalosis, hypothermia",
+      "Increased PCO2, acidosis, hypothermia",
+      "Decreased PCO2, normal pH, fever"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 84,
+    "question": "Which statement correctly explains why venous blood has lower affinity for oxygen than arterial blood?",
+    "options": [
+      "Venous blood has a higher pH due to bicarbonate buffering.",
+      "Venous blood has a lower temperature due to heat exchange in capillaries.",
+      "Venous blood has higher PCO2 and lower pH.",
+      "Venous blood contains more fetal hemoglobin."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 85,
+    "question": "What primarily mediates the initial vascular response to vessel injury?",
+    "options": [
+      "Activation of the extrinsic coagulation pathway.",
+      "Release of tissue plasminogen activator (t-PA).",
+      "Local vasoconstriction mediated by endothelial factors and neural reflexes.",
+      "Systemic hypotension caused by blood loss."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 86,
+    "question": "Platelets adhere to the subendothelial surface primarily through which molecular interaction?",
+    "options": [
+      "Fibrinogen binding to GP IIb/IIIa receptors.",
+      "Von Willebrand factor (vWF) binding to platelet GP Ib/IX/V and exposed collagen.",
+      "Thrombin binding to PAR-1 receptors.",
+      "Tissue factor initiating the extrinsic coagulation pathway."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "question": "Which platelet receptors mediates platelet–platelet aggregation?",
+    "options": [
+      "Glycoprotein Ib (GP Ib)",
+      "P2Y12 receptor",
+      "Glycoprotein IIb/IIIa (GP IIb/IIIa)",
+      "PAR-1 receptor"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 88,
+    "question": "Which best explains why Vitamin K deficiency leads to a prolonged prothrombin time (PT) before the activated partial thromboplastin time (aPTT)?",
+    "options": [
+      "Factor VII has a shorter half-life than Factor IX.",
+      "The extrinsic pathway is exclusively dependent on Vitamin K-dependent factors.",
+      "The aPTT measures only factors independent of Vitamin K.",
+      "Vitamin K primarily affects the activation of thrombin in the intrinsic pathway."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 89,
+    "question": "What is the effect of thrombin binding to PAR-1 receptors during platelet activation?",
+    "options": [
+      "Directly initiates fibrinolysis.",
+      "Inhibits platelet aggregation.",
+      "Induces intracellular signaling leading to platelet activation and aggregation.",
+      "Promotes platelet adhesion to exposed collagen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 90,
+    "question": "Which mechanisms provides negative feedback regulation in the coagulation cascade?",
+    "options": [
+      "Activation of the intrinsic pathway by Factor XII.",
+      "Thrombin's conversion of fibrinogen to fibrin.",
+      "Activated Protein C inactivating Factors Va and VIIIa.",
+      "Platelet adhesion to exposed collagen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 91,
+    "question": "Which describes the appearance of erythrocytes under a microscope?",
+    "options": [
+      "Large, spherical cells with a prominent nucleus.",
+      "Small, biconcave discs lacking a nucleus.",
+      "Irregularly shaped, phagocytic cells with granules.",
+      "Spindle-shaped cells with contractile proteins."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 92,
+    "question": "What is the best description of ABO blood group antigens?",
+    "options": [
+      "Antibodies found in the plasma that react with foreign red blood cells.",
+      "Proteins located within the cytoplasm of platelets, involved in clotting.",
+      "Glycoproteins or glycolipids expressed on the surface of red blood cells.",
+      "Receptor molecules found on the surface of white blood cells, mediating immune responses."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 93,
+    "question": "Which statement best explains the universal donor property of O negative blood?",
+    "options": [
+      "It contains both anti-A and anti-B antibodies, which can neutralize recipient antigens.",
+      "It has an absence of A, B, and Rh antigens on the red blood cell surface.",
+      "Its red blood cells have a unique membrane structure that prevents agglutination.",
+      "It produces a special type of hemoglobin that is compatible with all blood types."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 94,
+    "question": "In a patient with severe liver disease, Which blood group antigens is most likely to show reduced expression on RBCs?",
+    "options": [
+      "Rh antigens.",
+      "ABO antigens.",
+      "Kell antigens.",
+      "Lewis antigens."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 95,
+    "question": "Why is ABO incompatibility more likely to cause severe hemolysis compared to Rh incompatibility?",
+    "options": [
+      "ABO antigens are more abundant on the red blood cell surface.",
+      "ABO antibodies are primarily IgM, which are highly efficient at activating complement.",
+      "Rh antibodies are typically IgA, which are less potent hemolytic agents.",
+      "Rh antigens are less immunogenic than ABO antigens."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 96,
+    "question": "Which genetic mutations would result in the Bombay blood group phenotype?",
+    "options": [
+      "A mutation in the ABO gene causing non-functional A or B transferase.",
+      "A homozygous mutation in the H gene (FUT1) leading to the absence of H antigen.",
+      "Duplication of the RhD gene, increasing D antigen expression.",
+      "A mutation leading to overexpression of the secretor gene (FUT2)."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 97,
+    "question": "What are the \"Gate\" cells in the heart?",
+    "options": [
+      "Sinoatrial (SA) node cells, due to their role as the primary pacemaker.",
+      "Atrioventricular (AV) node cells, which delay impulse transmission to the ventricles.",
+      "Purkinje fibers, responsible for rapid conduction throughout the ventricles.",
+      "Cardiac contractile myocytes, which generate the main pumping force."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 98,
+    "question": "In which part of the circulation does the greatest drop in systemic arterial blood pressure occur?",
+    "options": [
+      "Large elastic arteries (e.g., aorta).",
+      "Capillaries.",
+      "Arterioles.",
+      "Vena cava."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 99,
+    "question": "Which ion plays the most critical role in maintaining the plateau phase (Phase 2) of the cardiac muscle action potential?",
+    "options": [
+      "Sodium (Na+).",
+      "Potassium (K+).",
+      "Calcium (Ca2+).",
+      "Chloride (Cl-)."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 100,
+    "question": "During which phase of the cardiac cycle are both the atrioventricular (AV) and semilunar valves closed while the ventricular volume remains constant?",
+    "options": [
+      "Ventricular ejection.",
+      "Isovolumetric contraction.",
+      "Ventricular filling.",
+      "Atrial systole."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 101,
+    "question": "What is the effect of vagus nerve stimulation during the cephalic phase of digestion?",
+    "options": [
+      "Inhibition of gastric acid secretion.",
+      "Increased pancreatic bicarbonate secretion.",
+      "Stimulation of gastric acid and pepsinogen secretion.",
+      "Relaxation of the lower esophageal sphincter."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 102,
+    "question": "What is the major underlying mechanism responsible for impaired gastric emptying of liquids following vagotomy?",
+    "options": [
+      "Reduced frequency of antral contractions.",
+      "Enhanced pyloric sphincter opening.",
+      "Loss of receptive relaxation of the fundus.",
+      "Increased duodenal feedback inhibition."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 103,
+    "question": "Which statements regarding saliva is true under resting conditions?",
+    "options": [
+      "It is hypertonic relative to plasma.",
+      "Its primary electrolyte composition is identical to plasma.",
+      "It contains enzymes for both carbohydrate and lipid digestion.",
+      "Its flow rate is maximally stimulated."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 104,
+    "question": "What does the “Law of the intestine” refer to?",
+    "options": [
+      "The regulation of nutrient absorption in the ileum.",
+      "The mechanism of haustral churning in the colon.",
+      "Coordinated propulsion of chyme involving contraction proximal and relaxation distal to a bolus.",
+      "The role of bacterial flora in vitamin synthesis."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 105,
+    "question": "Which most accurately explains why saliva becomes hypotonic as it leaves the duct?",
+    "options": [
+      "Active secretion of water into the ducts.",
+      "Greater reabsorption of solutes (Na+, Cl-) than secretion of solutes (K+, HCO3-) in the ductal cells, with low water permeability.",
+      "Primary saliva being initially hypotonic in the acini.",
+      "High water permeability of the ductal cells allowing water to exit faster than solutes."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 106,
+    "question": "Which hormone primarily inhibits gastric emptying by acting on the pyloric sphincter when fatty chyme enters the duodenum?",
+    "options": [
+      "Gastrin.",
+      "Secretin.",
+      "Cholecystokinin (CCK).",
+      "Motilin."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 107,
+    "question": "In absence of carbonic anhydrase activity in parietal cells, which process is most affected?",
+    "options": [
+      "The transport of chloride ions into the gastric lumen.",
+      "The generation of hydrogen ions for acid secretion.",
+      "The secretion of intrinsic factor.",
+      "The synthesis of carbonic anhydrase itself."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 108,
+    "question": "When chyme containing high acid content enters the duodenum, Which responses is most accurately expected?",
+    "options": [
+      "Increased gastric acid secretion.",
+      "Release of cholecystokinin (CCK).",
+      "Stimulation of pancreatic bicarbonate secretion.",
+      "Accelerated gastric emptying."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 109,
+    "question": "Which cells is the primary source of intrinsic factor, and what is its physiologic significance?",
+    "options": [
+      "Chief cells; facilitates fat absorption.",
+      "G cells; stimulates gastric acid secretion.",
+      "Parietal cells; essential for vitamin B12 absorption.",
+      "Enterochromaffin-like (ECL) cells; promotes histamine release."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 110,
+    "question": "During the intestinal phase of digestion, amino acids and peptides in the duodenum mainly stimulate which hormone to enhance pancreatic enzyme secretion?",
+    "options": [
+      "Secretin.",
+      "Gastrin.",
+      "Cholecystokinin (CCK).",
+      "Vasoactive Intestinal Peptide (VIP)."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 111,
+    "question": "Which mechanisms explains glucose absorption from the intestinal lumen into enterocytes?",
+    "options": [
+      "Primary active transport by Na+/K+-ATPase.",
+      "Facilitated diffusion via GLUT5.",
+      "Secondary active transport via SGLT1 and facilitated diffusion via GLUT2.",
+      "Simple diffusion directly across the lipid bilayer."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 112,
+    "question": "Which statements regarding gastric juice composition is correct?",
+    "options": [
+      "Parietal cells secrete pepsinogen.",
+      "Chief cells secrete intrinsic factor.",
+      "Hydrochloric acid is secreted by parietal cells.",
+      "Gastrin is a primary component of gastric juice."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 113,
+    "question": "Which best describes the physiological role of enterokinase (enteropeptidase)?",
+    "options": [
+      "It cleaves peptide bonds of proteins in the stomach.",
+      "It activates chymotrypsinogen to chymotrypsin.",
+      "It converts trypsinogen into active trypsin.",
+      "It facilitates the absorption of vitamin B12."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 114,
+    "question": "A patient with steatorrhea has low levels of pancreatic lipase but normal bile secretion. Which step of fat digestion or absorption is primarily impaired?",
+    "options": [
+      "Emulsification of fats.",
+      "Formation of chylomicrons.",
+      "Digestion of triglycerides.",
+      "Transport of digested fats into the lymphatic system."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 115,
+    "question": "Which transporters mediates fructose absorption across the apical membrane of intestinal mucosa?",
+    "options": [
+      "SGLT1.",
+      "GLUT2.",
+      "GLUT5.",
+      "Na+/K+-ATPase."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 116,
+    "question": "Which accurately explains the role of bile salts in digestion and absorption?",
+    "options": [
+      "They directly break down triglycerides into fatty acids and glycerol.",
+      "They are enzymes that digest carbohydrates.",
+      "They emulsify fats and form micelles to aid in fat absorption.",
+      "They neutralize gastric acid in the duodenum."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 117,
+    "question": "Which pancreatic enzymes is secreted in an inactive form and later activated in the intestinal lumen?",
+    "options": [
+      "Amylase.",
+      "Lipase.",
+      "Trypsinogen.",
+      "DNAase."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 118,
+    "question": "In the regulation of pancreatic secretion, which hormone is most responsible for stimulating bicarbonate-rich fluid secretion from pancreatic ductal cells?",
+    "options": [
+      "Gastrin.",
+      "Cholecystokinin (CCK).",
+      "Secretin.",
+      "Vasoactive intestinal peptide (VIP)."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 119,
+    "question": "Which functions of the liver is not directly related to digestion?",
+    "options": [
+      "Production of bile.",
+      "Synthesis of albumin.",
+      "Metabolism of absorbed nutrients.",
+      "Detoxification of drugs."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 120,
+    "question": "A patient has obstruction of the common bile duct. Which consequences is most likely?",
+    "options": [
+      "Impaired gastric emptying due to reduced secretin release.",
+      "Increased absorption of fat-soluble vitamins.",
+      "Steatorrhea and jaundice.",
+      "Hyperglycemia due to decreased insulin secretion."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 121,
+    "question": "Which substrates yields the highest respiratory quotient (RQ) upon oxidation?",
+    "options": [
+      "Fatty acids",
+      "Glucose",
+      "Amino acids",
+      "Ketone bodies"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 122,
+    "question": "What process accounts for the major energy expenditure in a resting adult human body?",
+    "options": [
+      "Muscle contraction",
+      "Hormone synthesis",
+      "Digestion and absorption",
+      "Na+/K+ ATPase activity"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 123,
+    "question": "What doesn’t lie in renal medulla?",
+    "options": [
+      "Loop of Henle",
+      "Collecting duct",
+      "Glomerulus",
+      "Vasa recta"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 124,
+    "question": "Which is not an effect of Angiotensin II?",
+    "options": [
+      "Vasoconstriction",
+      "Increased aldosterone secretion",
+      "Decreased thirst sensation",
+      "Increased ADH secretion"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 125,
+    "question": "What is the approximate glomerular filtration rate (GFR) in a healthy adult?",
+    "options": [
+      "25 ml/min",
+      "60 ml/min",
+      "125 ml/min",
+      "250 ml/min"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 126,
+    "question": "Where does urine acidification occur?",
+    "options": [
+      "Glomerulus",
+      "Proximal convoluted tubule",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 127,
+    "question": "Which is responsible for neutralization hydrochloric acid?",
+    "options": [
+      "Pepsin",
+      "Gastrin",
+      "Secretin",
+      "Bicarbonate"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 128,
+    "question": "Which part of the nephron is impermeable to water under all physiological conditions?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Descending limb of Loop of Henle",
+      "Thick ascending limb of Loop of Henle",
+      "Collecting duct"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 129,
+    "question": "Experimental studies are conducted to study renal tubular transport proteins. A new drug is developed that specifically and completely inhibits glucose transport in proximal renal tubules. Which substances has the same clearance as these drug?\"",
+    "options": [
+      "Inulin",
+      "Creatinine",
+      "Para-aminohippurate (PAH)",
+      "Urea"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 130,
+    "question": "Which is effective renal plasma flow (in ml/ min) in human’s?",
+    "options": [
+      "50-100 ml/min",
+      "120-150 ml/min",
+      "200-300 ml/min",
+      "550-650 ml/min"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 131,
+    "question": "Which changes would increase glomerular filtration rate (GFR) the most?",
+    "options": [
+      "Constriction of the afferent arteriole",
+      "Dilation of the efferent arteriole",
+      "Increase in Bowman's capsule hydrostatic pressure",
+      "Dilation of the afferent arteriole"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 132,
+    "question": "A decrease in systemic blood pressure is sensed by the juxtaglomerular apparatus (JGA). Which is the most direct effect of this signal?",
+    "options": [
+      "Increased sodium reabsorption in the distal tubule",
+      "Increased antidiuretic hormone (ADH) secretion",
+      "Renin release from juxtaglomerular cells",
+      "Decreased glomerular filtration rate (GFR)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 133,
+    "question": "Why do plasma urea and creatinine levels increase in chronic kidney disease?",
+    "options": [
+      "Increased production of urea and creatinine",
+      "Decreased reabsorption of urea and creatinine",
+      "Reduced glomerular filtration rate (GFR)",
+      "Increased tubular secretion of these substances"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 134,
+    "question": "Which is true regarding renal autoregulation of GFR?",
+    "options": [
+      "It primarily involves hormonal control by ADH.",
+      "It maintains a relatively constant GFR over a wide range of mean arterial pressures.",
+      "It relies solely on the sympathetic nervous system.",
+      "It increases GFR when systemic blood pressure falls below 80 mmHg."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 135,
+    "question": "What is the main function of the renin–angiotensin–aldosterone system (RAAS)?",
+    "options": [
+      "Lowering blood pressure and inhibiting sodium reabsorption.",
+      "Regulating blood glucose levels.",
+      "Increasing blood pressure and blood volume.",
+      "Stimulating erythropoietin production."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 136,
+    "question": "Which will stimulate renin secretion?",
+    "options": [
+      "Increased systemic blood pressure",
+      "Increased sodium delivery to the macula densa",
+      "Activation of sympathetic nerves to the kidney",
+      "Increased extracellular fluid volume"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 137,
+    "question": "Which hormones is primarily responsible for increasing potassium excretion in urine?",
+    "options": [
+      "Antidiuretic hormone (ADH)",
+      "Parathyroid hormone (PTH)",
+      "Aldosterone",
+      "Atrial natriuretic peptide (ANP)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 138,
+    "question": "A patient’s creatinine clearance is measured to be 70 mL/min, while the normal average is 125 mL/min. What does this most likely indicate?",
+    "options": [
+      "Increased kidney function.",
+      "Normal kidney function, as creatinine clearance varies widely.",
+      "Decreased glomerular filtration rate (GFR).",
+      "Excessive hydration."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 139,
+    "question": "Which best defines renal clearance?",
+    "options": [
+      "The rate at which a substance is reabsorbed by the renal tubules.",
+      "The total amount of a substance filtered by the glomeruli per day.",
+      "The volume of plasma completely cleared of a substance by the kidneys per unit time.",
+      "The concentration of a substance in the urine relative to its plasma concentration."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 140,
+    "question": "Which is true about acid-base regulation in the kidney?",
+    "options": [
+      "The kidneys excrete fixed acids but cannot excrete volatile acids.",
+      "The primary mechanism is to directly excrete bicarbonate ions to lower pH.",
+      "They primarily regulate pH by reabsorbing bicarbonate and secreting hydrogen ions.",
+      "Renal compensation for acidosis is immediate and short-lived."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 141,
+    "question": "A patient’s urine sample shows proteinuria and red blood cells under microscopic examination. Which part of the nephron is most likely damaged? 241",
+    "options": [
+      "Glomerulus",
+      "Proximal convoluted tubule",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 142,
+    "question": "In a healthy individual, Which findings is normal in urine?",
+    "options": [
+      "Glucose",
+      "Protein",
+      "Red blood cells",
+      "Creatinine"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 143,
+    "question": "Which changes would occur in hyperaldosteronism (Conn’s syndrome)?",
+    "options": [
+      "Hyperkalemia and metabolic acidosis",
+      "Hypokalemia and metabolic alkalosis",
+      "Hyponatremia and hypotension",
+      "Hyperglycemia and hypercalcemia"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 144,
+    "question": "If both afferent and efferent arterioles constrict, but the efferent arteriole constricts more strongly, what happens to GFR and renal plasma flow (RPF)?",
+    "options": [
+      "GFR decreases, RPF increases",
+      "GFR increases, RPF increases",
+      "GFR decreases, RPF decreases",
+      "GFR increases, RPF decreases"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 145,
+    "question": "What does the clearance of a substance that is freely filtered at the glomerulus, completely secreted by the tubules, and not reabsorbed best represent?",
+    "options": [
+      "Glomerular Filtration Rate (GFR)",
+      "Tubular secretion rate",
+      "Renal Plasma Flow (RPF)",
+      "Filtration Fraction"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 146,
+    "question": "Which correctly describes the mechanism of renin release from the juxtaglomerular (JG) cells?",
+    "options": [
+      "Increased blood pressure in the afferent arteriole",
+      "Increased sodium delivery to the macula densa",
+      "Stimulation of beta-1 adrenergic receptors",
+      "Increased sympathetic tone to the renal medulla"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 147,
+    "question": "Which best describes innate immunity?",
+    "options": [
+      "Highly specific recognition of pathogens",
+      "Development of immunological memory after exposure",
+      "Immediate, non-specific response to pathogens",
+      "Primarily mediated by T-lymphocytes"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 148,
+    "question": "What is the primary feature that distinguishes adaptive immunity from innate immunity?",
+    "options": [
+      "Rapid onset of response",
+      "Physical barrier formation",
+      "Immunological memory",
+      "Phagocytic activity"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 149,
+    "question": "Which cells are primarily responsible for cell-mediated immunity?",
+    "options": [
+      "B lymphocytes",
+      "Plasma cells",
+      "Neutrophils",
+      "T lymphocytes"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 150,
+    "question": "Vigorous physical activity (such as exercise or hard labor) increases the body's demand for oxygen. The first-line physiologic response to this demand is an increase in heart rate, breathing rate, and depth of breathing. During heavy exercise, dyspnea will appear when the dyspneic index will fall just below?",
+    "options": [
+      "0.7",
+      "0.5",
+      "0.3",
+      "0.9"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 151,
+    "question": "Which of following energy systems uses almost entirely in muscle metabolism during 100-meter dash?",
+    "options": [
+      "Oxidative phosphorylation",
+      "Glycolysis",
+      "Adenosine triphosphate-phosphocreatine (ATP-PC) system",
+      "Beta-oxidation"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 152,
+    "question": "Which is not a component of the innate immune system?",
+    "options": [
+      "Macrophages",
+      "Natural killer (NK) cells",
+      "B lymphocytes",
+      "Neutrophils"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 153,
+    "question": "Which pairs is correctly matched regarding immunity type?",
+    "options": [
+      "Natural active immunity: Vaccination",
+      "Artificial passive immunity: Breastfeeding",
+      "Natural passive immunity: Transplacental transfer of antibodies",
+      "Artificial active immunity: Exposure to a pathogen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 154,
+    "question": "Which is the first antibody produced in the primary immune response?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgM"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 155,
+    "question": "Which is NOT a function of the complement system in enhancing immune defense?",
+    "options": [
+      "Opsonization",
+      "Direct lysis of target cells",
+      "Antibody production",
+      "Chemotaxis"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 156,
+    "question": "What is the primary function of the immune system?",
+    "options": [
+      "To regulate blood glucose levels",
+      "To produce hormones",
+      "To protect the body from pathogens and foreign substances",
+      "To facilitate gas exchange"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 157,
+    "question": "What is the term for the ability of the immune system to remember and respond more effectively to a previously encountered pathogen?",
+    "options": [
+      "Autoimmunity",
+      "Immunological tolerance",
+      "Immunological memory",
+      "Hypersensitivity"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 158,
+    "question": "What type of immune mechanism primarily mediates serum sickness following administration of antiserum?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 159,
+    "question": "Which part of the brain acts as the principal center for thermoregulation in humans?",
+    "options": [
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus",
+      "Thalamus"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 160,
+    "question": "Which responses is most likely to occur when core body temperature decreases?",
+    "options": [
+      "Vasodilation of cutaneous blood vessels",
+      "Increased sweating",
+      "Shivering",
+      "Decreased metabolic rate"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 161,
+    "question": "What is the primary mechanism of heat loss at rest under normal environmental conditions?",
+    "options": [
+      "Radiation",
+      "Evaporation",
+      "Conduction",
+      "Convection"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 162,
+    "question": "Stimulation of the anterior hypothalamus leads to Which physiological effects?",
+    "options": [
+      "Hypothermia and parasympathetic responses",
+      "Hyperthermia and sympathetic responses",
+      "Increased hunger and rage",
+      "Decreased heart rate and inhibition of thirst"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 163,
+    "question": "During exposure to high environmental temperatures, Which mechanisms helps prevent excessive rise in body temperature?",
+    "options": [
+      "Cutaneous vasodilation and increased sweat production",
+      "Cutaneous vasoconstriction and decreased metabolic rate",
+      "Skeletal muscle shivering and piloerection",
+      "Decreased respiratory rate and internal heat storage"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 164,
+    "question": "Which describes a behavioral mechanism of thermoregulation?",
+    "options": [
+      "Shivering to generate internal heat",
+      "Sweating to promote evaporative heat loss",
+      "Vasoconstriction of cutaneous blood vessels",
+      "Putting on a heavy sweater when feeling cold"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 165,
+    "question": "In cold exposure, which hormonal response enhances long-term heat production?",
+    "options": [
+      "Increased secretion of thyroid hormones (T3 and T4)",
+      "Decreased secretion of insulin",
+      "Increased secretion of atrial natriuretic peptide",
+      "Decreased secretion of antidiuretic hormone"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 166,
+    "question": "Which is a local cutaneous thermal reflex?",
+    "options": [
+      "Axon reflex vasodilation",
+      "Shivering thermogenesis",
+      "Sweating via sympathetic cholinergic activation",
+      "Central hypothalamic thermoregulation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 167,
+    "question": "A runner experiences profuse sweating but minimal heat loss due to high humidity. What mechanism explains this?",
+    "options": [
+      "Reduction of the vapor pressure gradient between the skin and the environment",
+      "Inhibition of sympathetic cholinergic nerve fibers innervating sweat glands",
+      "Direct vasoconstriction of cutaneous blood vessels",
+      "Decreased production of eccrine sweat gland secretion"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 168,
+    "question": "Which correctly describes heat stroke?",
+    "options": [
+      "A core body temperature above 40°C accompanied by central nervous system dysfunction",
+      "A mild form of heat illness characterized by profuse sweating and normal mental status",
+      "A condition primarily caused by salt depletion without significant water loss",
+      "A drop in core body temperature below 35°C due to prolonged exposure to cold"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 169,
+    "question": "Which mechanisms is most important in preventing a dangerous fall in core temperature during prolonged cold exposure?",
+    "options": [
+      "Shivering",
+      "Cutaneous vasodilation",
+      "Decreased thyroid hormone secretion",
+      "Sweating"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 170,
+    "question": "During fever, Which events occurs first following pyrogen exposure?",
+    "options": [
+      "Release of endogenous pyrogens (cytokines) into the circulation",
+      "Increased heat production via shivering and increased metabolism",
+      "Release of prostaglandins (specifically PGE2) in the preoptic area of the hypothalamus",
+      "Cutaneous vasoconstriction to decrease heat loss"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 171,
+    "question": "Which part of the brain is primarily responsible for maintenance of posture and equilibrium?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla oblongata"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 172,
+    "question": "How do the basal ganglia contribute to motor control?",
+    "options": [
+      "Planning and modulating movement patterns by inhibiting unwanted motor activity and facilitating desired movements",
+      "Directly initiating voluntary motor commands from the primary motor cortex to spinal motor neurons",
+      "Detecting movement errors and coordinating rapid, online adjustments during ongoing muscle contraction",
+      "Relaying sensory information from peripheral mechanoreceptors to the somatosensory cortex"
+    ],
+    "correct": 0
+  }
+]
