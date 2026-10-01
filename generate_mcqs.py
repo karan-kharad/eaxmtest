@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate MCQ options and answers for physiology questions using Gemini API."""
+"""Generate MCQ options and answers for biochemistry questions using Gemini API."""
 
 import json
 import time
@@ -32,11 +32,11 @@ MAX_RETRIES = 3
 
 
 def load_questions():
-    """Load physiology questions from the input JSON."""
+    """Load biochemistry questions from the input JSON."""
     with open(INPUT_FILE) as f:
         data = json.load(f)
-    physio = [q["text"] for q in data["questions"] if "Physiology" in q["subject"]]
-    return physio
+    biochem = [q["text"] for q in data["questions"] if "Biochemistry" in q["subject"]]
+    return biochem
 
 
 def load_progress():
@@ -61,8 +61,8 @@ def save_results(results):
 
 def call_gemini_api(question):
     """Call Gemini API to generate MCQ options for a single question."""
-    prompt = f"""You are a medical exam question generator specializing in physiology.
-For the following physiology question, generate exactly 4 multiple choice options and indicate the correct answer.
+    prompt = f"""You are a medical exam question generator specializing in biochemistry.
+For the following biochemistry question, generate exactly 4 multiple choice options and indicate the correct answer.
 
 Question: {question}
 
@@ -129,7 +129,7 @@ Rules:
 def main():
     print("Loading questions...")
     questions = load_questions()
-    print(f"Total physiology questions: {len(questions)}")
+    print(f"Total biochemistry questions: {len(questions)}")
 
     progress = load_progress()
     start_idx = progress["completed"]

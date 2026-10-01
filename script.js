@@ -78,10 +78,10 @@ function renderExamGrid() {
 }
 
 // Create 4 exams from the question bank
-// Exam 1: 100 questions, Exam 2: 100 questions, Exam 3: 100 questions, Exam 4: 50 questions
+// Exam 1: 100 questions, Exam 2: 100 questions, Exam 3: 100 questions, Exam 4: 48 questions
 function createExams() {
     const exams = [];
-    const examSizes = [100, 100, 100, 50]; // Total: 350 questions
+    const examSizes = [100, 100, 100, 48]; // Total: 348 questions
 
     // Shuffle all questions
     const shuffled = [...questionBank].sort(() => Math.random() - 0.5);
