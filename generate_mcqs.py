@@ -27,8 +27,8 @@ OUTPUT_FILE = "/home/karan/physiology-exam/question_bank.json"
 PROGRESS_FILE = "/home/karan/physiology-exam/progress.json"
 
 BATCH_SIZE = 1  # One question at a time to avoid rate limits
-DELAY_BETWEEN_REQUESTS = 15  # seconds between requests
-MAX_RETRIES = 3
+DELAY_BETWEEN_REQUESTS = 30  # seconds between requests
+MAX_RETRIES = 5
 
 
 def load_questions():
@@ -108,7 +108,7 @@ Rules:
                 else:
                     print(f"  No candidates in response")
             elif response.status_code == 429:
-                wait = 120 * (attempt + 1)
+                wait = 180 * (attempt + 1)
                 print(f"  Rate limited, waiting {wait}s...")
                 time.sleep(wait)
             elif response.status_code == 503:

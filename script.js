@@ -31,6 +31,8 @@ async function loadQuestionBank() {
         if (!response.ok) throw new Error('Failed to load question bank');
         questionBank = await response.json();
         console.log(`Loaded ${questionBank.length} questions`);
+        const badge = document.getElementById('questionCountBadge');
+        if (badge) badge.textContent = `${questionBank.length} Questions`;
         renderExamGrid();
     } catch (error) {
         console.error('Error loading question bank:', error);
@@ -77,11 +79,14 @@ function renderExamGrid() {
     }).join('');
 }
 
-// Create 4 exams from the question bank
-// Exam 1: 100 questions, Exam 2: 100 questions, Exam 3: 100 questions, Exam 4: 48 questions
+// Create 4 exams from the question bank, split evenly across all questions
 function createExams() {
     const exams = [];
-    const examSizes = [100, 100, 100, 48]; // Total: 348 questions
+    const total = questionBank.length;
+    const numExams = 4;
+    const base = Math.floor(total / numExams);
+    const rem = total % numExams;
+    const examSizes = Array.from({ length: numExams }, (_, i) => base + (i < rem ? 1 : 0));
 
     // Shuffle all questions
     const shuffled = [...questionBank].sort(() => Math.random() - 0.5);

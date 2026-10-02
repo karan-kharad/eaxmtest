@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is classified as a purely ketogenic amino acid?",
+    "options": [
+      "Leucine",
+      "Tyrosine",
+      "Phenylalanine",
+      "Tryptophan",
+      "Tryptophan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "question": "The biological value of a protein is mainly related to which factor?",
+    "options": [
+      "Essential amino acid content",
+      "Amino acid content",
+      "Nitrogen content",
+      "Content of ammonia to urea",
+      "Content of ammonia to urea"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is not true about xanthine oxidase?",
+    "options": [
+      "Produces H2O",
+      "Flavoprotein",
+      "Contains molybdenum",
+      "Contains iron",
+      "Contains iron"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "question": "Which one of the following statements about chromatin is NOT true?",
+    "options": [
+      "H2A-H2B bind to both the entry and exit ends of DNA in nucleosomes",
+      "DNA winds approximately 1.75 times around the nucleosomes",
+      "Covalent modification of histones influence chromatin compaction",
+      "Non-his tone proteins are part of mitotic chromosomes",
+      "Non-his tone proteins are part of mitotic chromosomes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "question": "The process of gene regulation involve folding and unfolding of tightly packed DNA. This occur by binding of a variety of proteins and enzymes at DNA surface through charge-charge interactions.What is the charge present on DNA at physiologic pH?",
+    "options": [
+      "Negative charge",
+      "Positive charge",
+      "Both positive and negative charge",
+      "No charge",
+      "No charge"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "question": "Which of the following statements about porphyrins is false?",
+    "options": [
+      "The pyrrole rings of porphyrins are joined by methenyl bridges",
+      "Porphyrinogens are colored",
+      "Porphyrins emit fluorescence under UV light",
+      "The pyrrole rings of porphyrinogens are joined by methylene bridges",
+      "The pyrrole rings of porphyrinogens are joined by methylene bridges"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "question": "Nucleotides consist of sugars, nitrogenous bases and phosphate groups. Which of the following functions do they not perform?",
+    "options": [
+      "Structural component of membrane",
+      "Structural moieties of coenzymes",
+      "Mediators in cellular signaling",
+      "Monomeric units of nucleic acids",
+      "Monomeric units of nucleic acids"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 8,
+    "question": "Which cellular organelle stores peroxidases?",
+    "options": [
+      "Peroxisomes",
+      "Lysosomes",
+      "Microsomes",
+      "Mitochondria",
+      "Mitochondria"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is required for the proper functioning of cytochrome oxidase, the enzyme that transfers electrons to the final electron acceptor, O₂, in the electron transport chain?",
+    "options": [
+      "Copper (Cu)",
+      "Iron (Fe)",
+      "Molybdenum (Mo)",
+      "Zinc (Zn)",
+      "Zinc (Zn)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "question": "Which of the following enzymes does NOT require pyridoxal phosphate (PLP) for its activity?",
+    "options": [
+      "Glucose-6-phosphate dehydrogenase",
+      "Cystathionine β-synthase",
+      "Glutamate decarboxylase",
+      "Aspartate transaminase",
+      "Aspartate transaminase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "question": "Where is laminin primarily found in the body?",
+    "options": [
+      "Basement membrane",
+      "Inner nuclear membrane",
+      "Outer nuclear membrane",
+      "Mitochondria",
+      "Mitochondria"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "question": "A deficiency of aspartoacylase leads to which condition?",
+    "options": [
+      "Canavan disease",
+      "Oasthouse syndrome",
+      "Hawkinsinuria",
+      "Hartnup disease",
+      "Hartnup disease"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 13,
+    "question": "In Phase II of detoxification, metabolite from phase 1 is attached with a hydrophilic molecule to yield water-soluble and easily excretable products. Which of the following is not type of a reaction in Phase II?",
+    "options": [
+      "Reduction",
+      "Acetylation",
+      "Glycine conjugation",
+      "Methylation",
+      "Methylation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 14,
+    "question": "What type of bond is formed between the phosphate group and the 5' carbon of ribose sugar in a nucleotide?",
+    "options": [
+      "Ester bond",
+      "Phosphodiester bond",
+      "Beta N-glycosidic bond",
+      "Acid anhydride bond",
+      "Acid anhydride bond"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 15,
+    "question": "What is the rate-limiting step in the de novo synthesis of pyrimidine nucleotides?",
+    "options": [
+      "Carbamoyl phosphate synthetase-II",
+      "Aspartate transcarbamoylase",
+      "Dihydroorotate dehydrogenase",
+      "Ornithine transcarbamoylase",
+      "Ornithine transcarbamoylase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "question": "Wernicke's encephalopathy is a serious condition that occurs when the body lacks essential nutrients. Which vitamin plays a crucial role in the development of this condition?",
+    "options": [
+      "Thiamine",
+      "Folic acid",
+      "Nicotinic acid",
+      "Pyridoxine",
+      "Pyridoxine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 17,
+    "question": "Which of the following substances is a substrate for the resynthesis of triacylglycerols in the cells of the small intestinal mucosa?",
+    "options": [
+      "2-monoacylglycerol      ",
+      "cholesterol",
+      " sphingolipids",
+      " inorganic phosphate",
+      " inorganic phosphate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 18,
+    "question": "During vigorous exercise, which substance is released from muscle tissue?",
+    "options": [
+      "Alanine",
+      "Glutamine",
+      "Branched-chain keto acids",
+      "Asparagine",
+      "Asparagine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is considered a high-energy phosphate compound?",
+    "options": [
+      "ATP",
+      "Creatine phosphate",
+      "Glucose-1-phosphate",
+      "Glycerol-3-phosphate",
+      "Glycerol-3-phosphate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 20,
+    "question": "Where does nucleic acid synthesis come from?  ",
+    "options": [
+      "nucleoside triphosphates",
+      "amino acids",
+      "nucleoside diphosphates",
+      "nucleoside monophosphates",
+      "nucleoside monophosphates"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 21,
+    "question": "A patient with biliary atresia is at higher risk for the deficiency of which vitamin?",
+    "options": [
+      "Vitamin K",
+      "Vitamin B12",
+      "Vitamin C",
+      "Niacin",
+      "Niacin"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 22,
+    "question": "Which of the following symptoms may occur in a patient who takes high doses of vitamin E daily to strengthen the immune system?",
+    "options": [
+      "Prolongation of bleeding time",
+      "Hypercalcemia ",
+      "Increased intracranial pressure",
+      "Psychosis",
+      "Psychosis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "question": "Due to the absence of which of the following substances, Vitamin C cannot be produced in the human body?",
+    "options": [
+      "L-gulonolactone oxidase",
+      "Xylutitol reductase",
+      "Pyruvate dehydrogenase",
+      "UDP glucose dehydrogenase",
+      "UDP glucose dehydrogenase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 24,
+    "question": "Biological dehydrogenation reactions are enzyme catalyzed oxidation-reduction reactions where one molecule losses hydrogen or electrons and other molecule accept it. Most of the time the cofactor of enzyme plays a role as electron acceptor or donor. Which vitamin as coenzyme is required for glucose 6 phosphate dehydrogenase?",
+    "options": [
+      "Niacin",
+      "Biotin",
+      "Thiamine",
+      "Riboflavin",
+      "Riboflavin"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 25,
+    "question": "An overweight person went on high carbohydrate and low fat diet in order to loose body fat. Which of the following vitamins RDA level he has to increase to metabolize these excess carbohydrates?",
+    "options": [
+      "Thiamine",
+      "Vit E",
+      "Vit C",
+      "Pantothenate",
+      "Pantothenate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a tetrameric glycoprotein in terms of chemical structure?",
+    "options": [
+      "Insulin receptors",
+      "Leptins",
+      "Neuropeptide",
+      "Thyrotrophin",
+      "Thyrotrophin"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 27,
+    "question": "The adenylate cyclase system is primarily mediated by which of the following?",
+    "options": [
+      "cAMP",
+      "Phosphodiesterase",
+      "GTP-binding proteins",
+      "Protein kinases",
+      "Protein kinases"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 28,
+    "question": "Which of the following glucose transporters is specific in the transport of fructose from the intestine to endorocytes?",
+    "options": [
+      "GLUT 5",
+      "GLUT 3",
+      "GLUT 1",
+      "GLUT 7",
+      "GLUT 7"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 29,
+    "question": "Dietitians and trainers recommend and use various diet plans and exercise regimens to control weight. What is the Atkin diet?",
+    "options": [
+      "Low calorie, low carbohydrate diet",
+      "Low fat diet",
+      "Low carbohydrate diet",
+      "Low calorie diet",
+      "Low calorie diet"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 30,
+    "question": "What is the relationship between oxidative phosphorylation, ATP production, and the respiratory chain?",
+    "options": [
+      "Chemiosmotic methods",
+      "Chemical methods",
+      "Physical methods",
+      "Conformational changes",
+      "Conformational changes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 31,
+    "question": "Which substance inhibits oxidative phosphorylation by blocking the transportation of ADP and ATP?",
+    "options": [
+      "Atractyloside",
+      "Oligomycin",
+      "Amobarbital",
+      "Rotenone",
+      "Rotenone"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 32,
+    "question": "A child is in an emergency situation due to accidental ingestion of cyanide. Which of the following substances does it block in the citric acid cycle?",
+    "options": [
+      "NAD+",
+      "Acetyl-CoA Production",
+      "Aconitase",
+      "Citrate",
+      "Citrate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 33,
+    "question": "Which of the following elements is missing from the mitochondrial matrix?",
+    "options": [
+      "ATP synthase",
+      "Pyruvate dehydrogenase",
+      "13-oxidation enzymes",
+      "Citric acid cycle enzymes",
+      "Citric acid cycle enzymes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 34,
+    "question": "In which of the following cellular organelles does HMP shunt occur?",
+    "options": [
+      "Cytosol",
+      "Lysosome",
+      "Mitochondria",
+      "Nucleus",
+      "Nucleus"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is false about HMP shunt?",
+    "options": [
+      "Non oxidative phase of HMP pathway is irreversible",
+      "Formation of NADPH",
+      "Synthesis of ribose 5 phosphate",
+      "No ATP formation",
+      "No ATP formation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 36,
+    "question": "Which of the following enzymes is involved in both the glycogenesis and glycogenolysis pathways?",
+    "options": [
+      "Phosphoglucomutase",
+      "Glycogen synthase",
+      "Glucan transferase",
+      "Glycogen phosphorylase",
+      "Glycogen phosphorylase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 37,
+    "question": "A 15-year-old type I diabetic faints after injecting himself with insulin. He is administered Glucagon and rapidly recovers consciousness. This is best explained by induction of the activity of which of the following enzyme by Glucagon?",
+    "options": [
+      "Glycogen phosphorylase",
+      "Glycogen synthase",
+      "Glucokinase",
+      "Hexokinase",
+      "Hexokinase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is the first committed step of glycolysis?",
+    "options": [
+      "Fructose 6 phosphate to Fructose 1, 6 bisphosphate",
+      "Glucose to glucose 6 P04",
+      "1,3 bisphosphoglycerate to 3-phosphoglycerate",
+      "Phosphoenolpyruvate to pyruvate",
+      "Phosphoenolpyruvate to pyruvate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 39,
+    "question": "Which of the following substances inhibits PFK-1 enzyme?",
+    "options": [
+      "Citrate",
+      "AMP",
+      "Glucose-6-P04",
+      "Insulin",
+      "Insulin"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 40,
+    "question": "Which of the following hormones does not activate hormone-sensitive lipase?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Catecholamines",
+      "T4",
+      "T4"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 41,
+    "question": "A 30-year-old presents with intractable vomiting and inability to eat or drink for the past 3 days. His blood glucose level is still normal. Which of the following is most important for the maintenance of the blood glucose in this patient?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Skeletal muscle",
+      "Adipose tissue",
+      "Adipose tissue"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 42,
+    "question": "Which enzyme catalyzes substrate-level phosphorylation in the TCA cycle?",
+    "options": [
+      "Succinate thiokinase",
+      "Fumarase",
+      "Succinate dehydrogenase",
+      "Alpha-ketoglutarate dehydrogenase",
+      "Alpha-ketoglutarate dehydrogenase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 43,
+    "question": "Which enzyme is responsible for ATP generation in the electron transport chain (ETC)?",
+    "options": [
+      "FoF ATP synthase",
+      "Na⁺/K⁺ ATPase",
+      "Na⁺/Cl⁻ ATPase",
+      "ADP kinase",
+      "ADP kinase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 44,
+    "question": "Which of the following substances does not inhibit complex IV of the respiratory chain?",
+    "options": [
+      "Malonate",
+      "Cyanide",
+      "Hydrogen sulfide (H₂S)",
+      "Carbon monoxide (CO)",
+      "Carbon monoxide (CO)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 45,
+    "question": "Chemiosmotic coupling in oxidative phosphorylation is primarily related to which of the following processes?",
+    "options": [
+      "Formation of ATP at the substrate level",
+      "ATP generation through the pumping of protons",
+      "ATP generation through the pumping of neutrons",
+      "ATP formation by the transport of O2",
+      "ATP formation by the transport of O2"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 46,
+    "question": "Which of the following statements about the mitochondrial genome is true?",
+    "options": [
+      "It encodes 37 genes.",
+      "It encodes 47 genes.",
+      "It encodes 57 genes.",
+      "It encodes 67 genes.",
+      "It encodes 67 genes."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 47,
+    "question": "What is the primary source of energy for a running athlete during the first 3 minutes of running?",
+    "options": [
+      "Creatine phosphate",
+      "Free fatty acids",
+      "Muscle glycogen",
+      "Blood glucose",
+      "Blood glucose"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is known as Complex V of the electron transport chain (ETC)?",
+    "options": [
+      "ATP Synthase complex",
+      "a-Cytochrome c oxidoreductase",
+      "NADH-Q oxidoreductase",
+      "Cytochrome c oxidase",
+      "Cytochrome c oxidase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is an X-linked recessive disorder in men with a blood clotting defect?",
+    "options": [
+      "Hemophilia A",
+      "Von - Willebrand disease",
+      "Immune thrombocytopenia (ITP)",
+      "Haemochromatosis",
+      "Haemochromatosis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 50,
+    "question": "Tetrahydrobiopterin (THB) is a nucleotide cofactor derived from guanosine triphosphate (GTP).  For the metabolism of which of the above amino acids is it necessary?",
+    "options": [
+      " Phenylalanine",
+      " Lysine",
+      "Alanine",
+      "Serine",
+      "Serine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 51,
+    "question": "What are the following causes of Hyperphenylalaninemia?",
+    "options": [
+      "Dihydrobiopterin reductase deficiency",
+      "Phenylalanine hydroxylase overactivity",
+      "Tyrosine hydroxylase deficiency",
+      "Defect in dihydrobiopterin biosynthesis",
+      "Defect in dihydrobiopterin biosynthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 52,
+    "question": "Which of the following enzymes provides an index of vitamin B1 nutritional status?",
+    "options": [
+      "Transketolase",
+      "Glucose-6-phosphate dehydrogenase",
+      "6-Phosphogluconate dehydrogenase",
+      "Transaldolase",
+      "Transaldolase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 53,
+    "question": "During fasting, amino acids derived from muscle proteins are one of the main sources of energy for muscle cells. Which of the following amino acid is released from the muscles in fasting conditions?",
+    "options": [
+      "Alanine",
+      "Glutamine",
+      "Branched keto acid",
+      "Asparagine",
+      "Asparagine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 54,
+    "question": "Animal indican is a product of decay and detoxification of which amino acid?       ",
+    "options": [
+      " tryptophan",
+      "phenylalanine",
+      "tyrosine",
+      " ornithine",
+      " ornithine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 55,
+    "question": "Hyperuricemia is associated with which of the following conditions?",
+    "options": [
+      "HGPRT deficiency",
+      "HGPRT overactivity",
+      "PRPP synthetase deficiency",
+      "Glucose 6-phosphatase deficiency",
+      "Glucose 6-phosphatase deficiency"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 56,
+    "question": "Primary hyperoxaluria is associated with a defect in the metabolism of which compound?",
+    "options": [
+      "Glycine",
+      "Threonine",
+      "Serine",
+      "Alanine",
+      "Alanine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 57,
+    "question": "Which metabolic defect is associated with an increased cardiovascular risk?",
+    "options": [
+      "Branched-chain amino acids",
+      "Aromatic amino acids",
+      "Sulfur-containing amino acids",
+      "Essential amino acids",
+      "Essential amino acids"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 58,
+    "question": "Which of the following tests is NOT commonly used in epigenetic (heritable changes in gene expression not caused by alterations in DNA sequence) analysis?",
+    "options": [
+      "Genome-wide association study (GWAS)",
+      "Bi-sulfate sequencing",
+      "Methylation-sensitive restriction enzyme digestion",
+      "Chromatin immunoprecipitation (ChIP)",
+      "Chromatin immunoprecipitation (ChIP)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 59,
+    "question": "Which of the following fatty acid present in fish-oil is known for its cardio-protective function?",
+    "options": [
+      "Eicosapentaenoic acid",
+      "Arachidonic acid",
+      "Linoleic acid",
+      "Palmitic acid",
+      "Palmitic acid"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 60,
+    "question": "What causes impaired digestion and absorption of fats?        ",
+    "options": [
+      "disruption of the flow of bile into the intestines",
+      "hyperchlorhydria",
+      " lack of secretion of chymotrypsin",
+      "decreased elastase activity",
+      "decreased elastase activity"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 61,
+    "question": "Which enzyme is essential for the extrahepatic utilization of ketone bodies?",
+    "options": [
+      "Thiophorase",
+      "HMG-CoA lyase",
+      "HMG-CoA reductase",
+      "Succinate dehydrogenase",
+      "Succinate dehydrogenase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 62,
+    "question": "What molecules are involved in the resynthesis of triacylglycerides in the cells of the small intestinal mucosa (β-monoglyceride pathway)?     ",
+    "options": [
+      "2-monoacylglycerol and acyl-CoA",
+      "glycerol and fatty acids",
+      "1,2-diacylglycerol and phosphatidic acid",
+      "phosphoglycerol and acyl-CoA",
+      "phosphoglycerol and acyl-CoA"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 63,
+    "question": "Which process below occurs in the mitochondria of cells?   ",
+    "options": [
+      "β-oxidation of fatty acids",
+      "lipolysis of triacylglycerols",
+      "synthesis of palmitic acid",
+      "phospholipid synthesis",
+      "phospholipid synthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 64,
+    "question": "Which of the following substances is the structural precursor of all carbon atoms of ketone bodies?  ",
+    "options": [
+      "malonyl-CoA",
+      "acetyl-CoA",
+      "succinyl-CoA",
+      "CO2",
+      "CO2"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 65,
+    "question": "Which of the following shows the most marked increase in plasma concentration during starvation?",
+    "options": [
+      "Ketone bodies",
+      "Free fatty acids",
+      "Glucose",
+      "Glycogen",
+      "Glycogen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 66,
+    "question": "Where is the formation of chylomicrons localized?  ",
+    "options": [
+      "in intestinal epithelial cells",
+      "in hepatocytes",
+      "in the lymph",
+      "in the blood",
+      "in the blood"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 67,
+    "question": "What is the function of VLDL?  ",
+    "options": [
+      "transport of endogenous triacylglycerols",
+      "transport of phospholipids from tissues to the liver",
+      "antiatherogenic fraction of lipoproteins",
+      "transport of cholesterol into tissues  ",
+      "transport of cholesterol into tissues  "
+    ],
+    "correct": 0
+  },
+  {
+    "id": 68,
+    "question": "The bulk of cholesterol is transported as part of which lipoprotein fractions?  ",
+    "options": [
+      "LDL",
+      " VLDL",
+      "chylomicrons",
+      "HDL",
+      "HDL"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "question": "What condition occurs when ketone bodies accumulate?",
+    "options": [
+      "metabolic acidosis",
+      "gas acidosis",
+      "gas alkalosis",
+      "metabolic alkalosis",
+      "metabolic alkalosis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 70,
+    "question": "In what cases does hypercholesterolemia develop? ",
+    "options": [
+      "absence of receptors for LDL",
+      "hyperthyroidism",
+      "hypoglycemia",
+      "ascorbic acid vitamin deficiency",
+      "ascorbic acid vitamin deficiency"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 71,
+    "question": "What are the following consequences that can occur when fat absorption is impaired:       ",
+    "options": [
+      "steatorrhea",
+      "hypovitaminosis PP",
+      "hypovitaminosis C",
+      "xerophthalmia",
+      "xerophthalmia"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 72,
+    "question": "Which lipoproteins are elevated in the blood of patients with familial hypercholesterolemia?        ",
+    "options": [
+      "LDL",
+      "VLDL",
+      "chylomicrons",
+      " HDL",
+      " HDL"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 73,
+    "question": "A 5-year-old boy has short stature, coarse facial features, stiff joints, and intellectual disability. His siblings and parents are unaffected. His mother has a family history of a similar disease in her brother and nephew. If the mother is currently pregnant, what is the risk that the fetus will have the same disease?",
+    "options": [
+      "0.25",
+      "0",
+      "0.5",
+      "1",
+      "1"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 74,
+    "question": "Which of the following is a useful marker for lipid peroxidation in cells?",
+    "options": [
+      "Malondialdehyde",
+      "Catalase",
+      "Glutathione reductase",
+      "Maltase",
+      "Maltase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 75,
+    "question": "An infant who appeared normal at birth began to develop lethargy, hypothermia, and apnea within 24 hours. Blood analysis indicated high levels of ammonia and citrulline, and low levels of urea. Which enzyme is most likely defective in this child?",
+    "options": [
+      "Ornithine transcarbamoylase",
+      "Carbamoyl phosphate synthetase I",
+      "Argininosuccinate synthetase",
+      "Argininosuccinate lyase",
+      "Argininosuccinate lyase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 76,
+    "question": "Nucleosomes are the fundamental unit of DNA organization. It consists of histones bound to DNA. Which of the following amino acids are rich in histone proteins in nucleosomes?",
+    "options": [
+      "Lysine and Arginine",
+      "Arginine and Histidine",
+      "Histidine and Valine",
+      "Histidine and lysine",
+      "Histidine and lysine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 77,
+    "question": "Restriction endonuclease, also known as molecular scissors, are enzymes widely used in molecular biology techniques such as gene cloning, recombinant DNA technology, RFLP, etc. What do these enzymes break down?",
+    "options": [
+      "Double stranded DNA",
+      "Single stranded DNA",
+      "Single stranded RNA",
+      "Polypeptide",
+      "Polypeptide"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 78,
+    "question": "Which of the following statements about eukaryotic DNA ligase is NOT true?",
+    "options": [
+      "NAD+ is the energy source.",
+      "It catalyzes the formation of phosphodiester bonds.",
+      "ATP is the energy source.",
+      "It can act only on double-stranded DNA.",
+      "It can act only on double-stranded DNA."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 79,
+    "question": "Mitochondrial codons are an exception for the property of 'universality' of codons. For eg: Initiation codon in mammals is AUG, which codes for methionine. But in mitochondria, methionine is coded by some other codon. Which of the following is that initiation codon?",
+    "options": [
+      "AUA",
+      "AGA",
+      "AAG",
+      "AUG ",
+      "AUG "
+    ],
+    "correct": 0
+  },
+  {
+    "id": 80,
+    "question": "Which RNA component is part of the 50S ribosomal subunit?",
+    "options": [
+      "23S RNA",
+      "5S RNA",
+      "5.8S RNA",
+      "18S RNA",
+      "18S RNA"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 81,
+    "question": "Which of the following statements describes the major difference between the splicing mechanisms of Group I and Group II introns?",
+    "options": [
+      "Lariat formation",
+      "Nucleophilic attack by OH group",
+      "Transesterification reaction",
+      "Presence of specific proteins",
+      "Presence of specific proteins"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 82,
+    "question": "The protein synthesis machinery consists of ribosomes that are either associated with the ER or freely present in the cytosol. Which of the following proteins is not synthesized by free ribosomes?",
+    "options": [
+      "Lysosomal enzymes",
+      "Proteins that remain in cytosol",
+      "Mitochondrial proteins",
+      "Peroxisomal enzymes",
+      "Peroxisomal enzymes"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 83,
+    "question": "What are the initiation and termination sequences of spliceosomal introns in eukaryotes?",
+    "options": [
+      "GU, AG",
+      "AG, GU",
+      "GA, GU",
+      "UG, AG",
+      "UG, AG"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 84,
+    "question": "A patient presented with voracious appetite, obesity, short stature. hypogonadism, and mental disability. Xeryotypic analysis showed a small deletion on the proximal long arm of chromosome 1S. The physician  suspected It to be a case of genomic imprinting. Which out of the following is a disease due to genomic imprinting?",
+    "options": [
+      "Prader willi syndrome",
+      "Marfan syndrome",
+      "EDS",
+      "Osteogenesis imperfecta",
+      "Osteogenesis imperfecta"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 85,
+    "question": "Free radicals are unstable and highly reactive chemical compounds that can cause cellular damage and death. Among the given options, which one is the most active free radical?",
+    "options": [
+      "Hydroxyl radical",
+      "Hydrogen peroxide",
+      "Superoxide radical",
+      "Hydroperolxyl radical",
+      "Hydroperolxyl radical"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is a biological marker for Down syndrome, a common chromosomal disorder characterized by trisomy of chromosome 21?",
+    "options": [
+      "Decreased maternal serum alpha-fetoprotein",
+      "Increased maternal estriol",
+      "Decreased HCG",
+      "Increased CA-125",
+      "Increased CA-125"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 87,
+    "question": "Which is the best description of cancer?",
+    "options": [
+      "Cancer is a disease of abnormal cells.",
+      "Cancer is a genomic disease.",
+      "Cancer is a single disease that is always fatal.",
+      "Cancer is a set of diseases characterized by deregulated cell growth and survival.",
+      "Cancer is a set of diseases characterized by deregulated cell growth and survival."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 88,
+    "question": "We often use sequence alignment for the analysis of sequence data (DNA, RNA, protein). An alignment is an optimal comparison of sequences showing regions where the sequences are similar to each other. Often we distinguish between pair-wise and multiple sequence alignment. What do we mean by multiple sequence alignment?",
+    "options": [
+      "Sequence alignment with several equivalent solutions",
+      "Iterative sequence alignment with several iterations.  ",
+      "Simultaneous sequence alignment of more than two sequences. ",
+      "Simultaneous sequence alignment of all DNA reading frames for a protein. ",
+      "Simultaneous sequence alignment of all DNA reading frames for a protein. "
+    ],
+    "correct": 0
+  },
+  {
+    "id": 89,
+    "question": " Which of the following could be coded by a tumor-supressor gene? ",
+    "options": [
+      "A protein that helps prevent progression through cell cycle",
+      "A protein that helps prevent apoptosis",
+      "A protein that codes for a DNA repair enzyme",
+      " A protein that forms part of a growth factor signaling pathway",
+      " A protein that forms part of a growth factor signaling pathway"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 90,
+    "question": "Which of the following viruses are implicated in causing cancer?",
+    "options": [
+      "Oncolytic virus (ONYX-015)",
+      "Human papilloma virus (HPV)",
+      "Hepatitis B virus (HBV)",
+      "Epstein-Barr virus (EBV)",
+      "Epstein-Barr virus (EBV)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 91,
+    "question": "What is the end product of bilirubin conversion in the liver?         ",
+    "options": [
+      "bilirubin monoglucuronides",
+      "urobilinogen",
+      "di- and tripyrroles",
+      "stercobilinogen",
+      "stercobilinogen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 92,
+    "question": "When the liver is completely removed, the concentration of which of the following substances in the blood decreases?         ",
+    "options": [
+      "VLDL; albumin",
+      "ammonia; glucose",
+      "indican; glycogen, ",
+      "chylomicrons, fatty acids",
+      "chylomicrons, fatty acids"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 93,
+    "question": "What is observed when glucuronyltransferase is activated in hepatocytes?       ",
+    "options": [
+      "there is an increase in the amount of direct bilirubin in the blood;",
+      "there is a decrease in the amount of direct bilirubin in the blood;",
+      "there is an increase in the amount of indirect bilirubin in the blood;",
+      " the ratio of direct and indirect bilirubin in the blood does not change.",
+      " the ratio of direct and indirect bilirubin in the blood does not change."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 94,
+    "question": "What are the consequences of hemolytic jaundice?",
+    "options": [
+      "increased breakdown of hemoglobin occurs;",
+      "stool is discolored.",
+      "there is no bilirubin in the urine;",
+      "nothing changed",
+      "nothing changed"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 95,
+    "question": "What are the following signs characteristic of direct bilirubin?  ",
+    "options": [
+      "low toxicity",
+      " high toxicity ",
+      "poor solubility in water",
+      "present in blood serum in albumin-bound form",
+      "present in blood serum in albumin-bound form"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 96,
+    "question": "What are the causes of hypoalbuminemia?   ",
+    "options": [
+      " liver damage",
+      "hungry",
+      "brain damage",
+      " muscle damage",
+      " muscle damage"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 97,
+    "question": "What is most characteristic of mechanical (obstructive) jaundice?  ",
+    "options": [
+      "low activity of alkaline phosphatase in blood serum",
+      "no changes in the content of stercobilin in feces",
+      "an increase in the concentration of total bilirubin, both due to indirect bilirubin and direct bilirubin",
+      " the appearance of urobilinogen in the urine",
+      " the appearance of urobilinogen in the urine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 98,
+    "question": "What conditions determine parenchymal jaundice?        ",
+    "options": [
+      "the excretion of direct bilirubin into the bile capillaries is impaired; ",
+      "increased hemolysis of red blood cells;",
+      "the amount of stercobilinogen in the feces increases;",
+      "urobilinogen appears in the blood and urine",
+      "urobilinogen appears in the blood and urine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 99,
+    "question": "Which enzymes are most active in the liver?          ",
+    "options": [
+      "alanine aminotransferase;",
+      "LDH-1 and LDH-2;",
+      "aspartate aminotransferase;",
+      "creatine phosphokinase MM and MB;",
+      "creatine phosphokinase MM and MB;"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 100,
+    "question": "You have the results of biochemical tests in your hands. Determine normal indicators of pigment metabolism?        ",
+    "options": [
+      "the blood contains 75% indirect and 25% direct bilirubin;",
+      "urine contains bilirubin;",
+      "urine contains stercobilinogen;",
+      "There are no bile pigments in the stool.",
+      "There are no bile pigments in the stool."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 101,
+    "question": "Which of the following is a purely glucogenic amino acid?",
+    "options": [
+      "Alanine",
+      "Leucine",
+      "Tyrosine",
+      "Tryptophan",
+      "Tryptophan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 102,
+    "question": "The buffering capacity of proteins is attributed to which property?",
+    "options": [
+      "Amphipathic nature",
+      "Colloid",
+      "Basic nature",
+      "Acidic nature",
+      "Acidic nature"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 103,
+    "question": "What wavelength corresponds to the maximum absorption of ultraviolet light in nucleic acids?",
+    "options": [
+      "260 nm",
+      "280 nm",
+      "410 nm",
+      "320 nm",
+      "320 nm"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 104,
+    "question": "Which of the following cellular structures is NOT found in the nucleus?",
+    "options": [
+      "P-bodies",
+      "Nucleolus",
+      "Mitochondria",
+      "Interchromatin granule cluster",
+      "Interchromatin granule cluster"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 105,
+    "question": "Some methods, such as PCR, in situ hybridization, and RFLP, require the separation of DNA strands for analysis. Heating is a common method to denature double-stranded DNA (dsDNA) into single-stranded form. At the melting temperature (Tm), what percentage of dsDNA is denatured? ",
+    "options": [
+      "0.5",
+      "0.25",
+      "0.75",
+      "1",
+      "1"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 106,
+    "question": "The patient, who had accidentally swallowed antifreeze, was brought to the emergency room. Among the listed components, which one is the main acid buffer that helps maintain blood pH levels within the normal range, apart from bicarbonate?",
+    "options": [
+      "Hemoglobin",
+      "Acetoacetate",
+      "Hydroxybutyrate",
+      "Acetate",
+      "Acetate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 107,
+    "question": "What type of mutation is responsible for sickle cell anemia?",
+    "options": [
+      "Point mutation",
+      "Insertion mutation",
+      "Deletion mutation",
+      "Frameshift mutation",
+      "Frameshift mutation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 108,
+    "question": "Aldehyde dehydrogenase an enzyme involved in the metabolism of alcohol requires NAD+ for its proper function. What NAD+ can be most appropriately termed as?",
+    "options": [
+      "Coenzyme",
+      "Cofactor",
+      "Apoenzyme",
+      "     Abenzyme",
+      "     Abenzyme"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 109,
+    "question": "Which of the following coenzymes is primarily required for anabolic reactions?",
+    "options": [
+      "NADP",
+      "NAD",
+      "FAD",
+      "FADP",
+      "FADP"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 110,
+    "question": "Which of the following enzymes catalyses the most irreversible step in electron transport chain?",
+    "options": [
+      "Cytochrome C oxidase",
+      "Succinate dehydrogenase",
+      "NADH dehydrogenase",
+      "Ubiquinone cytochrome c oxidoreductase",
+      "Ubiquinone cytochrome c oxidoreductase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 111,
+    "question": "A scientist has inserted a particular gene in mouse model and thereafter analyzed the tissue expression of that gene by Northern blot analysis. She observed three positive bands in lung sample but only one band in all other tissues examined. Which one of the following is a possible explanation for this finding?",
+    "options": [
+      "Alternative splicing",
+      "RNA editing",
+      "Lungs contains three genes for this particular protein",
+      "Posttranslational modifications",
+      "Posttranslational modifications"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 112,
+    "question": "A 10 year old boy presented with abdominal pain, muscle weakness and fatigue. On investigations , serum lead levels were found increased in blood . Activity of which of the following enzyme in the liver is increased :",
+    "options": [
+      "ALA synthase",
+      "Ferrochelatase",
+      "PGB deaminase",
+      "Heme oxygenase",
+      "Heme oxygenase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 113,
+    "question": "A 4 year old baby boy landed in emergency with rapid breathing. He was cold & clammy, confused, lethargic. His mother gave a history of accidental ingestion of automobile antifreeze. What is the reason of using ethanol as treatment in this poisoning?",
+    "options": [
+      "Inhibit binding of ethylene glycol to alcohol dehydrogenase",
+      "It conjugate with ethylene glycol",
+      "Inhibit enzyme alcohol dehydrogenase",
+      "Stimulate the absorption of ethylene glycol",
+      "Stimulate the absorption of ethylene glycol"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 114,
+    "question": "A young boy has been eating five to six raw eggs a day in an attempt to gain muscle mass. However, he becomes tired between meals, and during one of these lethargic periods, he is taken to the emergency department. His blood glucose level was found to be 50 mg/dL. Which one of the following substances would be expected to be elevated in this boy’s blood?",
+    "options": [
+      "Propionic acid",
+      "Methylmalonic acid",
+      "Malonic acid",
+      "Succinate",
+      "Succinate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 115,
+    "question": "Which of the following statements about Acetyl-CoA is NOT true?",
+    "options": [
+      "It cannot be converted to glucose.",
+      "It is a precursor for the synthesis of cholesterol and other steroids.",
+      "It forms ketone bodies.",
+      "It is the starting material for the synthesis of fatty acids.",
+      "It is the starting material for the synthesis of fatty acids."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 116,
+    "question": "In the Krebs cycle, which of the following catalyses the step in which the first C02 is released?",
+    "options": [
+      "Isocitrate dehydrogenase",
+      "Aconitase",
+      "Succinate Thiokinase",
+      "Succinate dehydrogenase",
+      "Succinate dehydrogenase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 117,
+    "question": "Where is NADPH used?",
+    "options": [
+      "Fatty acid synthesis",
+      "Ketone synthesis",
+      "Gluconeogenesis",
+      "Glycolysis",
+      "Glycolysis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 118,
+    "question": "NADPH plays a critical role in protecting cells from oxidative damage. Which enzyme requires NADPH to convert harmful reactive oxygen species into water?",
+    "options": [
+      "Glutathione reductase",
+      "Glutathione peroxidase",
+      "Superoxide dismutase",
+      "Catalase",
+      "Catalase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 119,
+    "question": "Which type of RNA contains abnormal purine and pyrimidine bases?",
+    "options": [
+      "tRNA",
+      "23S rRNA",
+      "16S rRNA",
+      "5S rRNA",
+      "5S rRNA"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 120,
+    "question": "Allopurinol is commonly used to treat gout. What is the mechanism by which allopurinol helps reduce uric acid levels in patients with gout?",
+    "options": [
+      "Prevents the formation of uric acid",
+      "Reduces purine synthesis.",
+      "Excretion of uric acid by the kidneys",
+      "Promotes purine salvage.",
+      "Promotes purine salvage."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 121,
+    "question": "A full-term infant, born at home and initially thriving with breastfeeding, begins to bleed from the umbilical cord and nostrils within the next two days. What is the most likely cause of this condition?",
+    "options": [
+      "Deficiency of vitamin K",
+      "Deficiency of vitamin C",
+      "Deficiency of vitamin E",
+      "Hypervitaminosis A",
+      "Hypervitaminosis A"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 122,
+    "question": "I-cell disease is most closely associated with which cellular structure?",
+    "options": [
+      "Lysosomes",
+      "Golgi apparatus",
+      "Peroxisomes",
+      "Mitochondria",
+      "Mitochondria"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 123,
+    "question": "Erythrocyte glutathione reductase deficiency is associated with a deficiency of which vitamin?",
+    "options": [
+      "Riboflavin",
+      "Folic acid",
+      "Vitamin C",
+      "Vitamin E",
+      "Vitamin E"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 124,
+    "question": "A 30-year-old man consulted a dentist about loose teeth. Closer examination reveals that his gums are swollen, purple and spongy. Physical examination revealed multiple splinter hemorrhages near the distal ends of the patient's fingernails, and this patient's wound healing was impaired. What vitamin deficiency is observed in the patient?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B1",
+      "Folic Acid",
+      "Folic Acid"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 125,
+    "question": "A 60-year-old man, presents with tingling in his hands and feet and increased forgetfulness. A CBC indicates mild anemia. Given his increased intake of red meat, which treatment would be most appropriate for him?",
+    "options": [
+      "Oral administration of vitamin B12",
+      "Oral administration of folic acid",
+      "Oral administration of methionine",
+      "Injections of vitamin B12",
+      "Injections of vitamin B12"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 126,
+    "question": "Which of the following enzymes is directly inhibited by the mushroom poison?",
+    "options": [
+      "Peptidyl transferase",
+      "DNA polymerase",
+      "RNA polymerase",
+      "DNA lygase",
+      "DNA lygase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 127,
+    "question": "Which of the following processes involves cyclic GMP-mediated action?",
+    "options": [
+      "Photochemical reactions of the visual cycle",
+      "Steroidogenesis",
+      "Thyroid hormone action",
+      "Recruitment of glucose transporters to the cell membrane",
+      "Recruitment of glucose transporters to the cell membrane"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 128,
+    "question": "Which of the following is a glucose transporter in myocytes under the action of insulin?",
+    "options": [
+      "GLUT4",
+      "GLUT 1",
+      "GLUT3",
+      "GLUT2",
+      "GLUT2"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 129,
+    "question": "In a patient with CSF analysis showing a glucose level of 30 and a CSF/Plasma glucose ratio of 0.4, which GLUT transporter is responsible for glucose transport in the brain?",
+    "options": [
+      "GLUT 1 and 3",
+      "GLUT 1 and 2",
+      "GLUT 3 and 4",
+      "GLUT 2 and 3",
+      "GLUT 2 and 3"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 130,
+    "question": "Which of the following ETC complexes does not pump hydrogen ions?",
+    "options": [
+      "Complex II",
+      "Complex I",
+      "Complex III",
+      "Complex IV",
+      "Complex IV"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 131,
+    "question": "The primary factor that determines whether glucose is oxidized through aerobic or anaerobic glycolysis is which of the following?",
+    "options": [
+      "Presence of mitochondria",
+      "NADH",
+      "FADH2",
+      "Presence of low glucose",
+      "Presence of low glucose"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 132,
+    "question": "A girl who suffered from anemia and jaundice has high levels of the following substances in her erythrocytes: glucose-6-phosphate, 1,3-bisphosphoglycerate, 3-phosphoglycerate, and others. Low levels of ATP, pyruvate, and lactate were also observed. Which of the following glycolytic enzymes is most likely defective?",
+    "options": [
+      "Pyruvate kinase",
+      "Glyceraldehyde-3-phosphate dehydrogenase",
+      "Phosphoglycerate kinase",
+      "Hexokinase",
+      "Hexokinase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 133,
+    "question": "Muscles utilize a variety of substrates such as glycogen, fatty acids, and amino acids under various conditions to meet their energy demands for muscle contraction. Which of the following pathway is the major energy-providing pathway for fast-twitch muscle?",
+    "options": [
+      "Glycolysis",
+      "β-oxidation of fatty acids",
+      "Utilisation of ketone bodies",
+      "Amino acid breakdown",
+      "Amino acid breakdown"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 134,
+    "question": "In which of the following organs does HMP shunt not occur?",
+    "options": [
+      "Kidney",
+      "Adrenal cortex",
+      "Adipose tissue",
+      "Liver",
+      "Liver"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 135,
+    "question": "Which of the following substances inhibits Aconitase enzyme?",
+    "options": [
+      "Fluoroacetate",
+      "Arsenite",
+      "Malonate",
+      "Iodoacetate",
+      "Iodoacetate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 136,
+    "question": "Glycogen stores in the liver and muscles are used to maintain blood glucose levels and muscle contraction, respectively, after 2 hours of eating. How many hours can glycogen remain in the body?",
+    "options": [
+      "12-18 hours",
+      "6-8 hours",
+      "2-96 hours",
+      "7 days",
+      "7 days"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 137,
+    "question": "Which of the following reactions requires UDP-glucose?",
+    "options": [
+      "Glycogen synthesis",
+      "Galactose metabolism",
+      "Heparin synthesis",
+      "Bilirubin metabolism",
+      "Bilirubin metabolism"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 138,
+    "question": "Where are the components of the electron transport chain (ETC) located?",
+    "options": [
+      "Inner mitochondrial membrane",
+      "Outer mitochondrial membrane",
+      "Mitochondrial matrix",
+      "lntermembranous space",
+      "lntermembranous space"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 139,
+    "question": "Which of the following forms complex I of the electron transport chain?",
+    "options": [
+      "NADH-Q oxidoreductase",
+      "a-cytochrome c oxidoreductase",
+      "Succinate-a reductase",
+      "Cytochrome c oxidase",
+      "Cytochrome c oxidase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 140,
+    "question": "In which of the following cellular organelles does the TCA cycle occur?",
+    "options": [
+      "Mitochondria",
+      "Endoplasmic reticulum",
+      "Cytosol",
+      "Nucleus",
+      "Nucleus"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 141,
+    "question": "Which of the following statements about insulin is true?",
+    "options": [
+      "Acts on intrinsic tyrosine kinase receptors",
+      "Acts on G-protein coupled receptors coupled to serine threonine kinases",
+      "It acts on steroid receptor",
+      "It acts on nuclear membrane receptor",
+      "It acts on nuclear membrane receptor"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is true about Kreb’s cycle?",
+    "options": [
+      "Kreb's cycle is the final common pathway for the oxidation of carbohydrate, lipid and protein",
+      "Pyruvate condenses with oxaloacetate to form citrate",
+      "Oxidative phosphorylation occurs in the cytoplasm",
+      "Alpha keto glutarate is a 4 carbon compound",
+      "Alpha keto glutarate is a 4 carbon compound"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 143,
+    "question": "Which of the following is not an intermediate of the TCA?",
+    "options": [
+      "Acetyl CoA",
+      "Citrate",
+      "Succinyl CoA",
+      "Fumarate",
+      "Fumarate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 144,
+    "question": "The respiratory quotient coefficient (RQ) is an important indicator that helps measure the energy expenditure of the body and determine various metabolic characteristics. How does RQ change in diabetes mellitus? ",
+    "options": [
+      "RQ initially decreases, and then increases again after insulin administration",
+      "RQ always increases in diabetes mellitus",
+      "RQ initially increases and then decreases after insulin administration",
+      "RQ remains unchanged in diabetes mellitus",
+      "RQ remains unchanged in diabetes mellitus"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 145,
+    "question": "The level of which of the following substances is reduced when the Krebs cycle is inhibited by hyperammonemia?",
+    "options": [
+      "Alpha Keto glutarate",
+      "Oxaloacetate",
+      "Fumarate",
+      "Oxaloacetate",
+      "Oxaloacetate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 146,
+    "question": " Which of the following enzyme deficiency can cause congenital lactic acidosis?",
+    "options": [
+      "Pyruvate dehydrogenase enzyme complex",
+      "Pyruvate Kinase",
+      "Pyruvate Decarboxylase",
+      "Transketolase",
+      "Transketolase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 147,
+    "question": "Which inhibitor affects the Fo-F1 complex, also known as ATP synthase?",
+    "options": [
+      "Oligomycin",
+      "Atractyloside",
+      "Rotenone",
+      "Cyanide",
+      "Cyanide"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 148,
+    "question": "Which of the following substances is an inhibitor of the electron transport chain (ETC) complex I?",
+    "options": [
+      "Amobarbital",
+      "Carboxin",
+      "Hydrogen sulfide",
+      "Malonate",
+      "Malonate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 149,
+    "question": "Cytochrome P450 is primarily involved in which of the following processes?",
+    "options": [
+      "All of the above",
+      "Hydroxylation",
+      "Methylation of xenobiotics",
+      "Deamination reactions",
+      "Deamination reactions"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 150,
+    "question": "Where does beta-alanine, a naturally occurring beta amino acid, originate in humans?",
+    "options": [
+      "Adenosine",
+      "Adenine",
+      "Guanine",
+      "Uracil",
+      "Uracil"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 151,
+    "question": "The five-day-old child initially began to eat poorly, became irritable, and then very lethargic. When the diaper was changed it had a musky sweet smell. In the emergency room of a local hospital, the child was suspected of having an inborn error of metabolism and a blood test was ordered. Which of the following indicators will increase?",
+    "options": [
+      "Isoleucine",
+      "Phenylalanine",
+      "Phenylketones",
+      "Acetone",
+      "Acetone"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 152,
+    "question": "Which of the following amino acids has an amino ring?",
+    "options": [
+      "Proline",
+      "Tyrosine",
+      "Tryptophan",
+      "Histidine",
+      "Histidine"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 153,
+    "question": "What does Tryptophan contain?",
+    "options": [
+      "lndole group",
+      "lmidazole group",
+      "Thioalcohol",
+      "Thioester linkage",
+      "Thioester linkage"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 154,
+    "question": "Which of the following amino acids contains a hydroxyl group?",
+    "options": [
+      "Threonine",
+      "Tyrosine",
+      "Serine",
+      "Tryptophan",
+      "Tryptophan"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 155,
+    "question": "The histidine load test is used to identify deficiency in which of the following?",
+    "options": [
+      "Pyridoxine",
+      "Iron",
+      "Folic acid",
+      "Vitamin B12",
+      "Vitamin B12"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 156,
+    "question": "In a population exhibiting a genetic polymorphism affecting N5,N10-methylene-FH4 reductase activity at elevated temperatures, which metabolic product would this variant struggle to produce?",
+    "options": [
+      "The thymine nucleotide required for DNA synthesis",
+      "Creatine phosphate from creatine",
+      "Pyrimidines required for RNA synthesis",
+      "All deoxyribonucleotides",
+      "All deoxyribonucleotides"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 157,
+    "question": "Which of the following is WRONG regarding acute gouty arthritis?",
+    "options": [
+      "Allopurinol is effective to treat the acute attack",
+      "MSU crystals are needle shaped and negatively birefringent",
+      "Serum uric acid levels can be normal or low at the time of an acute attack",
+      "Tophi are made up of monosodium urate crystals (MSU)",
+      "Tophi are made up of monosodium urate crystals (MSU)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 158,
+    "question": "Heritable changes in gene expression not caused by alterations in DNA sequence is called as epigenetics. Which of the following test is not used in epigenetic analysis?",
+    "options": [
+      "HPLC",
+      "Chip on chip",
+      "Bi-sulfate sequencing",
+      "Methylation sensitive Restriction ",
+      "Methylation sensitive Restriction "
+    ],
+    "correct": 0
+  },
+  {
+    "id": 159,
+    "question": "The choice of metabolic fuel to meet body energy demand varies depending on availability. Which of the following is the preferred fuel for body in fasting state?",
+    "options": [
+      "Fats",
+      "Carbohydrates",
+      "Proteins",
+      "Amino acids",
+      "Amino acids"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 160,
+    "question": "A teenager has been diagnosed with severe cystic acne. The patient is prescribed isotretinoin. What is isotretinoin chemically?",
+    "options": [
+      "13 cis retinoic acid",
+      "13 trans retinoic acid",
+      "All cis retinoic acid",
+      "All trans retinoic acid",
+      "All trans retinoic acid"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 161,
+    "question": "The genetic testing confirms a diagnosis of von Gierke disease, a glycogen storage disorder. This condition is due to a deficiency in which enzyme?",
+    "options": [
+      "Glucose-6-phosphatase",
+      "Glucokinase",
+      "Maltase ",
+      "Alpha amylase",
+      "Alpha amylase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 162,
+    "question": "A patient with metabolic syndrome is advised to avoid foods with a high glycemic index (GI) to help control blood sugar levels. Which characteristic best describes high-GI foods?",
+    "options": [
+      "Cause a rapid increase in blood glucose levels",
+      "Contain more fiber than low-GI foods",
+      " High in protein and fat",
+      " Lead to a slow l rise in blood glucose",
+      " Lead to a slow l rise in blood glucose"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 163,
+    "question": "A 55-year-old man presents with fatigue, weight loss, and frequent urination. Lab results reveal elevated blood glucose levels and an A1C of 9.1%. Which carbohydrate metabolism disorder is the most likely diagnosis?",
+    "options": [
+      "Diabetes mellitus",
+      "Glycogen storage disease",
+      "Galactosemia",
+      "Lactose intolerance",
+      "Lactose intolerance"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 164,
+    "question": "A student reports episodes of abdominal pain, bloating, and diarrhea after consuming dairy products. A lactose tolerance test confirms lactose intolerance. Which enzyme deficiency is responsible for this condition?",
+    "options": [
+      "Lactase",
+      " Sucrase",
+      "Maltase",
+      "Amylase",
+      "Amylase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 165,
+    "question": "Ketone bodies are formed and utilized by various organs (brain, heart, etc) as the major sources of energy during fasting/starvation. Which of the following  is a result of increased formation of ketone bodies during fasting?",
+    "options": [
+      "Increased levels of free fatty acids in blood",
+      "Decreased level of circulating glucagon",
+      "Decreased formation of Acetyl CoA in the liver",
+      "Inhibition of b-oxidation of fatty acids in liver",
+      "Inhibition of b-oxidation of fatty acids in liver"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 166,
+    "question": "Which of the following conditions is most commonly associated with elevated LDL cholesterol levels?",
+    "options": [
+      "Coronary artery disease",
+      "Osteoporosis",
+      "Anemia",
+      "Pancreatitis",
+      "Pancreatitis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 167,
+    "question": "In a patient with elevated serum LDL levels but normal LDL receptor numbers, what is the most probable cause?",
+    "options": [
+      "APOB-100 mutation",
+      "Phosphorylation of LDL receptors",
+      "Lipoprotein lipase deficiency",
+      "Cholesterol Acyl-CoA transferase deficiency",
+      "Cholesterol Acyl-CoA transferase deficiency"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 168,
+    "question": "A 55-year-old man presents with high cholesterol levels. High levels of low-density lipoprotein (LDL) cholesterol increase the risk of cardiovascular disease. Which of the following best describes the role of LDL?",
+    "options": [
+      "Deposits cholesterol in blood vessel walls",
+      " LDL removes cholesterol from artery walls",
+      "LDL deposits cholesterol in the liver for energy",
+      "LDL lowers blood cholesterol levels by breaking down fats",
+      "LDL lowers blood cholesterol levels by breaking down fats"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 169,
+    "question": "What role do triglycerides play in the body under normal conditions?",
+    "options": [
+      "Primary source of energy storage",
+      "Used for protein synthesis",
+      "Serve as immune cells",
+      "Involves in DNA synthesis",
+      "Involves in DNA synthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 170,
+    "question": "Which of the following ratios primarily contributes to the development of fatty liver associated with chronic alcohol consumption?",
+    "options": [
+      "NADH/NAD",
+      "NAD/NADH",
+      "NADP/NADPH",
+      "NADPH/NADP",
+      "NADPH/NADP"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 171,
+    "question": "A patient with familial hypercholesterolemia, a genetic disorder, has extremely high levels of cholesterol despite a healthy lifestyle. Which of the following best explains?",
+    "options": [
+      "Have a genetic defect that prevents proper clearance of LDL cholesterol",
+      "Diet causes the liver to store excess cholesterol",
+      "Production of very low levels of cholesterol.",
+      "Metabolizes cholesterol more rapidly than normal.",
+      "Metabolizes cholesterol more rapidly than normal."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 172,
+    "question": "A 45-year-old man with type 2 diabetes has low HDL levels and is at risk for cardiovascular disease. Which of the following lifestyle changes is most likely to help increase his HDL cholesterol?",
+    "options": [
+      "Engaging in regular physical activity",
+      "Reducing fiber intake",
+      "Increasing his intake of simple carbohydrates",
+      "Eating a diet high in trans fats",
+      "Eating a diet high in trans fats"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 173,
+    "question": "LDL cholesterol is often referred to as “bad” cholesterol because it can lead to which of the following conditions?",
+    "options": [
+      "Plaque buildup in the arteries",
+      "Increased muscle mass",
+      "Lower blood pressure",
+      "Decreased triglyceride levels",
+      "Decreased triglyceride levels"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 174,
+    "question": "What would be the LDL level if a person has total cholesterol = 300 mg/dL, HDL = 25 mg/dL, and triglycerides = 150 mg/dL?",
+    "options": [
+      "245",
+      "125",
+      "95",
+      "55",
+      "55"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 175,
+    "question": "Nucleotides such as AMP, ADP, and ATP are the sensors of energy status of the cell and their inter conversion plays an important role in the energy homeostasis of the cell. Which of the following enzyme catalyses the formation of AMP from two molecules of ADP?",
+    "options": [
+      "Adenylate kinase",
+      "Adenylyl cyclase",
+      "Adenosine kinase",
+      "Adenosine deaminase",
+      "Adenosine deaminase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 176,
+    "question": "What is the total number of amino acids encoded in the human genetic code?",
+    "options": [
+      "20",
+      "25",
+      "17",
+      "15",
+      "15"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 177,
+    "question": "Which of the following statements about chromatin remodeling is true?",
+    "options": [
+      "Energy is required to displace histone octamers from DNA",
+      "Histone modifications are only passive",
+      "It does not involve enzymes",
+      "It is not associated with any disease",
+      "It is not associated with any disease"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 178,
+    "question": "If a cell is placed in a medium containing radioactively labeled thymidine and undergoes replication three times, what percentage of the resulting cells will have both strands of DNA labeled?",
+    "options": [
+      "0.25",
+      "0.5",
+      "0.75",
+      "1",
+      "1"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 179,
+    "question": "Dideoxynucleotides are used for Sanger DNA sequencing technique. Whenever this nucleotide is added in to growing DNA chain, the chain elongation stops causing termination of DNA synthesis. This form the basis of this sequencing technique. Which of the following dideoxynucleotide does not contain we can deduce based on that knowledge ?",
+    "options": [
+      "2' & 3' OH group",
+      "3' & 4' OH group",
+      "4' & 5' OH group",
+      "2' & 5' OH group",
+      "2' & 5' OH group"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 180,
+    "question": "Directionality is an important parameter in molecular biology processes such as replication, transcription and translation etc. Which of the following process doesn't occur in 5\\",
+    "options": [
+      "RNA editing",
+      "Transcription",
+      "DNA replication",
+      "DNA Repair",
+      "DNA Repair"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 181,
+    "question": "Which of the following is NOT a way to regulate gene expression in eukaryotes?",
+    "options": [
+      "Attenuation by operon",
+      "Gene amplification",
+      "Gene rearrangement",
+      "Regulation of mRNA stability",
+      "Regulation of mRNA stability"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 182,
+    "question": "Which of the following is the correct sequence of the secretory or exocytotic pathway of protein sorting?",
+    "options": [
+      "Endoplasmic Reticulum--> Golgi Apparatus-->Plasma Membrane-->Release into the external environment",
+      "Golgi Apparatus -->Endoplasmic Reticulum -->Plasma Membrane -->Release into the external environment",
+      "Plasma Membrane --> Endoplasmic Reticulum --> Golgi Apparatus -->Release into the external environment",
+      "Plasma Membrane -->Golgi Apparatus -->Endoplasmic Reticulum -->Release into the external environment",
+      "Plasma Membrane -->Golgi Apparatus -->Endoplasmic Reticulum -->Release into the external environment"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 183,
+    "question": "What is the best method to assess protein binding regions on a DNA molecule?",
+    "options": [
+      "DNA foot-printing",
+      "RT-PCR",
+      "Microarray analysis",
+      "Western blotting",
+      "Western blotting"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 184,
+    "question": "In which of the inheritance, if father is affected no offspring is affected, but if mother affected, all offspring affected?",
+    "options": [
+      "Mitochondrial",
+      "X linked recessive",
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "Autosomal recessive"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 185,
+    "question": "Which of the following is not a free radical?",
+    "options": [
+      "Hydrogen peroxide",
+      "Hydroxyl",
+      "Superoxide",
+      "Hydroperoxyl",
+      "Hydroperoxyl"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 186,
+    "question": "Cardiovascular disease patient is advised to increase  intake of antioxidants to reduce free radical damage. Which of the following processes that can worsen cardiovascular disease?",
+    "options": [
+      "Oxidation of LDL cholesterol",
+      "nan",
+      " Lowering cholesterol",
+      "Increasing the flexibility of blood vessels",
+      "Increasing the flexibility of blood vessels"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 187,
+    "question": "Which of the following is NOT a key characteristic of a cancer cell?",
+    "options": [
+      "Contact inhibition",
+      "Uncontrolled cell growth",
+      "Evading apoptosis",
+      "Angiogenesis",
+      "Angiogenesis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 188,
+    "question": "A proto-oncogene becomes an oncogene through which of the following mechanisms?",
+    "options": [
+      "All of the above",
+      "Deletion of the gene",
+      "Gene amplification",
+      "Point mutation",
+      "Point mutation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 189,
+    "question": "How do tumor suppressor genes typically function in normal cells?",
+    "options": [
+      "They inhibit cell growth and division.",
+      " They promote cell growth and division.",
+      "They stimulate angiogenesis.",
+      "They directly cause DNA mutations.",
+      "They directly cause DNA mutations."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 190,
+    "question": "A patient presents with a mutation in the p53 gene. Which of the following outcomes is MOST likely?",
+    "options": [
+      "Increased cell proliferation",
+      "Reduced angiogenesis",
+      "Increased apoptosis",
+      "Normal cell cycle regulation",
+      "Normal cell cycle regulation"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 191,
+    "question": "What is the primary pigment associated with jaundice?",
+    "options": [
+      "Bilirubin",
+      "Hemoglobin",
+      "Cholesterol",
+      "Albumin",
+      "Albumin"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 192,
+    "question": "Which of the following liver functions primarily involves the conversion of bilirubin?",
+    "options": [
+      " Bilirubin metabolism",
+      "Glycogen storage",
+      " Protein synthesis",
+      "Gluconeogenesis",
+      "Gluconeogenesis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 193,
+    "question": "What causes the yellowing of skin and eyes in jaundice?",
+    "options": [
+      "Accumulation of bilirubin in tissues",
+      "Increased levels of glucose",
+      "Decreased liver function",
+      "Dehydration",
+      "Dehydration"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 194,
+    "question": "What type of jaundice is typically characterized by elevated direct bilirubin levels?",
+    "options": [
+      "Obstructive jaundice",
+      "Hemolytic jaundice",
+      "Hepatocellular jaundice",
+      "Physiological jaundice",
+      "Physiological jaundice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 195,
+    "question": "If a patient presents with jaundice, dark urine, and pale stools, what is the most likely cause?",
+    "options": [
+      "Bile duct obstruction",
+      "Increased hemolysis",
+      "Liver cirrhosis",
+      "Viral hepatitis",
+      "Viral hepatitis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 196,
+    "question": "Which of the following enzymes is primarily found in the liver and is a sensitive indicator of hepatocellular damage? ",
+    "options": [
+      "Alanine aminotransferase (ALT)",
+      "Amylase",
+      "Lipase ",
+      "Creatinine kinase (CK)",
+      "Creatinine kinase (CK)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 197,
+    "question": "Elevated levels of bilirubin in the blood primarily indicate a problem with which of the following liver functions?",
+    "options": [
+      "Bile production and excretion",
+      "Albumin synthesis",
+      "Glucose metabolism",
+      "Ammonia detoxification",
+      "Ammonia detoxification"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 198,
+    "question": "A patient presents with elevated alkaline phosphatase (ALP) and gamma-glutamyl transferase (GGT). What is the most likely cause?",
+    "options": [
+      "Cholestasis",
+      "Acute viral hepatitis",
+      "Severe muscle damage",
+      "Pancreatitis",
+      "Pancreatitis"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 199,
+    "question": "Prolonged elevation of which liver enzyme is strongly suggestive of chronic liver disease?",
+    "options": [
+      "All of the above",
+      "ALT",
+      "AST",
+      "ALP",
+      "ALP"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 200,
+    "question": "A patient presents with the following liver test results: ALT slightly elevated, AST moderately elevated, ALP significantly elevated, and GGT significantly elevated. Bilirubin is also elevated. Which of the following is the MOST likely diagnosis? ",
+    "options": [
+      "Cholestasis",
+      "Acute hepatitis",
+      "Alcoholic liver disease",
+      "Hepatic encephalopathy",
+      "Hepatic encephalopathy"
+    ],
+    "correct": 0
+  }
+]
