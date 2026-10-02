@@ -7888,5 +7888,2469 @@
   ],
   "correct": 0,
   "id": 676
+ },
+ {
+  "question": "Which conditions is characterized by a sharp “M-spike” in the γ-region on serum protein electrophoresis?",
+  "options": [
+   "Multiple myeloma",
+   "Nephrotic syndrome",
+   "Iron deficiency anemia",
+   "Cirrhosis of the liver"
+  ],
+  "correct": 0,
+  "id": 677
+ },
+ {
+  "question": "Which acute-phase protein increases most rapidly after tissue injury and is clinically used as a sensitive marker of inflammation?",
+  "options": [
+   "C-reactive protein",
+   "Haptoglobin",
+   "Ceruloplasmin",
+   "Albumin"
+  ],
+  "correct": 0,
+  "id": 678
+ },
+ {
+  "question": "Which is the smallest unit of an antigen that is capable of binding to an antibody?",
+  "options": [
+   "Epitope",
+   "Hapten",
+   "Paratope",
+   "Immunogen"
+  ],
+  "correct": 0,
+  "id": 679
+ },
+ {
+  "question": "Which part of an antibody molecule binds specifically to an antigen?",
+  "options": [
+   "Constant region (Fc)",
+   "Fab region",
+   "Hinge region",
+   "Carbohydrate tail"
+  ],
+  "correct": 1,
+  "id": 680
+ },
+ {
+  "question": "Which immunoglobulin classes can cross the placenta to provide passive immunity to the fetus?",
+  "options": [
+   "IgA",
+   "IgE",
+   "IgG",
+   "IgM"
+  ],
+  "correct": 2,
+  "id": 681
+ },
+ {
+  "question": "Which mechanisms primarily explains how the complement system enhances immunity?",
+  "options": [
+   "Opsonization of pathogens, recruitment of inflammatory cells, and direct killing via the membrane attack complex",
+   "Direct antibody production by plasma cells",
+   "Phagocytosis mediated exclusively by cytotoxic T lymphocytes",
+   "Inhibition of viral replication through interferon signaling pathways"
+  ],
+  "correct": 0,
+  "id": 682
+ },
+ {
+  "question": "Which functions is served by the J-chain in immunoglobulin molecules?",
+  "options": [
+   "Facilitation of polymerization into pentamers for IgM and dimers for IgA",
+   "Direct binding to foreign antigens via a variable domain",
+   "Activation of the classical complement pathway without antibody binding",
+   "Mediating placental transfer of maternal IgG to the fetus"
+  ],
+  "correct": 0,
+  "id": 683
+ },
+ {
+  "question": "Which is the first step in the classical complement pathway?",
+  "options": [
+   "Binding of C1q to antigen-antibody complexes",
+   "Cleavage of C3 by C3 convertase",
+   "Activation of the Membrane Attack Complex (C5b-C9)",
+   "Spontaneous hydrolysis of C3"
+  ],
+  "correct": 0,
+  "id": 684
+ },
+ {
+  "question": "What is the term for the process in which antibodies coat antigens to enhance their phagocytosis by macrophages?",
+  "options": [
+   "Agglutination",
+   "Opsonization",
+   "Neutralization",
+   "Complement fixation"
+  ],
+  "correct": 1,
+  "id": 685
+ },
+ {
+  "question": "In an ELISA test used to detect antibodies against HIV, the enzyme-linked secondary antibody is designed to bind to Which?",
+  "options": [
+   "Patient immunoglobulins (antibodies)",
+   "HIV viral capsid protein p24",
+   "HIV reverse transcriptase enzyme",
+   "Viral RNA genome"
+  ],
+  "correct": 0,
+  "id": 686
+ },
+ {
+  "question": "Which best describes the main difference between monoclonal antibodies and polyclonal antibodies?",
+  "options": [
+   "Monoclonal antibodies bind to a single specific epitope and are produced by a single B-cell clone, whereas polyclonal antibodies bind to multiple epitopes and are produced by multiple B-cell clones.",
+   "Monoclonal antibodies are derived from human serum, whereas polyclonal antibodies are synthesized entirely in vitro using recombinant DNA technology.",
+   "Monoclonal antibodies recognize multiple different antigens simultaneously, whereas polyclonal antibodies are strictly monospecific.",
+   "Monoclonal antibodies are composed exclusively of light chains, whereas polyclonal antibodies contain both heavy and light chains."
+  ],
+  "correct": 0,
+  "id": 687
+ },
+ {
+  "question": "Which best describes the “zone of equivalence” in an antigen–antibody precipitation curve?",
+  "options": [
+   "A region where the concentrations of antigen and antibody are roughly equal, resulting in maximum precipitation",
+   "A region of antibody excess that prevents lattice formation and minimizes visible precipitation",
+   "A region of antigen excess where soluble immune complexes are continuously formed and precipitated",
+   "A plateau phase where all available epitopes are saturated, leading to a decrease in turbidity"
+  ],
+  "correct": 0,
+  "id": 688
+ },
+ {
+  "question": "Which are the two types of light chains found in immunoglobulins?",
+  "options": [
+   "Alpha and Beta",
+   "Kappa and Lambda",
+   "Mu and Delta",
+   "Gamma and Epsilon"
+  ],
+  "correct": 1,
+  "id": 689
+ },
+ {
+  "question": "Which best explains the principle behind a Western blot test?",
+  "options": [
+   "Separation of proteins by electrophoresis followed by transfer to a membrane and identification using target-specific antibodies",
+   "Separation of DNA fragments by size using capillary electrophoresis and fluorescence detection",
+   "Amplification of specific DNA sequences using thermal cycling and Taq polymerase",
+   "Measurement of enzyme-linked antibody-antigen reactions in a 96-well microplate format"
+  ],
+  "correct": 0,
+  "id": 690
+ },
+ {
+  "question": "Which best describes the primary function of fibronectin in the extracellular matrix?",
+  "options": [
+   "Providing tensile strength to cartilage through hydration",
+   "Cross-linking collagen fibers to form basement membranes",
+   "Mediating cell adhesion and migration by binding to integrins",
+   "Regulating the mineralization of bone extracellular matrix"
+  ],
+  "correct": 2,
+  "id": 691
+ },
+ {
+  "question": "Which ECM proteins provides elasticity to tissues such as lungs and large arteries?",
+  "options": [
+   "Collagen",
+   "Elastin",
+   "Laminin",
+   "Fibronectin"
+  ],
+  "correct": 1,
+  "id": 692
+ },
+ {
+  "question": "Which conditions is caused by a genetic defect in fibrillin-1, a glycoprotein associated with elastic fibers?",
+  "options": [
+   "Marfan syndrome",
+   "Ehlers-Danlos syndrome",
+   "Osteogenesis imperfecta",
+   "Alport syndrome"
+  ],
+  "correct": 0,
+  "id": 693
+ },
+ {
+  "question": "Which biochemical defects is most commonly associated with Ehlers–Danlos syndrome?",
+  "options": [
+   "Defects in collagen synthesis or structure",
+   "Defects in fibrillin-1 gene leading to microfibril dysfunction",
+   "Defects in lysosomal alpha-1,4-glucosidase",
+   "Defects in homogentisate 1,2-dioxygenase"
+  ],
+  "correct": 0,
+  "id": 694
+ },
+ {
+  "question": "Which cellular organelle is primarily involved in protein targeting and sorting?",
+  "options": [
+   "Endoplasmic reticulum",
+   "Mitochondria",
+   "Lysosome",
+   "Peroxisome"
+  ],
+  "correct": 0,
+  "id": 695
+ },
+ {
+  "question": "Which part of a newly synthesized protein contains the signal sequence that directs it to the endoplasmic reticulum?",
+  "options": [
+   "C-terminus",
+   "N-terminus",
+   "Internal hydrophobic domain",
+   "Nuclear localization region"
+  ],
+  "correct": 1,
+  "id": 696
+ },
+ {
+  "question": "Which hemoglobins has the highest affinity for oxygen?",
+  "options": [
+   "Hemoglobin F",
+   "Hemoglobin A",
+   "Hemoglobin S",
+   "Hemoglobin A2"
+  ],
+  "correct": 0,
+  "id": 697
+ },
+ {
+  "question": "The major adult form of hemoglobin is composed of Which chain combinations?",
+  "options": [
+   "Alpha 2, Beta 2",
+   "Alpha 2, Gamma 2",
+   "Alpha 2, Delta 2",
+   "Beta 2, Gamma 2"
+  ],
+  "correct": 0,
+  "id": 698
+ },
+ {
+  "question": "Which characteristics best describes methemoglobinemia?",
+  "options": [
+   "Ferrous iron is oxidized to ferric iron, reducing oxygen-binding capacity and causing chocolate-colored blood",
+   "Ferric iron is reduced to ferrous iron, increasing oxygen affinity and causing cherry-red blood",
+   "A deficiency in glucose-6-phosphate dehydrogenase leads to decreased NADPH and chronic hemolysis",
+   "A point mutation in the beta-globin chain causes sickling of red blood cells under low oxygen tension"
+  ],
+  "correct": 0,
+  "id": 699
+ },
+ {
+  "question": "Which mechanisms leads to the development of β-thalassemia?",
+  "options": [
+   "Reduced or absent synthesis of beta-globin chains of hemoglobin",
+   "Point mutation in the beta-globin gene leading to sickle cell hemoglobin (HbS)",
+   "Deletion of all four alpha-globin gene loci on chromosome 16",
+   "Defective ferrochelatase enzyme activity in the heme synthesis pathway"
+  ],
+  "correct": 0,
+  "id": 700
+ },
+ {
+  "question": "Which primary biochemical defects is responsible for I-cell disease (inclusion-cell disease)?",
+  "options": [
+   "Deficiency of N-acetylglucosamine-1-phosphotransferase",
+   "Deficiency of lysosomal acid lipase",
+   "Deficiency of beta-glucocerebrosidase",
+   "Deficiency of hexosaminidase A"
+  ],
+  "correct": 0,
+  "id": 701
+ },
+ {
+  "question": "In sickle cell anemia, which specific amino acid substitution occurs in the β-chain of hemoglobin?",
+  "options": [
+   "Valine is substituted for Glutamate at position 6",
+   "Glutamate is substituted for Valine at position 6",
+   "Lysine is substituted for Glutamate at position 6",
+   "Glutamate is substituted for Lysine at position 6"
+  ],
+  "correct": 0,
+  "id": 702
+ },
+ {
+  "question": "Which enzyme converts methemoglobin back to hemoglobin?",
+  "options": [
+   "NADH-cytochrome b5 reductase",
+   "Glucose-6-phosphate dehydrogenase",
+   "Superoxide dismutase",
+   "Glutathione peroxidase"
+  ],
+  "correct": 0,
+  "id": 703
+ },
+ {
+  "question": "Which structural proteins is most likely abnormal in a patient presenting with blue sclera, brittle bones, and early hearing loss?",
+  "options": [
+   "Type I collagen",
+   "Fibrillin-1",
+   "Type IV collagen",
+   "Dystrophin"
+  ],
+  "correct": 0,
+  "id": 704
+ },
+ {
+  "question": "Which ECM components binds both collagen and cell-surface integrins, acting as a bridge between cells and the extracellular matrix?",
+  "options": [
+   "Fibronectin",
+   "Laminin",
+   "Aggrecan",
+   "Hyaluronan"
+  ],
+  "correct": 0,
+  "id": 705
+ },
+ {
+  "question": "Which is the most likely fate of a protein synthesized on cytosolic ribosomes instead of on the rough endoplasmic reticulum?",
+  "options": [
+   "Degradation by cytosolic proteasomes if misfolded, or functional retention within the cytosol, nucleus, or mitochondria",
+   "Secretion into the extracellular matrix via regulated exocytosis",
+   "Glycosylation within the Golgi apparatus followed by insertion into the plasma membrane",
+   "Proteolytic cleavage within acidic lysosomes to generate free amino acids"
+  ],
+  "correct": 0,
+  "id": 706
+ },
+ {
+  "question": "During protein synthesis, the signal recognition particle (SRP) performs Which key functions?",
+  "options": [
+   "Recognizes and binds to the signal peptide of newly synthesized proteins, pausing translation and targeting the ribosome-nascent chain complex to the endoplasmic reticulum membrane",
+   "Catalyzes the formation of peptide bonds between incoming amino acids during ribosomal elongation",
+   "Unzips mRNA secondary structures in the cytoplasm to facilitate efficient binding to the small ribosomal subunit",
+   "Terminates translation by recognizing stop codons and recruiting releasing factors to the ribosomal A-site"
+  ],
+  "correct": 0,
+  "id": 707
+ },
+ {
+  "question": "Which explains why the oxygen dissociation curve of hemoglobin has a sigmoid shape?",
+  "options": [
+   "Cooperative binding of oxygen to the four subunits of hemoglobin",
+   "Irreversible binding of oxygen to the heme iron in the ferric state",
+   "High affinity of myoglobin for oxygen at low partial pressures",
+   "Allosteric inhibition of hemoglobin by 2,3-bisphosphoglycerate"
+  ],
+  "correct": 0,
+  "id": 708
+ },
+ {
+  "question": "Which statements best defines an enzyme?",
+  "options": [
+   "A biological catalyst that increases the rate of a chemical reaction by lowering its activation energy",
+   "A structural protein that provides mechanical support to cellular and extracellular matrices",
+   "A high-energy molecule that stores and transports chemical energy within cells",
+   "A genetic material that encodes the primary amino acid sequence of polypeptides"
+  ],
+  "correct": 0,
+  "id": 709
+ },
+ {
+  "question": "Which class of enzymes catalyzes the transfer of a phosphate group from ATP to another molecule?",
+  "options": [
+   "Kinase",
+   "Phosphatase",
+   "Phosphorylase",
+   "Dehydrogenase"
+  ],
+  "correct": 0,
+  "id": 710
+ },
+ {
+  "question": "Which enzyme class catalyzes oxidation–reduction reactions?",
+  "options": [
+   "Ligases",
+   "Oxidoreductases",
+   "Transferases",
+   "Hydrolases"
+  ],
+  "correct": 1,
+  "id": 711
+ },
+ {
+  "question": "Which mechanisms explains how enzymes increase the rate of a chemical reaction?",
+  "options": [
+   "By lowering the activation energy of the reaction",
+   "By altering the overall standard free energy change of the reaction",
+   "By increasing the temperature of the cellular environment",
+   "By consuming the substrate to permanently shift the equilibrium"
+  ],
+  "correct": 0,
+  "id": 712
+ },
+ {
+  "question": "Which enzymes is classified as a ligase?",
+  "options": [
+   "Pyruvate carboxylase",
+   "Hexokinase",
+   "Phosphoglucoisomerase",
+   "Lactate dehydrogenase"
+  ],
+  "correct": 0,
+  "id": 713
+ },
+ {
+  "question": "Enzyme activity is most accurately measured by Which?",
+  "options": [
+   "Measurement of product formed per unit of time",
+   "Measurement of total protein concentration",
+   "Determination of the molecular weight of the enzyme",
+   "Measurement of substrate consumed until equilibrium is reached"
+  ],
+  "correct": 0,
+  "id": 714
+ },
+ {
+  "question": "Which terms refers to the substrate concentration at which the reaction velocity is half of the maximum velocity (Vmax)?",
+  "options": [
+   "Turnover number",
+   "Michaelis constant",
+   "Catalytic efficiency",
+   "Inhibition constant"
+  ],
+  "correct": 1,
+  "id": 715
+ },
+ {
+  "question": "Which changes is seen with a non-competitive inhibitor?",
+  "options": [
+   "Decreased Vmax, unchanged Km",
+   "Decreased Vmax, increased Km",
+   "Unchanged Vmax, increased Km",
+   "Decreased Vmax, decreased Km"
+  ],
+  "correct": 0,
+  "id": 716
+ },
+ {
+  "question": "Which statements correctly describes competitive inhibition?",
+  "options": [
+   "Increases the apparent Km without altering the Vmax",
+   "Decreases the Vmax without altering the Km",
+   "Decreases both the apparent Km and the Vmax",
+   "Increases both the apparent Km and the Vmax"
+  ],
+  "correct": 0,
+  "id": 717
+ },
+ {
+  "question": "Aspirin acts as an enzyme inhibitor by Which mechanisms?",
+  "options": [
+   "Competitive inhibition",
+   "Noncompetitive inhibition",
+   "Covalent modification (acetylation)",
+   "Allosteric activation"
+  ],
+  "correct": 2,
+  "id": 718
+ },
+ {
+  "question": "Methotrexate inhibits dihydrofolate reductase by competing with Which?",
+  "options": [
+   "Dihydrofolate",
+   "Tetrahydrofolate",
+   "Folic acid",
+   "NADPH"
+  ],
+  "correct": 0,
+  "id": 719
+ },
+ {
+  "question": "Which mechanisms explains the toxicity caused by organophosphate insecticides such as parathion and malathion?",
+  "options": [
+   "Irreversible inhibition of acetylcholinesterase, leading to accumulation of acetylcholine",
+   "Competitive inhibition of cytochrome c oxidase in the mitochondrial electron transport chain",
+   "Covalent modification of the alpha subunit of the Na+/K+-ATPase pump",
+   "Allosteric activation of GABA receptors, causing profound central nervous system depression"
+  ],
+  "correct": 0,
+  "id": 720
+ },
+ {
+  "question": "Which conditions is treated using suicidal inhibition of monoamine oxidase (MAO) by selegiline?",
+  "options": [
+   "Parkinson's disease",
+   "Type 2 diabetes mellitus",
+   "Gout",
+   "Myasthenia gravis"
+  ],
+  "correct": 0,
+  "id": 721
+ },
+ {
+  "question": "Which enzyme is inhibited by disulfiram therapy, leading to flushing and nausea after alcohol ingestion?",
+  "options": [
+   "Alcohol dehydrogenase",
+   "Acetaldehyde dehydrogenase",
+   "Pyruvate dehydrogenase",
+   "Cytochrome P450 2E1"
+  ],
+  "correct": 1,
+  "id": 722
+ },
+ {
+  "question": "Which is a clinically used enzyme activator that promotes fibrinolysis?",
+  "options": [
+   "Aminocaproic acid",
+   "Tissue plasminogen activator (tPA)",
+   "Aspirin",
+   "Warfarin"
+  ],
+  "correct": 1,
+  "id": 723
+ },
+ {
+  "question": "Allopurinol is a structural analog of hypoxanthine that inhibits which enzyme?",
+  "options": [
+   "Xanthine oxidase",
+   "Adenosine deaminase",
+   "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+   "Ribonucleotide reductase"
+  ],
+  "correct": 0,
+  "id": 724
+ },
+ {
+  "question": "Statins (e.g., atorvastatin, simvastatin) lower cholesterol by inhibiting which enzyme?",
+  "options": [
+   "HMG-CoA reductase",
+   "HMG-CoA synthase",
+   "Squalene synthase",
+   "Cholesterol ester transfer protein"
+  ],
+  "correct": 0,
+  "id": 725
+ },
+ {
+  "question": "Which best explains why ethanol is used as an antidote in methanol or ethylene glycol poisoning?",
+  "options": [
+   "Ethanol induces the renal excretion of methanol and ethylene glycol.",
+   "Ethanol competitively inhibits alcohol dehydrogenase, preventing the formation of toxic metabolites.",
+   "Ethanol binds directly to methanol and ethylene glycol to neutralize their toxicity.",
+   "Ethanol acts as an allosteric activator of aldehyde dehydrogenase, accelerating the clearance of toxic acids."
+  ],
+  "correct": 1,
+  "id": 726
+ },
+ {
+  "question": "Which type of chemical reaction is catalyzed by oxidoreductase enzymes?",
+  "options": [
+   "Transfer of electrons from one molecule to another",
+   "Hydrolysis of peptide bonds in proteins",
+   "Joining of two molecules using ATP energy",
+   "Rearrangement of atoms to form an isomer"
+  ],
+  "correct": 0,
+  "id": 727
+ },
+ {
+  "question": "Lactate dehydrogenase (LDH) is classified under which enzyme group?",
+  "options": [
+   "Transferases",
+   "Oxidoreductases",
+   "Hydrolases",
+   "Lyases"
+  ],
+  "correct": 1,
+  "id": 728
+ },
+ {
+  "question": "Which mechanisms is used by hydrolase enzymes to break chemical bonds?",
+  "options": [
+   "Oxidation",
+   "Reduction",
+   "Hydrolysis",
+   "Phosphorylation"
+  ],
+  "correct": 2,
+  "id": 729
+ },
+ {
+  "question": "Which enzymes is a hydrolase?",
+  "options": [
+   "Hexokinase",
+   "Chymotrypsin",
+   "DNA ligase",
+   "Lactate dehydrogenase"
+  ],
+  "correct": 1,
+  "id": 730
+ },
+ {
+  "question": "Which factors does not significantly influence enzyme activity?",
+  "options": [
+   "Temperature",
+   "Substrate concentration",
+   "Magnetic field strength",
+   "pH"
+  ],
+  "correct": 2,
+  "id": 731
+ },
+ {
+  "question": "Which best explains why the optimal pH of the enzyme pepsin differs from that of trypsin?",
+  "options": [
+   "Pepsin functions in the acidic environment of the stomach, whereas trypsin functions in the alkaline environment of the small intestine.",
+   "Pepsin requires a higher concentration of metal ion cofactors found only in the stomach.",
+   "Trypsin undergoes irreversible denaturation at the low pH found in the stomach.",
+   "Pepsin is a plant-derived enzyme, whereas trypsin is of mammalian origin."
+  ],
+  "correct": 0,
+  "id": 732
+ },
+ {
+  "question": "What happens in an enzyme-catalyzed reaction when the substrate concentration is increased beyond the saturation point?",
+  "options": [
+   "Reaction velocity remains constant at Vmax",
+   "Reaction velocity increases linearly",
+   "Enzyme is irreversibly denatured",
+   "Km increases proportionally"
+  ],
+  "correct": 0,
+  "id": 733
+ },
+ {
+  "question": "Which statements regarding oxidoreductases is correct?",
+  "options": [
+   "Oxidoreductases catalyze the transfer of electrons from one molecule to another.",
+   "Oxidoreductases are exclusively involved in the breakdown of DNA and RNA.",
+   "Oxidoreductases require ATP hydrolysis for every catalytic cycle.",
+   "Oxidoreductases function solely as structural proteins in the mitochondrial membrane."
+  ],
+  "correct": 0,
+  "id": 734
+ },
+ {
+  "question": "Which vitamins is essential for normal vision and epithelial cell integrity?",
+  "options": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "correct": 0,
+  "id": 735
+ },
+ {
+  "question": "Which is the biologically active form of vitamin D that is responsible for promoting calcium absorption in the intestine?",
+  "options": [
+   "1,25-dihydroxycholecalciferol",
+   "25-hydroxycholecalciferol",
+   "Cholecalciferol",
+   "Ergocalciferol"
+  ],
+  "correct": 0,
+  "id": 736
+ },
+ {
+  "question": "Deficiency of which fat-soluble vitamin leads to prolonged prothrombin time (PT)?",
+  "options": [
+   "Vitamin A",
+   "Vitamin D",
+   "Vitamin E",
+   "Vitamin K"
+  ],
+  "correct": 3,
+  "id": 737
+ },
+ {
+  "question": "Which acts as a major antioxidant in the body’s lipid membranes?",
+  "options": [
+   "Vitamin C",
+   "Vitamin E",
+   "Glutathione",
+   "Superoxide dismutase"
+  ],
+  "correct": 1,
+  "id": 738
+ },
+ {
+  "question": "Deficiency of Which vitamins leads to rickets in children and osteomalacia in adults?",
+  "options": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "correct": 2,
+  "id": 739
+ },
+ {
+  "question": "Which vitamin can be synthesized endogenously in the skin upon UV exposure?",
+  "options": [
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B12",
+   "Vitamin A"
+  ],
+  "correct": 1,
+  "id": 740
+ },
+ {
+  "question": "Deficiency of which vitamin leads to hemolytic anemia in premature infants?",
+  "options": [
+   "Vitamin E",
+   "Vitamin K",
+   "Vitamin C",
+   "Vitamin B12"
+  ],
+  "correct": 0,
+  "id": 741
+ },
+ {
+  "question": "Which increases the requirement of Vitamin K?",
+  "options": [
+   "Prolonged broad-spectrum antibiotic therapy",
+   "High dietary intake of leafy green vegetables",
+   "Renal failure",
+   "Increased exposure to sunlight"
+  ],
+  "correct": 0,
+  "id": 742
+ },
+ {
+  "question": "Which is a function of Vitamin A in vision?",
+  "options": [
+   "Conversion of 11-cis-retinal to all-trans-retinal upon photon absorption by rhodopsin",
+   "Cofactor for the enzyme that synthesizes rhodopsin de novo in the cornea",
+   "Directly maintains the structural integrity of the optic nerve myelin sheath",
+   "Acts as an antioxidant that prevents cataracts by scavenging ultraviolet light"
+  ],
+  "correct": 0,
+  "id": 743
+ },
+ {
+  "question": "Which vitamins acts as a hormone regulating gene transcription?",
+  "options": [
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B12",
+   "Vitamin E"
+  ],
+  "correct": 1,
+  "id": 744
+ },
+ {
+  "question": "Which is the earliest symptom of vitamin A deficiency?",
+  "options": [
+   "Night blindness (nyctalopia)",
+   "Bitot's spots",
+   "Xerophthalmia",
+   "Keratomalacia"
+  ],
+  "correct": 0,
+  "id": 745
+ },
+ {
+  "question": "Which statements about Vitamin E is correct?",
+  "options": [
+   "It functions primarily as a lipid-soluble antioxidant in cell membranes.",
+   "Its deficiency classically causes night blindness and xerophthalmia.",
+   "It acts as a coenzyme in gamma-carboxylation of clotting factors.",
+   "It is synthesized endogenously by intestinal microflora in sufficient amounts."
+  ],
+  "correct": 0,
+  "id": 746
+ },
+ {
+  "question": "Deficiency of which vitamin causes megaloblastic anemia that is not corrected by folic acid?",
+  "options": [
+   "Vitamin B1",
+   "Vitamin B6",
+   "Vitamin B12",
+   "Vitamin C"
+  ],
+  "correct": 2,
+  "id": 747
+ },
+ {
+  "question": "Which vitamin is required for the conversion of homocysteine to methionine?",
+  "options": [
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin A"
+  ],
+  "correct": 0,
+  "id": 748
+ },
+ {
+  "question": "Deficiency of which vitamin leads to beriberi and Wernicke–Korsakoff syndrome?",
+  "options": [
+   "Vitamin B1 (Thiamine)",
+   "Vitamin B3 (Niacin)",
+   "Vitamin B6 (Pyridoxine)",
+   "Vitamin B12 (Cobalamin)"
+  ],
+  "correct": 0,
+  "id": 749
+ },
+ {
+  "question": "Riboflavin functions as a component of which coenzyme?",
+  "options": [
+   "Nicotinamide adenine dinucleotide (NAD+)",
+   "Flavin adenine dinucleotide (FAD)",
+   "Thiamine pyrophosphate (TPP)",
+   "Pyridoxal phosphate (PLP)"
+  ],
+  "correct": 1,
+  "id": 750
+ },
+ {
+  "question": "Pellagra is caused by deficiency of which vitamin?",
+  "options": [
+   "Vitamin B1",
+   "Vitamin B3",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "correct": 1,
+  "id": 751
+ },
+ {
+  "question": "Which vitamin is required for the transamination of amino acids?",
+  "options": [
+   "Vitamin B6 (Pyridoxine)",
+   "Vitamin B1 (Thiamine)",
+   "Vitamin C (Ascorbic acid)",
+   "Vitamin B12 (Cobalamin)"
+  ],
+  "correct": 0,
+  "id": 752
+ },
+ {
+  "question": "Which lipoprotein contains apolipoprotein B-100 (Apo B-100)?",
+  "options": [
+   "Chylomicrons",
+   "High-Density Lipoprotein (HDL)",
+   "Low-Density Lipoprotein (LDL)",
+   "Lipoprotein(a) [Note: Also contains Apo B-100, but primary classic carrier is LDL]"
+  ],
+  "correct": 2,
+  "id": 753
+ },
+ {
+  "question": "Which basic defect is responsible for familial hypercholesterolemia (Type IIa hyperlipoproteinemia)?",
+  "options": [
+   "Deficiency of functional LDL receptors on the cell surface",
+   "Overproduction of apolipoprotein C-II by the liver",
+   "Mutation in the gene encoding lipoprotein lipase",
+   "Deficiency of intracellular hormone-sensitive lipase"
+  ],
+  "correct": 0,
+  "id": 754
+ },
+ {
+  "question": "Which apolipoproteins mediates the binding of chylomicron remnants and IDL to hepatic receptors?",
+  "options": [
+   "Apo A-I",
+   "Apo B-48",
+   "Apo C-II",
+   "Apo E"
+  ],
+  "correct": 3,
+  "id": 755
+ },
+ {
+  "question": "Which Fredrickson type of hyperlipoproteinemia is most likely in a patient who has elevated total cholesterol and triglyceride levels with a creamy supernatant and turbid plasma after refrigeration?",
+  "options": [
+   "Type I",
+   "Type IIa",
+   "Type IIb",
+   "Type III"
+  ],
+  "correct": 0,
+  "id": 756
+ },
+ {
+  "question": "Which enzyme activities is increased by insulin and decreased during fasting, influencing lipoprotein metabolism?",
+  "options": [
+   "Hormone-sensitive lipase",
+   "Lipoprotein lipase",
+   "Glucokinase",
+   "Glucose-6-phosphatase"
+  ],
+  "correct": 1,
+  "id": 757
+ },
+ {
+  "question": "Which disorder of lipid metabolism leads to accumulation of ceramide trihexoside in tissues?",
+  "options": [
+   "Tay-Sachs disease",
+   "Fabry disease",
+   "Gaucher disease",
+   "Niemann-Pick disease"
+  ],
+  "correct": 1,
+  "id": 758
+ },
+ {
+  "question": "Which storage material accumulates in Niemann–Pick disease?",
+  "options": [
+   "Sphingomyelin",
+   "Glycogen",
+   "Ceramide trihexoside",
+   "Galactocerebroside"
+  ],
+  "correct": 0,
+  "id": 759
+ },
+ {
+  "question": "Which enzyme deficiency is responsible for Tay–Sachs disease?",
+  "options": [
+   "Hexosaminidase A",
+   "Glucocerebrosidase",
+   "Sphingomyelinase",
+   "Arylsulfatase A"
+  ],
+  "correct": 0,
+  "id": 760
+ },
+ {
+  "question": "Which gene mutation causes defective transport of cholesterol out of cells in Tangier disease?",
+  "options": [
+   "ABCA1",
+   "LDLR",
+   "HMGCR",
+   "APOE"
+  ],
+  "correct": 0,
+  "id": 761
+ },
+ {
+  "question": "Which enzyme deficiency leads to the accumulation of glucocerebroside in macrophages (Gaucher cells)?",
+  "options": [
+   "Hexosaminidase A",
+   "Glucocerebrosidase",
+   "Sphingomyelinase",
+   "Alpha-galactosidase A"
+  ],
+  "correct": 1,
+  "id": 762
+ },
+ {
+  "question": "Which type of fatty acid oxidation is impaired in Refsum disease, leading to the accumulation of phytanic acid?",
+  "options": [
+   "Alpha-oxidation",
+   "Beta-oxidation",
+   "Omega-oxidation",
+   "Gamma-oxidation"
+  ],
+  "correct": 0,
+  "id": 763
+ },
+ {
+  "question": "Which conditions is associated with defective peroxisomal oxidation of very-long-chain fatty acids (VLCFAs)?",
+  "options": [
+   "Zellweger syndrome",
+   "McArdle disease",
+   "Tay-Sachs disease",
+   "Von Gierke disease"
+  ],
+  "correct": 0,
+  "id": 764
+ },
+ {
+  "question": "Which lipid disorders shows accumulation of GM₂ ganglioside due to hexosaminidase A deficiency?",
+  "options": [
+   "Tay-Sachs disease",
+   "Gaucher disease",
+   "Niemann-Pick disease",
+   "Fabry disease"
+  ],
+  "correct": 0,
+  "id": 765
+ },
+ {
+  "question": "Which disorder is characterized by deficiency of arylsulfatase A leading to accumulation of sulfatides in neural tissue and progressive demyelination?",
+  "options": [
+   "Tay-Sachs disease",
+   "Metachromatic leukodystrophy",
+   "Krabbe disease",
+   "Gaucher disease"
+  ],
+  "correct": 1,
+  "id": 766
+ },
+ {
+  "question": "Which enzyme deficiency causes accumulation of galactocerebroside and psychosine leading to demyelination and peripheral neuropathy?",
+  "options": [
+   "Arylsulfatase A",
+   "Galactocerebrosidase",
+   "Hexosaminidase A",
+   "Sphingomyelinase"
+  ],
+  "correct": 1,
+  "id": 767
+ },
+ {
+  "question": "Which lipid storage diseases is associated with deficiency of α-galactosidase A and accumulation of ceramide trihexoside?",
+  "options": [
+   "Tay-Sachs disease",
+   "Fabry disease",
+   "Gaucher disease",
+   "Niemann-Pick disease"
+  ],
+  "correct": 1,
+  "id": 768
+ },
+ {
+  "question": "Which diseases is caused by a deficiency of sphingomyelinase leading to accumulation of sphingomyelin in tissues?",
+  "options": [
+   "Tay-Sachs disease",
+   "Niemann-Pick disease",
+   "Gaucher disease",
+   "Fabry disease"
+  ],
+  "correct": 1,
+  "id": 769
+ },
+ {
+  "question": "Which enzymatic principle is used in the most accurate test for estimating plasma total cholesterol levels?",
+  "options": [
+   "Enzymatic methods using cholesterol esterase, cholesterol oxidase, and peroxidase",
+   "Chemical Liebermann-Burchard reaction after solvent extraction",
+   "Jaffe reaction involving alkaline picrate",
+   "Spectrophotometric measurement of NADH coupled to lactate dehydrogenase"
+  ],
+  "correct": 0,
+  "id": 770
+ },
+ {
+  "question": "Which lipoprotein fraction is usually measured to assess “bad cholesterol”?",
+  "options": [
+   "High-Density Lipoprotein (HDL)",
+   "Low-Density Lipoprotein (LDL)",
+   "Chylomicrons",
+   "Very Low-Density Lipoprotein (VLDL)"
+  ],
+  "correct": 1,
+  "id": 771
+ },
+ {
+  "question": "Which lipoprotein fraction is considered the “good cholesterol” and protects against atherosclerosis?",
+  "options": [
+   "Low-density lipoprotein (LDL)",
+   "High-density lipoprotein (HDL)",
+   "Very low-density lipoprotein (VLDL)",
+   "Chylomicrons"
+  ],
+  "correct": 1,
+  "id": 772
+ },
+ {
+  "question": "Which formula is most commonly used to calculate LDL cholesterol in routine laboratory reports?",
+  "options": [
+   "Friedewald formula",
+   "Cockcroft-Gault formula",
+   "Henderson-Hasselbalch equation",
+   "Michaelis-Menten equation"
+  ],
+  "correct": 0,
+  "id": 773
+ },
+ {
+  "question": "Which lipoprotein fraction migrates fastest toward the anode during electrophoresis?",
+  "options": [
+   "Chylomicrons",
+   "Very low-density lipoproteins (VLDL)",
+   "Low-density lipoproteins (LDL)",
+   "High-density lipoproteins (HDL)"
+  ],
+  "correct": 3,
+  "id": 774
+ },
+ {
+  "question": "Which laboratory test is the most sensitive indicator of early atherosclerotic risk?",
+  "options": [
+   "Total serum cholesterol",
+   "High-sensitivity C-reactive protein (hs-CRP)",
+   "Fasting blood glucose",
+   "Serum triglycerides"
+  ],
+  "correct": 1,
+  "id": 775
+ },
+ {
+  "question": "Which organ is the main site of protein digestion in the human body?",
+  "options": [
+   "Stomach",
+   "Liver",
+   "Pancreas",
+   "Gallbladder"
+  ],
+  "correct": 0,
+  "id": 776
+ },
+ {
+  "question": "Which enzymes is secreted by the stomach for protein digestion?",
+  "options": [
+   "Trypsin",
+   "Pepsin",
+   "Carboxypeptidase",
+   "Enteropeptidase"
+  ],
+  "correct": 1,
+  "id": 777
+ },
+ {
+  "question": "Which inactive precursor (zymogen) is secreted by the pancreas and later converted into trypsin?",
+  "options": [
+   "Chymotrypsinogen",
+   "Pepsinogen",
+   "Procarboxypeptidase",
+   "Trypsinogen"
+  ],
+  "correct": 3,
+  "id": 778
+ },
+ {
+  "question": "Which enzyme is responsible for activating pancreatic proteolytic enzymes in the intestine?",
+  "options": [
+   "Enteropeptidase",
+   "Trypsin",
+   "Pepsin",
+   "Carboxypeptidase"
+  ],
+  "correct": 0,
+  "id": 779
+ },
+ {
+  "question": "Which enzymes hydrolyzes peptide bonds on the carboxyl terminal of proteins?",
+  "options": [
+   "Carboxypeptidase",
+   "Aminopeptidase",
+   "Pepsin",
+   "Endopeptidase"
+  ],
+  "correct": 0,
+  "id": 780
+ },
+ {
+  "question": "Which amino acids stimulates gastrin secretion, thereby increasing gastric acid and pepsin release?",
+  "options": [
+   "Phenylalanine and tryptophan",
+   "Glycine and alanine",
+   "Lysine and arginine",
+   "Glutamate and aspartate"
+  ],
+  "correct": 0,
+  "id": 781
+ },
+ {
+  "question": "Which mechanism is mainly responsible for the absorption of amino acids from the intestinal lumen?",
+  "options": [
+   "Simple passive diffusion through the lipid bilayer",
+   "Sodium-dependent active transport (symport)",
+   "Receptor-mediated endocytosis via coated pits",
+   "Pinocytosis of intact di- and tripeptides"
+  ],
+  "correct": 1,
+  "id": 782
+ },
+ {
+  "question": "Which amino acids have defective transport in the intestine and renal tubules in cystinuria?",
+  "options": [
+   "Cystine, Ornithine, Lysine, Arginine",
+   "Citrulline, Ornithine, Tyrosine, Phenylalanine",
+   "Cystine, Glycine, Proline, Hydroxyproline",
+   "Cysteine, Methionine, Taurine, Homocysteine"
+  ],
+  "correct": 0,
+  "id": 783
+ },
+ {
+  "question": "Which is true regarding protein digestion in the small intestine?",
+  "options": [
+   "Trypsinogen is activated by enteropeptidase (enterokinase) in the brush border.",
+   "Pepsin is the primary enzyme responsible for protein digestion in the lumen of the small intestine.",
+   "Amino acids are exclusively absorbed into the enterocytes via simple diffusion.",
+   "Carboxypeptidases are endopeptidases secreted by the stomach."
+  ],
+  "correct": 0,
+  "id": 784
+ },
+ {
+  "question": "A patient with chronic pancreatitis presents with steatorrhea and loss of muscle mass. Which enzymes is most directly deficient, impairing protein digestion?",
+  "options": [
+   "Pancreatic lipase",
+   "Trypsin",
+   "Amylase",
+   "Lactase"
+  ],
+  "correct": 1,
+  "id": 785
+ },
+ {
+  "question": "Which inherited disorder is characterized by defective absorption of neutral amino acids such as tryptophan and alanine?",
+  "options": [
+   "Hartnup disease",
+   "Phenylketonuria",
+   "Cystinuria",
+   "Alkaptonuria"
+  ],
+  "correct": 0,
+  "id": 786
+ },
+ {
+  "question": "Which pancreatic enzyme cleaves peptide bonds at the carboxyl side of aromatic amino acids like phenylalanine and tryptophan?",
+  "options": [
+   "Trypsin",
+   "Chymotrypsin",
+   "Carboxypeptidase A",
+   "Elastase"
+  ],
+  "correct": 1,
+  "id": 787
+ },
+ {
+  "question": "Which conditions would most likely impair protein digestion in the stomach?",
+  "options": [
+   "Autoimmune destruction of parietal cells",
+   "Excessive gastrin secretion by G cells",
+   "Hypertrophy of the gastric mucosa",
+   "Vagal nerve hyperstimulation"
+  ],
+  "correct": 0,
+  "id": 788
+ },
+ {
+  "question": "Which statements regarding amino acid absorption is FALSE?",
+  "options": [
+   "Amino acids are absorbed across the apical membrane of enterocytes exclusively via simple passive diffusion.",
+   "Sodium-dependent neutral amino acid transporters are present on the brush border membrane of enterocytes.",
+   "Peptides larger than tripeptides are generally not absorbed by the normal adult intestinal mucosa.",
+   "Basolateral transport of amino acids into the blood utilizes facilitated diffusion and sodium-independent carriers."
+  ],
+  "correct": 0,
+  "id": 789
+ },
+ {
+  "question": "Which enzymes is responsible for breaking peptide bonds from the N-terminal end of polypeptides in the intestinal brush border?",
+  "options": [
+   "Carboxypeptidase A",
+   "Aminopeptidase",
+   "Pepsin",
+   "Endopeptidase"
+  ],
+  "correct": 1,
+  "id": 790
+ },
+ {
+  "question": "What is the major end product of nitrogen metabolism in humans?",
+  "options": [
+   "Urea",
+   "Uric acid",
+   "Ammonia",
+   "Creatinine"
+  ],
+  "correct": 0,
+  "id": 791
+ },
+ {
+  "question": "What is the first step in amino acid catabolism?",
+  "options": [
+   "Transamination",
+   "Decarboxylation",
+   "Oxidative phosphorylation",
+   "Beta-oxidation"
+  ],
+  "correct": 0,
+  "id": 792
+ },
+ {
+  "question": "In the urea cycle, Which reactions occurs in the mitochondria?",
+  "options": [
+   "Formation of carbamoyl phosphate from ammonium and bicarbonate",
+   "Conversion of citrulline and aspartate to argininosuccinate",
+   "Cleavage of argininosuccinate into arginine and fumarate",
+   "Hydrolysis of arginine to yield urea and ornithine"
+  ],
+  "correct": 0,
+  "id": 793
+ },
+ {
+  "question": "Which activator is required for the activity of carbamoyl phosphate synthetase I (CPS-I) in the urea cycle?",
+  "options": [
+   "N-Acetylglutamate",
+   "Citrulline",
+   "Glutamine",
+   "Ornithine"
+  ],
+  "correct": 0,
+  "id": 794
+ },
+ {
+  "question": "Which amino acids serves as the major carrier of ammonia in the blood?",
+  "options": [
+   "Alanine",
+   "Glutamine",
+   "Aspartate",
+   "Glutamate"
+  ],
+  "correct": 1,
+  "id": 795
+ },
+ {
+  "question": "Which pairs provides the two nitrogen atoms in urea?",
+  "options": [
+   "Aspartate and Glutamate",
+   "Ammonia and Aspartate",
+   "Carbamoyl phosphate and Glutamine",
+   "Ammonia and Glutamate"
+  ],
+  "correct": 1,
+  "id": 796
+ },
+ {
+  "question": "Which enzymes is defective in ornithine transcarbamoylase (OTC) deficiency, a urea cycle disorder?",
+  "options": [
+   "Ornithine transcarbamoylase",
+   "Carbamoyl phosphate synthetase I",
+   "Argininosuccinate synthetase",
+   "Arginase"
+  ],
+  "correct": 0,
+  "id": 797
+ },
+ {
+  "question": "Which physiological process is primarily facilitated by the glucose–alanine cycle?",
+  "options": [
+   "Transport of nitrogen from skeletal muscle to the liver",
+   "Direct phosphorylation of glucose in the brain",
+   "Conversion of fatty acids to glucose in adipocytes",
+   "Regulation of calcium uptake in cardiac muscle"
+  ],
+  "correct": 0,
+  "id": 798
+ },
+ {
+  "question": "In which organ does the complete urea cycle take place?",
+  "options": [
+   "Kidney",
+   "Liver",
+   "Skeletal muscle",
+   "Brain"
+  ],
+  "correct": 1,
+  "id": 799
+ },
+ {
+  "question": "Which metabolite shows increased urinary excretion in ornithine transcarbamoylase (OTC) deficiency of the urea cycle?",
+  "options": [
+   "Orotate",
+   "Urea",
+   "Uric acid",
+   "Creatinine"
+  ],
+  "correct": 0,
+  "id": 800
+ },
+ {
+  "question": "Which enzyme deficiency causes Hyperammonemia Type I?",
+  "options": [
+   "Carbamoyl phosphate synthetase I deficiency",
+   "Ornithine transcarbamylase deficiency",
+   "Argininosuccinate synthetase deficiency",
+   "Arginase deficiency"
+  ],
+  "correct": 0,
+  "id": 801
+ },
+ {
+  "question": "Which amino acid is most elevated in the blood during liver failure due to increased ammonia detoxification in peripheral tissues?",
+  "options": [
+   "Glutamate",
+   "Glutamine",
+   "Alanine",
+   "Aspartate"
+  ],
+  "correct": 1,
+  "id": 802
+ },
+ {
+  "question": "Which molecule serves as the major form of nitrogen transported from muscle to the liver during fasting?",
+  "options": [
+   "Alanine",
+   "Glutamine",
+   "Urea",
+   "Ammonia"
+  ],
+  "correct": 0,
+  "id": 803
+ },
+ {
+  "question": "In which situation is the activity of glutamate dehydrogenase (GDH) most likely to be increased?",
+  "options": [
+   "High ATP and high NADH levels in the cell",
+   "Low energy charge with high GDP and ADP levels",
+   "Fasting state with inhibited amino acid catabolism",
+   "Fed state with abundant glucose and high insulin"
+  ],
+  "correct": 1,
+  "id": 804
+ },
+ {
+  "question": "Which enzyme deficiency is most likely in a patient with mental retardation, vomiting, hyperammonemia, and markedly elevated plasma citrulline levels?",
+  "options": [
+   "Carbamoyl phosphate synthetase I",
+   "Ornithine transcarbamylase",
+   "Argininosuccinate synthetase",
+   "Arginase"
+  ],
+  "correct": 2,
+  "id": 805
+ },
+ {
+  "question": "Which part of the cell is the site of the first and rate-limiting step of heme synthesis?",
+  "options": [
+   "Cytosol",
+   "Mitochondrion",
+   "Endoplasmic reticulum",
+   "Nucleus"
+  ],
+  "correct": 1,
+  "id": 806
+ },
+ {
+  "question": "Which enzyme is the rate-limiting enzyme in heme synthesis?",
+  "options": [
+   "Uroporphyrinogen decarboxylase",
+   "Aminolevulinic acid (ALA) synthase 1",
+   "Ferrochelatase",
+   "Porphobilinogen synthase"
+  ],
+  "correct": 1,
+  "id": 807
+ },
+ {
+  "question": "Which two enzymes of heme biosynthesis are inhibited in lead (Pb²⁺) poisoning?",
+  "options": [
+   "ALAD (delta-aminolevulinic acid dehydratase) and ferrochelatase",
+   "ALA synthase and porphobilinogen deaminase",
+   "Uroporphyrinogen decarboxylase and coproporphyrinogen oxidase",
+   "Porphobilinogen synthase and uroporphyrinogen III synthase"
+  ],
+  "correct": 0,
+  "id": 808
+ },
+ {
+  "question": "Which enzyme catalyzes the conversion of porphobilinogen to hydroxymethylbilane in the heme biosynthesis pathway?",
+  "options": [
+   "Uroporphyrinogen III synthase",
+   "Porphobilinogen deaminase",
+   "Ferrochelatase",
+   "Aminolevulinate synthase"
+  ],
+  "correct": 1,
+  "id": 809
+ },
+ {
+  "question": "Which molecule conjugates with bilirubin in the liver during bilirubin metabolism?",
+  "options": [
+   "Glucuronic acid",
+   "Glycine",
+   "Glutathione",
+   "Acetyl-CoA"
+  ],
+  "correct": 0,
+  "id": 810
+ },
+ {
+  "question": "Which plasma protein transports unconjugated bilirubin in the bloodstream?",
+  "options": [
+   "Albumin",
+   "Ceruloplasmin",
+   "Haptoglobin",
+   "Transferrin"
+  ],
+  "correct": 0,
+  "id": 811
+ },
+ {
+  "question": "Which laboratory pattern is typically seen in obstructive (post-hepatic) jaundice?",
+  "options": [
+   "Increased conjugated bilirubin, normal or decreased urobilinogen, and elevated alkaline phosphatase",
+   "Increased unconjugated bilirubin, increased urobilinogen, and normal alkaline phosphatase",
+   "Increased conjugated bilirubin, increased urobilinogen, and normal alanine aminotransferase",
+   "Increased unconjugated bilirubin, decreased urobilinogen, and elevated gamma-glutamyl transferase"
+  ],
+  "correct": 0,
+  "id": 812
+ },
+ {
+  "question": "Which laboratory findings are typically seen in hemolytic (pre-hepatic) jaundice?",
+  "options": [
+   "Increased unconjugated bilirubin, normal conjugated bilirubin, negative urine bilirubin, and increased urine urobilinogen",
+   "Increased unconjugated bilirubin, increased conjugated bilirubin, positive urine bilirubin, and decreased urine urobilinogen",
+   "Normal unconjugated bilirubin, increased conjugated bilirubin, positive urine bilirubin, and absent urine urobilinogen",
+   "Increased unconjugated bilirubin, normal conjugated bilirubin, positive urine bilirubin, and absent urine urobilinogen"
+  ],
+  "correct": 0,
+  "id": 813
+ },
+ {
+  "question": "Which enzyme deficiency is most consistent with a patient presenting with photosensitivity, reddish urine, and increased urinary uroporphyrin I?",
+  "options": [
+   "Uroporphyrinogen decarboxylase",
+   "Porphobilinogen deaminase",
+   "Aminolevulinate dehydratase",
+   "Ferrochelatase"
+  ],
+  "correct": 0,
+  "id": 814
+ },
+ {
+  "question": "Which enzyme catalyzes the first and rate-limiting step of purine nucleotide synthesis?",
+  "options": [
+   "PRPP synthetase",
+   "Glutamine-PRPP amidotransferase",
+   "IMP dehydrogenase",
+   "Adenylosuccinate synthetase"
+  ],
+  "correct": 1,
+  "id": 815
+ },
+ {
+  "question": "Which precursor molecule serves as the foundation on which the purine ring is built during purine nucleotide synthesis?",
+  "options": [
+   "Ribose-5-phosphate",
+   "PRPP (5-Phosphoribosyl-1-pyrophosphate)",
+   "Inosine monophosphate",
+   "Carbamoyl phosphate"
+  ],
+  "correct": 1,
+  "id": 816
+ },
+ {
+  "question": "Which enzyme converts hypoxanthine to xanthine and then to uric acid during purine catabolism?",
+  "options": [
+   "Xanthine oxidase",
+   "Adenosine deaminase",
+   "Hypoxanthine-guanine phosphoribosyltransferase",
+   "Purine nucleoside phosphorylase"
+  ],
+  "correct": 0,
+  "id": 817
+ },
+ {
+  "question": "Which cellular process is primarily regulated by the p53 gene?",
+  "options": [
+   "DNA replication initiation",
+   "Cell cycle arrest and apoptosis in response to DNA damage",
+   "Glycolysis and ATP production",
+   "Beta-oxidation of fatty acids"
+  ],
+  "correct": 1,
+  "id": 818
+ },
+ {
+  "question": "Which malignancy is most strongly associated with the oncogene c-myc?",
+  "options": [
+   "Burkitt lymphoma",
+   "Chronic myeloid leukemia",
+   "Melanoma",
+   "Retinoblastoma"
+  ],
+  "correct": 0,
+  "id": 819
+ },
+ {
+  "question": "Which mechanism does the Rb gene product use to prevent uncontrolled cell growth?",
+  "options": [
+   "Sequestration of E2F transcription factors to inhibit cell cycle progression",
+   "Phosphorylation and inactivation of cyclin-dependent kinases",
+   "Direct transcriptional activation of p21 and other CDKI genes",
+   "Ubiqitination and proteolytic degradation of cyclins D and E"
+  ],
+  "correct": 0,
+  "id": 820
+ },
+ {
+  "question": "What are xenobiotics best defined as?",
+  "options": [
+   "Chemical substances foreign to the biological system, including drugs, pesticides, and carcinogens",
+   "Endogenous metabolites produced during normal human catabolism",
+   "Essential micronutrients required for optimal enzymatic function",
+   "Endogenous hormones synthesized by the endocrine system"
+  ],
+  "correct": 0,
+  "id": 821
+ },
+ {
+  "question": "Which enzyme system is primarily responsible for the oxidation of xenobiotics during Phase I metabolism?",
+  "options": [
+   "UDP-glucuronosyltransferases",
+   "Cytochrome P450 monooxygenase system",
+   "Glutathione S-transferases",
+   "N-acetyltransferases"
+  ],
+  "correct": 1,
+  "id": 822
+ },
+ {
+  "question": "Which type of biochemical process mainly occurs during Phase II biotransformation reactions?",
+  "options": [
+   "Oxidation, reduction, and hydrolysis",
+   "Conjugation with endogenous molecules",
+   "Excretion via active tubular secretion",
+   "Decarboxylation and deamination"
+  ],
+  "correct": 1,
+  "id": 823
+ },
+ {
+  "question": "Malondialdehyde (MDA) levels in serum are commonly used as a marker of which biological process?",
+  "options": [
+   "Lipid peroxidation",
+   "Glycogenolysis",
+   "DNA replication",
+   "Protein translation"
+  ],
+  "correct": 0,
+  "id": 824
+ },
+ {
+  "question": "Which reactive oxygen species is formed during the respiratory burst in neutrophils?",
+  "options": [
+   "Superoxide",
+   "Hydroxyl radical",
+   "Hydrogen peroxide",
+   "Singlet oxygen"
+  ],
+  "correct": 0,
+  "id": 825
+ },
+ {
+  "question": "Which is a Phase II conjugation reaction involved in detoxification of xenobiotics?",
+  "options": [
+   "Hydroxylation by cytochrome P450",
+   "Glucuronidation by UDP-glucosyltransferase",
+   "Reduction by NADPH-cytochrome P450 reductase",
+   "Oxidation by monoamine oxidase"
+  ],
+  "correct": 1,
+  "id": 826
+ },
+ {
+  "question": "Which biochemical process involves the enzyme NADPH–cytochrome P450 reductase?",
+  "options": [
+   "Mitochondrial beta-oxidation of very long-chain fatty acids",
+   "Microsomal drug metabolism by the cytochrome P450 system",
+   "Lysosomal degradation of complex carbohydrates",
+   "Peroxisomal synthesis of plasmalogens"
+  ],
+  "correct": 1,
+  "id": 827
+ },
+ {
+  "question": "Which correctly pairs a reactive species with its detoxifying enzyme?",
+  "options": [
+   "Superoxide radical - Superoxide dismutase",
+   "Hydrogen peroxide - Glutathione reductase",
+   "Hydroxyl radical - Catalase",
+   "Peroxynitrite - Myeloperoxidase"
+  ],
+  "correct": 0,
+  "id": 828
+ },
+ {
+  "question": "Which mechanism primarily explains liver hypertrophy observed after chronic administration of phenobarbital?",
+  "options": [
+   "Induction of smooth endoplasmic reticulum proliferation and increased protein synthesis",
+   "Inhibition of apoptosis and decreased cellular turnover",
+   "Glycogen accumulation secondary to activation of glycogen synthase",
+   "Steatosis resulting from impaired very-low-density lipoprotein (VLDL) assembly"
+  ],
+  "correct": 0,
+  "id": 829
+ },
+ {
+  "question": "Which cells are primarily responsible for bone resorption during remodeling?",
+  "options": [
+   "Osteoblasts",
+   "Osteoclasts",
+   "Osteocytes",
+   "Chondrocytes"
+  ],
+  "correct": 1,
+  "id": 830
+ },
+ {
+  "question": "What is the major role of osteoblasts in bone metabolism?",
+  "options": [
+   "Bone resorption and calcium mobilization",
+   "Collagen matrix synthesis and bone mineralization",
+   "Phagocytosis of damaged bone matrix",
+   "Production of hematopoietic stem cells"
+  ],
+  "correct": 1,
+  "id": 831
+ },
+ {
+  "question": "Which enzyme serves as a biochemical marker of osteoblastic activity?",
+  "options": [
+   "Creatine kinase MB",
+   "Alkaline phosphatase",
+   "Alanine aminotransferase",
+   "Amylase"
+  ],
+  "correct": 1,
+  "id": 832
+ },
+ {
+  "question": "Which hormone increases both bone resorption and formation during bone remodeling?",
+  "options": [
+   "Parathyroid hormone (PTH)",
+   "Calcitonin",
+   "Estrogen",
+   "Fibroblast growth factor 23 (FGF23)"
+  ],
+  "correct": 0,
+  "id": 833
+ },
+ {
+  "question": "Which mechanism primarily explains how vitamin D promotes bone mineralization?",
+  "options": [
+   "Increasing calcium and phosphate absorption in the small intestine",
+   "Directly inhibiting osteoclast bone resorption",
+   "Stimulating the thyroid gland to release calcitonin",
+   "Decreasing renal reabsorption of calcium"
+  ],
+  "correct": 0,
+  "id": 834
+ },
+ {
+  "question": "Which biochemical abnormality is the key underlying feature in rickets and osteomalacia?",
+  "options": [
+   "Defective mineralization of bone matrix",
+   "Excessive cross-linking of collagen fibers",
+   "Primary overproduction of type I collagen",
+   "Premature closure of the epiphyseal plates"
+  ],
+  "correct": 0,
+  "id": 835
+ },
+ {
+  "question": "Which form of vitamin D is synthesized in the kidney?",
+  "options": [
+   "1,25-dihydroxycholecalciferol",
+   "Cholecalciferol",
+   "Ergocalciferol",
+   "25-hydroxycholecalciferol"
+  ],
+  "correct": 0,
+  "id": 836
+ },
+ {
+  "question": "Which biochemical abnormality is most characteristic of primary hyperparathyroidism?",
+  "options": [
+   "Hypocalcemia and hyperphosphatemia",
+   "Hypercalcemia and hypophosphatemia",
+   "Hypercalcemia and hyperphosphatemia",
+   "Hypocalcemia and hypophosphatemia"
+  ],
+  "correct": 1,
+  "id": 837
+ },
+ {
+  "question": "Which primary biochemical abnormality is seen in vitamin D–resistant rickets (hypophosphatemic rickets)?",
+  "options": [
+   "Defective renal tubular reabsorption of phosphate leading to hypophosphatemia",
+   "Primary deficiency of 1-alpha-hydroxylase leading to decreased active vitamin D",
+   "Impaired dietary calcium absorption due to a lack of vitamin D intake",
+   "Decreased parathyroid hormone secretion leading to hypercalcemia"
+  ],
+  "correct": 0,
+  "id": 838
+ },
+ {
+  "question": "Which enzymes is most specific for hepatocellular injury?",
+  "options": [
+   "Alanine aminotransferase (ALT)",
+   "Aspartate aminotransferase (AST)",
+   "Alkaline phosphatase (ALP)",
+   "Gamma-glutamyl transferase (GGT)"
+  ],
+  "correct": 0,
+  "id": 839
+ },
+ {
+  "question": "Which enzyme is elevated predominantly in cholestatic (obstructive) liver diseases?",
+  "options": [
+   "Alanine aminotransferase (ALT)",
+   "Aspartate aminotransferase (AST)",
+   "Alkaline phosphatase (ALP)",
+   "Creatine kinase (CK)"
+  ],
+  "correct": 2,
+  "id": 840
+ },
+ {
+  "question": "Which enzyme pattern is typically seen in alcoholic liver disease?",
+  "options": [
+   "AST (SGOT) is typically greater than ALT (SGPT), often by a ratio of 2:1 or more",
+   "ALT (SGPT) is typically greater than AST (SGOT), often by a ratio of 2:1 or more",
+   "Both AST and ALT are markedly elevated above 1000 IU/L with normal alkaline phosphatase",
+   "Isolated elevation of alkaline phosphatase and gamma-glutamyl transferase (GGT) with normal transaminases"
+  ],
+  "correct": 0,
+  "id": 841
+ },
+ {
+  "question": "Which molecule is required for the conjugation of bilirubin in hepatocytes?",
+  "options": [
+   "UDP-glucuronate",
+   "S-adenosylmethionine",
+   "Phosphoadenosine phosphosulfate",
+   "Glutathione"
+  ],
+  "correct": 0,
+  "id": 842
+ },
+ {
+  "question": "Which statements about albumin is true?",
+  "options": [
+   "It is the most abundant plasma protein and maintains oncotic pressure.",
+   "It is primarily synthesized in the reticuloendothelial system.",
+   "It serves as the main transporter for iron in the bloodstream.",
+   "It acts as a positive acute-phase reactant during inflammation."
+  ],
+  "correct": 0,
+  "id": 843
+ },
+ {
+  "question": "Which test best reflects liver’s ability to detoxify and conjugate substances?",
+  "options": [
+   "Serum albumin",
+   "Prothrombin time",
+   "Serum bilirubin",
+   "Serum transaminases (AST/ALT)"
+  ],
+  "correct": 2,
+  "id": 844
+ },
+ {
+  "question": "A 25-year-old man with viral hepatitis has dark urine and elevated total bilirubin (mainly conjugated), ALT = 650 U/L, AST = 400 U/L, ALP = normal. Which type of jaundice is this?",
+  "options": [
+   "Pre-hepatic jaundice",
+   "Hepatic jaundice",
+   "Post-hepatic jaundice",
+   "Obstructive jaundice"
+  ],
+  "correct": 1,
+  "id": 845
+ },
+ {
+  "question": "Which biochemical test is the best indicator of the liver’s synthetic function in acute liver failure?",
+  "options": [
+   "Serum albumin",
+   "Prothrombin time (INR)",
+   "Serum ALT",
+   "Serum bilirubin"
+  ],
+  "correct": 1,
+  "id": 846
+ },
+ {
+  "question": "Which condition is most likely in a 40-year-old male presenting with jaundice, elevated ALP and GGT, and predominantly conjugated bilirubin in serum?",
+  "options": [
+   "Extrahepatic biliary obstruction",
+   "Gilbert syndrome",
+   "Hemolytic anemia",
+   "Crigler-Najjar syndrome"
+  ],
+  "correct": 0,
+  "id": 847
+ },
+ {
+  "question": "Which amino acid is the precursor for synthesis of thyroid hormones?`",
+  "options": [
+   "Tryptophan",
+   "Phenylalanine",
+   "Tyrosine",
+   "Histidine"
+  ],
+  "correct": 2,
+  "id": 848
+ },
+ {
+  "question": "Which cellular site is responsible for the iodination of tyrosine residues within thyroglobulin?",
+  "options": [
+   "Cytoplasm of the follicular cell",
+   "Colloid space of the thyroid follicle",
+   "Rough endoplasmic reticulum of the parafollicular cell",
+   "Mitochondria of the thyroid follicular cell"
+  ],
+  "correct": 1,
+  "id": 849
+ },
+ {
+  "question": "Which combination of iodotyrosine residues correctly forms thyroid hormones during the coupling reactions in thyroglobulin?",
+  "options": [
+   "One molecule of monoiodotyrosine (MIT) and one molecule of diiodotyrosine (DIT) couple to form triiodothyronine (T3)",
+   "Two molecules of monoiodotyrosine (MIT) couple to form thyroxine (T4)",
+   "Two molecules of diiodotyrosine (DIT) couple to form triiodothyronine (T3)",
+   "One molecule of diiodotyrosine (DIT) and one molecule of triiodothyronine (T3) couple to form thyroxine (T4)"
+  ],
+  "correct": 0,
+  "id": 850
+ },
+ {
+  "question": "Which structural level of a protein is determined by the sequence of amino acids in a polypeptide chain?",
+  "options": [
+   "Primary structure",
+   "Secondary structure",
+   "Tertiary structure",
+   "Quaternary structure"
+  ],
+  "correct": 0,
+  "id": 851
+ },
+ {
+  "question": "Which interaction mainly stabilizes the secondary structure of proteins such as α-helices and β-sheets?",
+  "options": [
+   "Hydrogen bonds between backbone peptide groups",
+   "Covalent disulfide bridges between cysteine residues",
+   "Hydrophobic interactions in the interior of the protein",
+   "Ionic bonds between charged side chains"
+  ],
+  "correct": 0,
+  "id": 852
+ },
+ {
+  "question": "What is the main reason for lactic acidosis in mitochondrial disorders?",
+  "options": [
+   "Impaired oxidative phosphorylation leading to a high NADH/NAD+ ratio, which shifts pyruvate metabolism toward lactate",
+   "Direct inhibition of lactate dehydrogenase by mutated mitochondrial proteins",
+   "Upregulation of the cori cycle due to increased hepatic gluconeogenesis",
+   "Depletion of intracellular glucose stores forcing anaerobic glycolysis"
+  ],
+  "correct": 0,
+  "id": 853
+ },
+ {
+  "question": "A patient presents with muscle fatigue and exercise intolerance. Muscle biopsy shows absent glycogen phosphorylase activity. Which finding is most likely?",
+  "options": [
+   "Failure of blood lactate to rise after ischemic exercise",
+   "Fasting hypoglycemia with hepatomegaly",
+   "Accumulation of branched-chain amino acids in plasma",
+   "Elevated activity of lysosomal acid alpha-glucosidase"
+  ],
+  "correct": 0,
+  "id": 854
+ },
+ {
+  "question": "Which metabolic process leads to an increase in blood glucose levels?",
+  "options": [
+   "Glycolysis",
+   "Glycogenolysis",
+   "Lipogenesis",
+   "Glycogenesis"
+  ],
+  "correct": 1,
+  "id": 855
+ },
+ {
+  "question": "A patient with chronic stress has persistently elevated cortisol levels. What is the most likely effect of this hormone on carbohydrate metabolism?",
+  "options": [
+   "Stimulates hepatic gluconeogenesis",
+   "Increases peripheral glucose uptake",
+   "Inhibits glycogenolysis",
+   "Downregulates hormone-sensitive lipase"
+  ],
+  "correct": 0,
+  "id": 856
+ },
+ {
+  "question": "A patient with type 1 diabetes mellitus received an insulin injection. Shortly afterward, a decrease in blood glucose levels was observed. What is the primary mechanism of action of insulin responsible for this effect?",
+  "options": [
+   "Stimulation of translocation of GLUT4 glucose transporters to the plasma membrane in skeletal muscle and adipose tissue",
+   "Inhibition of hepatic glycogenolysis through allosteric activation of glycogen phosphorylase",
+   "Activation of gluconeogenesis via upregulation of phosphoenolpyruvate carboxykinase transcription",
+   "Inhibition of glucose absorption in the small intestine by blocking brush border disaccharidases"
+  ],
+  "correct": 0,
+  "id": 857
+ },
+ {
+  "question": "A 52-year-old patient presents with episodes of sweating, tremor, and confusion, especially during fasting. Blood glucose is low. A tumor of pancreatic β-cells is found.\nWhich hormone is most likely elevated?",
+  "options": [
+   "Insulin",
+   "Glucagon",
+   "Cortisol",
+   "Epinephrine"
+  ],
+  "correct": 0,
+  "id": 858
+ },
+ {
+  "question": "The patient experiences recurrent episodes of acute intravascular hemolysis occurring after taking oxidative drugs (including antimalarial agents). Laboratory tests show signs of hemolytic anemia, increased indirect bilirubin levels, and decreased antioxidant protection of erythrocytes. Which enzyme is most likely to have a genetic defect in this patient?",
+  "options": [
+   "Glucose-6-phosphate dehydrogenase",
+   "Pyruvate kinase",
+   "Hexokinase",
+   "Glutathione peroxidase"
+  ],
+  "correct": 0,
+  "id": 859
+ },
+ {
+  "question": "A 2-years child with an enlarged liver and fasting hypoglycemia. Biopsy shows glycogen accumulation and a deficiency of the enzyme glucose-6-phosphatase. What is the diagnosis?",
+  "options": [
+   "Cori disease",
+   "Pompe disease",
+   "Von Gierke disease",
+   "McArdle disease"
+  ],
+  "correct": 2,
+  "id": 860
+ },
+ {
+  "question": "The patient has been fasting for 48 hours. There is a tendency toward a decrease in blood glucose concentration; however, its level is maintained within the normal range due to compensatory mechanisms. Which process is the main source of maintaining glycemia during this period?",
+  "options": [
+   "Glycogenolysis",
+   "Gluconeogenesis",
+   "Lipolysis",
+   "Ketogenesis"
+  ],
+  "correct": 1,
+  "id": 861
+ },
+ {
+  "question": "In the human body, long-term energy storage of fatty acids occurs primarily in adipose tissue, where they are esterified and accumulated in a metabolically inert form. Which biochemical form represents the principal storage molecule of fatty acids under physiological conditions?",
+  "options": [
+   "Triacylglycerols",
+   "Phospholipids",
+   "Free fatty acids",
+   "Cholesterol esters"
+  ],
+  "correct": 0,
+  "id": 862
+ },
+ {
+  "question": "A 52-year-old patient has high blood sugar and obesity. After meals, insulin is high. This activates acetyl-CoA carboxylase in the liver, increasing fat production and leading to weight gain. Why is acetyl-CoA carboxylase considered the key regulatory enzyme of fatty acid synthesis?",
+  "options": [
+   "It catalyzes the committed, rate-limiting step of converting acetyl-CoA to malonyl-CoA.",
+   "It directly reduces fatty acyl-CoA using NADPH to elongate the carbon chain.",
+   "It transports acetyl-CoA across the mitochondrial membrane into the cytosol.",
+   "It cleaves citrate into oxaloacetate and acetyl-CoA in the cytoplasm."
+  ],
+  "correct": 0,
+  "id": 863
+ },
+ {
+  "question": "A 6-year-old boy is brought to the clinic with episodes of weakness and low blood sugar, especially during fasting or illness. Laboratory tests show low ketone levels during hypoglycemia. A defect in carnitine palmitoyltransferase I (CPT I) is suspected.\nWhich metabolic change is most likely?",
+  "options": [
+   "Impaired transport of long-chain fatty acids into the mitochondria",
+   "Decreased synthesis of ketone bodies from medium-chain fatty acids",
+   "Defective degradation of branched-chain amino acids",
+   "Inhibition of cytosolic fatty acid synthesis"
+  ],
+  "correct": 0,
+  "id": 864
+ },
+ {
+  "question": "A 45-year-old female patient is undergoing statin therapy. After several weeks, a moderate upregulation of receptor expression on hepatocytes is observed, contributing to a reduction in plasma LDL levels.\nWhich mechanism underlies this effect?",
+  "options": [
+   "Inhibition of HMG-CoA reductase leads to decreased intracellular cholesterol synthesis, which in turn upregulates SREBP-2 and increases LDL receptor gene transcription.",
+   "Statins directly bind to the LDL receptor, inducing a conformational change that prevents its lysosomal degradation.",
+   "Inhibition of hepatic bile acid reabsorption forces hepatocytes to consume cholesterol, stimulating LDL receptor synthesis via PPAR-alpha activation.",
+   "Statins block PCSK9 synthesis, thereby preventing the degradation of LDL receptors on the hepatocyte surface."
+  ],
+  "correct": 0,
+  "id": 865
+ },
+ {
+  "question": "A 24-year-old male with type 1 diabetes mellitus presents with vomiting, abdominal pain, and deep, labored respirations consistent with Kussmaul breathing. Laboratory evaluation demonstrates hyperglycemia, high–anion gap metabolic acidosis, and ketonemia. Which mechanism most directly accounts for the development of the metabolic acidosis?",
+  "options": [
+   "Overproduction of ketoacids due to unchecked lipolysis and hepatic ketogenesis",
+   "Decreased renal excretion of hydrogen ions secondary to diabetic nephropathy",
+   "Lactic acidosis caused by anaerobic glycolysis from systemic dehydration",
+   "Inability of peripheral tissues to reabsorb filtered bicarbonate in the proximal tubules"
+  ],
+  "correct": 0,
+  "id": 866
+ },
+ {
+  "question": "Which lipoprotein particle is primarily responsible for the transport of dietary (exogenous) triglycerides absorbed from the intestine to peripheral tissues (e.g., adipose tissue and muscle)?",
+  "options": [
+   "Chylomicrons",
+   "Very Low-Density Lipoproteins (VLDL)",
+   "Low-Density Lipoproteins (LDL)",
+   "High-Density Lipoproteins (HDL)"
+  ],
+  "correct": 0,
+  "id": 867
+ },
+ {
+  "question": "A 28-year-old male presents with recurrent episodes of acute pancreatitis. Laboratory evaluation reveals severe hypertriglyceridemia (25 mmol/L). Lipoprotein electrophoresis demonstrates marked accumulation of chylomicrons in fasting plasma, with secondary reductions in HDL and LDL fractions.\nWhich primary defect most likely underlies this disorder?",
+  "options": [
+   "Deficiency of lipoprotein lipase (LPL)",
+   "Deficiency of LDL receptor",
+   "Overproduction of ApoB-100 by the liver",
+   "Deficiency of cholesterol ester transfer protein (CETP)"
+  ],
+  "correct": 0,
+  "id": 868
+ },
+ {
+  "question": "A 36-year-old man with obesity and chronic alcohol consumption is admitted with acute pancreatitis. Laboratory testing reveals severe hypertriglyceridemia (28 mmol/L). After a 14-hour fast, marked chylomicronemia persists. Administration of heparin initially improves plasma triglyceride clearance, followed by subsequent deterioration of the lipid profile. Which mechanism is most likely exhausted by heparin administration?",
+  "options": [
+   "Hepatic triglyceride lipase synthesis",
+   "Endothelial lipoprotein lipase (LPL) stores",
+   "Hepatic apolipoprotein C-II production",
+   "Pancreatic chymotrypsin activation"
+  ],
+  "correct": 1,
+  "id": 869
+ },
+ {
+  "question": "Which processes is primarily responsible for the \"Reverse Cholesterol Transport\", and which lipoprotein mediates it?",
+  "options": [
+   "Transport of excess cholesterol from peripheral tissues to the liver, mediated by HDL",
+   "Transport of dietary cholesterol from the intestine to the liver, mediated by Chylomicrons",
+   "Transport of endogenous triglycerides from the liver to adipose tissue, mediated by VLDL",
+   "Transport of cholesterol from the liver to peripheral tissues, mediated by LDL"
+  ],
+  "correct": 0,
+  "id": 870
+ },
+ {
+  "question": "A 28-year-old patient presents with yellowish deposits on the Achilles tendons (tendon xanthomas) and a premature corneal arcus. Laboratory tests reveal extremely high levels of LDL cholesterol, while triglycerides are normal. What one of the followings cause it?",
+  "options": [
+   "Defective LDL receptor gene",
+   "Deficiency of lipoprotein lipase",
+   "Overproduction of apolipoprotein C-II",
+   "Deficiency of hepatic lipase"
+  ],
+  "correct": 0,
+  "id": 871
+ },
+ {
+  "question": "In the pathology of lipid metabolism, the accumulation of triglycerides within hepatocytes (steatosis) is a common finding. Which mechanisms is LEAST likely to contribute to the development of a fatty liver?",
+  "options": [
+   "Increased hepatic secretion of very low-density lipoproteins (VLDLs)",
+   "Decreased beta-oxidation of fatty acids",
+   "Increased peripheral lipolysis leading to elevated free fatty acid influx",
+   "Impaired synthesis of apolipoproteins"
+  ],
+  "correct": 0,
+  "id": 872
+ },
+ {
+  "question": "A 42-year-old male with a history of poorly controlled Type 2 Diabetes Mellitus presents for a routine check-up. His labs show significantly elevated serum triglycerides (550 mg/dL) and low HDL (30 mg/dL). Physical exam reveals small, yellowish, eruptive xanthomas on his back and buttocks. Which is the most likely pathological mechanism for his secondary hyperlipidemia?",
+  "options": [
+   "Increased hepatic production of VLDL due to elevated free fatty acid flux and insulin resistance",
+   "Deficiency of lipoprotein lipase (LPL) due to an autosomal recessive genetic mutation",
+   "Upregulation of peripheral LDL receptors leading to accelerated clearance of apolipoprotein B",
+   "Decreased activity of hormone-sensitive lipase in adipose tissue leading to impaired lipolysis"
+  ],
+  "correct": 0,
+  "id": 873
+ },
+ {
+  "question": "Which laboratory parameters must be measured directly in the patient's fasting serum to accurately LDL cholesterol using the Friedewald formula?",
+  "options": [
+   "Total cholesterol, HDL cholesterol, and triglycerides",
+   "Total cholesterol, VLDL cholesterol, and triglycerides",
+   "Total cholesterol, LDL cholesterol, and HDL cholesterol",
+   "HDL cholesterol, VLDL cholesterol, and triglycerides"
+  ],
+  "correct": 0,
+  "id": 874
+ },
+ {
+  "question": "A patient’s serum sample is collected after a 12-hour fast. After sitting in the refrigerator overnight, the lab technician observes a thick, creamy layer floating on top of a clear serum base. Which laboratory finding would most consistently correlate with this visual observation?",
+  "options": [
+   "Markedly elevated chylomicrons and severe hypertriglyceridemia",
+   "Predominantly elevated LDL cholesterol and normal triglycerides",
+   "Isolated elevation of high-density lipoprotein (HDL)",
+   "Significant decrease in serum total cholesterol with normal triglycerides"
+  ],
+  "correct": 0,
+  "id": 875
+ },
+ {
+  "question": "Which enzymes is the primary activator that converts trypsinogen into its active form, trypsin, within the small intestine?",
+  "options": [
+   "Enteropeptidase",
+   "Pepsin",
+   "Chymotrypsin",
+   "Carboxypeptidase"
+  ],
+  "correct": 0,
+  "id": 876
+ },
+ {
+  "question": "Which specific cell type is responsible for the secretion of pepsinogen, the inactive precursor of the protease pepsin?",
+  "options": [
+   "Parietal cells",
+   "Chief cells",
+   "Mucous neck cells",
+   "G cells"
+  ],
+  "correct": 1,
+  "id": 877
+ },
+ {
+  "question": "Why is the secretion of digestive proteases in an inactive zymogen form essential for the health of the pancreas?",
+  "options": [
+   "To prevent autodigestion and destruction of pancreatic tissue by premature protease activation",
+   "To allow the proteases to be stored in the bloodstream at high concentrations without causing harm",
+   "To enable the liver to modify the protease structures before they reach the acidic stomach environment",
+   "To ensure the proteases only function at an alkaline pH found exclusively in the pancreatic duct"
+  ],
+  "correct": 0,
+  "id": 878
+ },
+ {
+  "question": "Which forms most dietary protein is absorbed into the intestinal epithelial cells?",
+  "options": [
+   "Free amino acids, dipeptides, and tripeptides",
+   "Intact proteins via pinocytosis",
+   "Only free amino acids",
+   "Polypeptides containing more than 10 amino acids"
+  ],
+  "correct": 0,
+  "id": 879
+ },
+ {
+  "question": "A patient is diagnosed with Hartnup disease, a genetic disorder affecting the transport of neutral amino acids in the small intestine. Despite the transport defect, the patient does not show severe protein malnutrition. Which physiological mechanism best explains how the patient still acquires enough amino acids?",
+  "options": [
+   "Intestinal absorption of neutral amino acids also occurs efficiently in the form of di- and tripeptides via the PepT1 transporter.",
+   "The liver synthesizes all essential neutral amino acids in sufficient quantities to prevent malnutrition.",
+   "Renal conservation of neutral amino acids fully compensates for the intestinal malabsorption.",
+   "Free neutral amino acids are absorbed by passive diffusion across the enterocyte membrane at a rate sufficient to prevent deficiency."
+  ],
+  "correct": 0,
+  "id": 880
+ },
+ {
+  "question": "Which enzyme is responsible for the primary \"fixation\" of free ammonia into an organic molecule by catalyzing the formation of glutamine from glutamate?",
+  "options": [
+   "Glutamate dehydrogenase",
+   "Carbamoyl phosphate synthetase I",
+   "Glutamine synthetase",
+   "Glutaminase"
+  ],
+  "correct": 2,
+  "id": 881
+ },
+ {
+  "question": "Which molecule acts as the immediate precursor for both urea and ornithine in the urea cycle?",
+  "options": [
+   "Carbamoyl phosphate",
+   "Arginine",
+   "Citrulline",
+   "Argininosuccinate"
+  ],
+  "correct": 1,
+  "id": 882
+ },
+ {
+  "question": "What is the physiological significance of the Glucose-Alanine cycle in human metabolism?",
+  "options": [
+   "It transports amino nitrogen from skeletal muscle to the liver while providing glucose to the muscle during fasting.",
+   "It generates ATP directly within red blood cells under anaerobic conditions.",
+   "It regulates blood calcium levels by modifying hepatic glycogenolysis.",
+   "It facilitates the uptake of free fatty acids into adipocytes during prolonged exercise."
+  ],
+  "correct": 0,
+  "id": 883
+ },
+ {
+  "question": "Why is the reaction catalyzed by Glutamate Dehydrogenase (GDH) considered a \"pivotal\" point in nitrogen metabolism?",
+  "options": [
+   "It serves as the main recycling center for nitrogen by directly linking amino acid deamination to the urea cycle through urea synthesis.",
+   "It acts as the primary bridge between amino acid metabolism and carbohydrate metabolism by interconverting glutamate and alpha-ketoglutarate.",
+   "It is the only enzyme that can completely oxidize free ammonia into molecular nitrogen for excretion.",
+   "It catalyzes the irreversible fixation of atmospheric nitrogen gas into usable organic amino groups."
+  ],
+  "correct": 1,
+  "id": 884
+ },
+ {
+  "question": "A newborn is diagnosed with a deficiency in the mitochondrial enzyme Carbamoyl Phosphate Synthetase I (CPS I). Which laboratory findings would you most likely expect to observe in this patient?",
+  "options": [
+   "Hyperammonemia, decreased blood urea nitrogen, and respiratory alkalosis",
+   "Hypoammonemia, increased blood urea nitrogen, and metabolic acidosis",
+   "Hyperammonemia, increased blood urea nitrogen, and metabolic acidosis",
+   "Normal ammonia, decreased blood urea nitrogen, and respiratory alkalosis"
+  ],
+  "correct": 0,
+  "id": 885
+ },
+ {
+  "question": "Which structural features is most characteristic of the porphyrin ring system found in heme?",
+  "options": [
+   "Four pyrrole rings linked by methene bridges forming a large conjugated macrocycle",
+   "A linear chain of four isoprene units folded into a globular structure",
+   "A fused four-ring steroid nucleus with a conjugated side chain",
+   "Two benzene rings joined by a peptide bond with iron chelation"
+  ],
+  "correct": 0,
+  "id": 886
+ },
+ {
+  "question": "What is the primary functional consequence of the \"puckered\" or non-planar conformation of the porphyrin ring when iron is in the ferric ($Fe^{3+}$) state?",
+  "options": [
+   "It prevents efficient oxygen binding and promotes methemoglobin formation.",
+   "It increases the affinity of hemoglobin for oxygen by shifting to the R-state.",
+   "It facilitates the cooperative binding of carbon dioxide to the distal histidine.",
+   "It allows the iron atom to sit perfectly in the plane of the ring, enhancing electron transport."
+  ],
+  "correct": 0,
+  "id": 887
+ },
+ {
+  "question": "A researcher is studying a synthetic hemoprotein where the central Iron (Fe 2+ ) of the heme group has been replaced with Copper (Cu 2+ ). What is the most likely result of this substitution based on the structural requirements for gas transport?",
+  "options": [
+   "Inability to cooperatively bind and transport oxygen due to altered coordination geometry and electronic configuration",
+   "Enhanced binding affinity for oxygen due to increased d-orbital overlap with copper",
+   "Formation of a stable superoxide ion that increases overall oxygen storage capacity",
+   "Spontaneous reduction of copper to Cu+ and irreversible precipitation of the protein"
+  ],
+  "correct": 0,
+  "id": 888
+ },
+ {
+  "question": "Which enzyme is the key regulatory enzyme of de novo purine synthesis?",
+  "options": [
+   "PRPP synthetase",
+   "Glutamine-PRPP amidotransferase",
+   "IMP dehydrogenase",
+   "Adenylosuccinate synthetase"
+  ],
+  "correct": 1,
+  "id": 889
+ },
+ {
+  "question": "Which enzyme is targeted by methotrexate in cancer therapy?",
+  "options": [
+   "Thymidylate synthase",
+   "Dihydrofolate reductase",
+   "Ribonucleotide reductase",
+   "Carbamoyl phosphate synthetase II"
+  ],
+  "correct": 1,
+  "id": 890
+ },
+ {
+  "question": "Glutathione peroxidase requires which trace element for its activity?",
+  "options": [
+   "Selenium",
+   "Zinc",
+   "Copper",
+   "Iron"
+  ],
+  "correct": 0,
+  "id": 891
+ },
+ {
+  "question": "A laboratory report shows decreased total antioxidant status (TAS) and increased oxidized glutathione (GSSG). Which condition is indicated by these findings?",
+  "options": [
+   "Oxidative stress",
+   "Metabolic alkalosis",
+   "Respiratory acidosis",
+   "Iron deficiency anemia"
+  ],
+  "correct": 0,
+  "id": 892
+ },
+ {
+  "question": "A patient taking multiple medications develops increased drug clearance due to induction of cytochrome P450 enzymes. Which phase of detoxification is primarily affected?",
+  "options": [
+   "Phase I",
+   "Phase II",
+   "Phase III",
+   "Phase IV"
+  ],
+  "correct": 0,
+  "id": 893
+ },
+ {
+  "question": "Which cells are primarily responsible for bone resorption?",
+  "options": [
+   "Osteoblasts",
+   "Osteocytes",
+   "Osteoclasts",
+   "Osteoprogenitors"
+  ],
+  "correct": 2,
+  "id": 894
+ },
+ {
+  "question": "By what mechanism does calcitonin decrease blood calcium levels?",
+  "options": [
+   "Inhibiting osteoclast activity and promoting renal calcium excretion",
+   "Stimulating osteoblast activity and enhancing intestinal calcium absorption",
+   "Increasing parathyroid hormone release and bone resorption",
+   "Promoting vitamin D activation in the kidneys"
+  ],
+  "correct": 0,
+  "id": 895
+ },
+ {
+  "question": "In vitamin D deficiency, which laboratory pattern is most typical?",
+  "options": [
+   "Decreased serum calcium, decreased serum phosphate, increased parathyroid hormone, increased alkaline phosphatase",
+   "Increased serum calcium, increased serum phosphate, decreased parathyroid hormone, decreased alkaline phosphatase",
+   "Decreased serum calcium, increased serum phosphate, normal parathyroid hormone, increased alkaline phosphatase",
+   "Normal serum calcium, decreased serum phosphate, increased parathyroid hormone, normal alkaline phosphatase"
+  ],
+  "correct": 0,
+  "id": 896
+ },
+ {
+  "question": "Which enzyme is typically elevated in cholestasis?",
+  "options": [
+   "Alkaline phosphatase (ALP)",
+   "Creatine kinase (CK)",
+   "Amylase",
+   "Alanine aminotransferase (ALT)"
+  ],
+  "correct": 0,
+  "id": 897
+ },
+ {
+  "question": "In hemolytic jaundice, which laboratory pattern is most typical?",
+  "options": [
+   "Increased unconjugated bilirubin, normal urine bilirubin, increased urine urobilinogen",
+   "Increased conjugated bilirubin, positive urine bilirubin, decreased urine urobilinogen",
+   "Increased conjugated bilirubin, normal urine bilirubin, absent urine urobilinogen",
+   "Normal unconjugated bilirubin, positive urine bilirubin, increased urine urobilinogen"
+  ],
+  "correct": 0,
+  "id": 898
+ },
+ {
+  "question": "What does a marked elevation of ALT and AST with relatively normal ALP most likely indicate?",
+  "options": [
+   "Hepatocellular injury",
+   "Bile duct obstruction",
+   "Bone pathology",
+   "Infiltrative liver disease"
+  ],
+  "correct": 0,
+  "id": 899
+ },
+ {
+  "question": "Which metabolic effect explains weight loss in hyperthyroidism?",
+  "options": [
+   "Increased expression of uncoupling protein 1 (UCP-1) in brown adipose tissue leading to thermogenesis",
+   "Decreased basal metabolic rate via downregulation of the sodium-potassium ATPase pump",
+   "Increased storage of triglycerides in white adipose tissue due to enhanced lipoprotein lipase activity",
+   "Decreased hepatic gluconeogenesis resulting in chronic hypoglycemia and cachexia"
+  ],
+  "correct": 0,
+  "id": 900
  }
 ]

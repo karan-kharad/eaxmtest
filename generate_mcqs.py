@@ -23,7 +23,7 @@ API_KEY = os.environ.get('GEMINI_API_KEY', '')
 # Use flash-lite for higher rate limits
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key={API_KEY}"
 INPUT_FILE = "/home/karan/semester2_questions.json"
-OUTPUT_FILE = "/home/karan/physiology-exam/question_bank.json"
+OUTPUT_FILE = "/home/karan/physiology-exam/generated_mcqs.json"  # never overwrite question_bank.json directly
 PROGRESS_FILE = "/home/karan/physiology-exam/progress.json"
 
 BATCH_SIZE = 1  # One question at a time to avoid rate limits
