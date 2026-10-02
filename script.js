@@ -79,29 +79,41 @@ function renderExamGrid() {
     }).join('');
 }
 
-// Create 4 exams from the question bank, split evenly across all questions
+// Create exams of 100 questions each, covering the whole question bank.
+// The shuffle order is persisted so each exam always contains the same
+// questions across page reloads (saved progress stays valid).
+let cachedExams = null;
+
 function createExams() {
-    const exams = [];
-    const total = questionBank.length;
-    const numExams = 4;
-    const base = Math.floor(total / numExams);
-    const rem = total % numExams;
-    const examSizes = Array.from({ length: numExams }, (_, i) => base + (i < rem ? 1 : 0));
+    if (cachedExams) return cachedExams;
 
-    // Shuffle all questions
-    const shuffled = [...questionBank].sort(() => Math.random() - 0.5);
+    const questionsPerExam = 100;
+    const ids = questionBank.map(q => q.id);
 
-    let startIndex = 0;
-    for (let i = 0; i < examSizes.length; i++) {
-        const size = examSizes[i];
-        const examQuestions = shuffled.slice(startIndex, startIndex + size);
-        exams.push({
-            name: `Exam ${i + 1}`,
-            questions: examQuestions
-        });
-        startIndex += size;
+    let order = null;
+    try { order = JSON.parse(localStorage.getItem('examQuestionOrder')); } catch (e) {}
+    const valid = Array.isArray(order) && order.length === ids.length &&
+        ids.every(id => order.includes(id));
+    if (!valid) {
+        order = [...ids].sort(() => Math.random() - 0.5);
+        try { localStorage.setItem('examQuestionOrder', JSON.stringify(order)); } catch (e) {}
     }
 
+    const byId = new Map(questionBank.map(q => [q.id, q]));
+    const ordered = order.map(id => byId.get(id)).filter(Boolean);
+
+    const exams = [];
+    const numExams = Math.ceil(ordered.length / questionsPerExam);
+    let startIndex = 0;
+    for (let i = 0; i < numExams; i++) {
+        exams.push({
+            name: `Exam ${i + 1}`,
+            questions: ordered.slice(startIndex, startIndex + questionsPerExam)
+        });
+        startIndex += questionsPerExam;
+    }
+
+    cachedExams = exams;
     return exams;
 }
 
@@ -118,7 +130,7 @@ function getExamStatus(examIndex) {
     return { class: 'not-started', text: 'Not Started' };
 }
 
-// Start an exam
+// Start an exam (resumes saved progress if the exam was in progress)
 function startExam(examIndex) {
     const exams = createExams();
     currentExam = exams[examIndex];
@@ -127,6 +139,18 @@ function startExam(examIndex) {
     answers = {};
     timeRemaining = 2 * 60 * 60; // Reset to 2 hours
     examStartTime = Date.now();
+
+    // Resume in-progress exam if available
+    const inProgress = JSON.parse(localStorage.getItem('examInProgress') || '{}');
+    if (inProgress[examIndex]) {
+        const saved = inProgress[examIndex];
+        answers = saved.answers || {};
+        currentQuestion = saved.currentQuestion || 0;
+        examStartTime = saved.examStartTime || examStartTime;
+        // Time keeps running from when the exam was started
+        const elapsed = Math.floor((Date.now() - examStartTime) / 1000);
+        timeRemaining = Math.max(0, (2 * 60 * 60) - elapsed);
+    }
 
     // Save progress
     saveExamProgress();
@@ -164,13 +188,12 @@ function renderQuestion() {
     document.getElementById('questionText').textContent = q.question;
 
     const container = document.getElementById('optionsContainer');
-    const letters = ['A', 'B', 'C', 'D'];
 
     container.innerHTML = q.options.map((opt, i) => {
         const isSelected = answers[currentQuestion] === i;
         return `
             <div class="option ${isSelected ? 'selected' : ''}" onclick="selectOption(${i})">
-                <span class="option-letter">${letters[i]}</span>
+                <span class="option-letter">${String.fromCharCode(65 + i)}</span>
                 <span class="option-text">${opt}</span>
             </div>
         `;
@@ -416,7 +439,6 @@ function reviewExam() {
     if (!examResults) return;
 
     const content = document.getElementById('reviewContent');
-    const letters = ['A', 'B', 'C', 'D'];
 
     content.innerHTML = examResults.review.map((item, i) => {
         const optionsHtml = item.options.map((opt, j) => {
@@ -425,7 +447,7 @@ function reviewExam() {
             if (j === item.userAnswer && j !== item.correct) className += ' incorrect selected';
             if (j === item.userAnswer && j === item.correct) className += ' selected';
 
-            return `<div class="${className}">${letters[j]}. ${opt}</div>`;
+            return `<div class="${className}">${String.fromCharCode(65 + j)}. ${opt}</div>`;
         }).join('');
 
         return `
